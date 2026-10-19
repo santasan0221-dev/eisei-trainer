@@ -72,6 +72,16 @@
       "expertApproved": false,
       "allChoicesChecked": false,
       "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0057",
+      "sourceUrl": "https://jsite.mhlw.go.jp/miyagi-roudoukyoku/2/227.html",
+      "basis": "衛生委員会の設置（常時50人以上）",
+      "finding": "常時50人以上の事業場ごとに衛生委員会を設置する。業種によっては安全衛生委員会の形もある。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
     }
   ]
 }
