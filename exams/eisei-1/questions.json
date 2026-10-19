@@ -1,0 +1,3859 @@
+{
+  "examId": "eisei-1",
+  "version": 1,
+  "verified": false,
+  "questions": [
+    {
+      "id": "EISEI1-0001",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "衛生管理者の選任が原則として必要となる事業場の常時使用労働者数は？",
+      "choices": [
+        "10人以上",
+        "30人以上",
+        "50人以上",
+        "100人以上",
+        "300人以上"
+      ],
+      "answerIndex": 2,
+      "explanation": "常時50人以上。事業場単位で判断します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0002",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "衛生管理者を選任すべき事由が発生してから、何日以内に選任する？",
+      "choices": [
+        "7日",
+        "10日",
+        "14日",
+        "30日",
+        "60日"
+      ],
+      "answerIndex": 2,
+      "explanation": "14日以内に選任します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0003",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "衛生管理者が作業場等を巡視する頻度として正しいものは？",
+      "choices": [
+        "毎日",
+        "毎週1回以上",
+        "毎月1回以上",
+        "3か月に1回",
+        "年1回"
+      ],
+      "answerIndex": 1,
+      "explanation": "少なくとも毎週1回の巡視です。産業医の巡視頻度と混同しないこと。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0004",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "常時150人を使用する事業場で必要な衛生管理者の最低人数は？",
+      "choices": [
+        "1人",
+        "2人",
+        "3人",
+        "4人",
+        "5人"
+      ],
+      "answerIndex": 0,
+      "explanation": "50〜200人は1人以上。200人「超」で2人以上。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0005",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "常時350人を使用する事業場で必要な衛生管理者の最低人数は？",
+      "choices": [
+        "1人",
+        "2人",
+        "3人",
+        "4人",
+        "5人"
+      ],
+      "answerIndex": 1,
+      "explanation": "200人超〜500人以下は2人以上。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0006",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "常時750人を使用する事業場で必要な衛生管理者の最低人数は？",
+      "choices": [
+        "1人",
+        "2人",
+        "3人",
+        "4人",
+        "6人"
+      ],
+      "answerIndex": 2,
+      "explanation": "500人超〜1000人以下は3人以上。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0007",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "製造業の事業場で衛生管理者として選任できる免許は？",
+      "choices": [
+        "第二種衛生管理者免許のみ",
+        "第一種衛生管理者免許",
+        "防火管理者資格のみ",
+        "簿記2級",
+        "食品衛生責任者"
+      ],
+      "answerIndex": 1,
+      "explanation": "製造業には第一種（または衛生工学衛生管理者等の法定資格）が必要。第二種だけでは対象外です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0008",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "常時50人以上の労働者を使用する事業場に原則として選任が必要なのは？",
+      "choices": [
+        "衛生管理者と産業医",
+        "安全管理者のみ",
+        "衛生推進者のみ",
+        "作業主任者のみ",
+        "防火管理者のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "衛生管理者と産業医は業種を問わず原則50人以上。安全管理者は業種要件もあります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0009",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "衛生委員会を設ける原則的な規模は？",
+      "choices": [
+        "10人以上",
+        "30人以上",
+        "50人以上",
+        "100人以上",
+        "300人以上"
+      ],
+      "answerIndex": 2,
+      "explanation": "衛生委員会は業種を問わず常時50人以上で設置対象です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0010",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "衛生委員会の開催頻度として正しいものは？",
+      "choices": [
+        "毎週1回以上",
+        "毎月1回以上",
+        "3か月に1回以上",
+        "半年に1回以上",
+        "年1回以上"
+      ],
+      "answerIndex": 1,
+      "explanation": "衛生委員会は毎月1回以上開催します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0011",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "一般健康診断の定期健康診断は原則としてどの頻度？",
+      "choices": [
+        "6か月以内ごと",
+        "1年以内ごと",
+        "2年以内ごと",
+        "3年以内ごと",
+        "5年以内ごと"
+      ],
+      "answerIndex": 1,
+      "explanation": "一般の定期健康診断は原則1年以内ごとに1回。特定業務従事者は別の頻度があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0012",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "一般の雇入時健康診断について正しいものは？",
+      "choices": [
+        "原則として実施義務がない",
+        "常時使用する労働者を雇い入れる際に行う",
+        "入社3年後に行う",
+        "本人希望者だけ行う",
+        "50人以上の事業場のみ行う"
+      ],
+      "answerIndex": 1,
+      "explanation": "常時使用する労働者の雇入れ時に実施。省略できる条件には別途例外があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0013",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "定期健康診断の結果に基づく健康診断個人票の原則保存期間は？",
+      "choices": [
+        "1年",
+        "2年",
+        "3年",
+        "5年",
+        "10年"
+      ],
+      "answerIndex": 3,
+      "explanation": "一般健康診断個人票は原則5年間保存。特殊健康診断は別の保存期間に注意。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0014",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "法定のストレスチェックを原則実施する必要がある事業場規模（従来の基準）は？",
+      "choices": [
+        "10人以上",
+        "30人以上",
+        "50人以上",
+        "100人以上",
+        "300人以上"
+      ],
+      "answerIndex": 2,
+      "explanation": "従来は常時50人以上。2025年改正で50人未満にも義務を拡大する法律が成立しており、施行時点は最新法令を確認してください。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0015",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "年次有給休暇の付与要件に関する正しい説明は？",
+      "choices": [
+        "出勤率6割以上",
+        "継続勤務6か月＋全労働日の8割以上出勤",
+        "勤続3年のみ",
+        "正社員だけ対象",
+        "会社が自由に付与しないと決められる"
+      ],
+      "answerIndex": 1,
+      "explanation": "原則、6か月継続勤務・8割以上出勤で法定の有休が発生。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0016",
+      "category": "関係法令（一般）",
+      "topic": null,
+      "question": "法定労働時間の原則は？",
+      "choices": [
+        "1日7時間・週35時間",
+        "1日8時間・週40時間",
+        "1日9時間・週45時間",
+        "1日10時間・週50時間",
+        "1日12時間・週48時間"
+      ],
+      "answerIndex": 1,
+      "explanation": "原則1日8時間・週40時間。特例事業場や変形労働時間制の例外あり。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0017",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "労働衛生の「3管理」に含まれないものは？",
+      "choices": [
+        "作業環境管理",
+        "作業管理",
+        "健康管理",
+        "販売管理",
+        "いずれも含まれる"
+      ],
+      "answerIndex": 3,
+      "explanation": "3管理＝作業環境管理・作業管理・健康管理。さらに総括管理・労働衛生教育を加えて5管理。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0018",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "作業環境管理に該当するものは？",
+      "choices": [
+        "作業姿勢の改善",
+        "局所排気装置の設置",
+        "健康診断の受診",
+        "休憩時間の調整",
+        "保健指導"
+      ],
+      "answerIndex": 1,
+      "explanation": "局所排気は作業環境管理。作業姿勢・作業方法は作業管理です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0019",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "VDT作業などの情報機器作業に対する対策で適切なのは？",
+      "choices": [
+        "画面を常に最も明るくする",
+        "連続した長時間の同一姿勢を避ける",
+        "休憩を禁止する",
+        "照明を完全に消す",
+        "椅子の高さを固定し調整させない"
+      ],
+      "answerIndex": 1,
+      "explanation": "作業姿勢・照明・休止時間などを適切に調整します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0020",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "熱中症の予防として最も適切なのは？",
+      "choices": [
+        "喉が渇いてから水分摂取",
+        "暑熱順化・水分塩分補給・休憩",
+        "厚着して発汗を増やす",
+        "単独作業を推奨",
+        "体調不良でも運動を続ける"
+      ],
+      "answerIndex": 1,
+      "explanation": "WBGTによる暑熱リスク評価、暑熱順化、休憩、水分・塩分補給が重要。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0021",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "WBGT（暑さ指数）が評価する主な対象は？",
+      "choices": [
+        "騒音の強さ",
+        "暑熱環境の負担",
+        "照度のみ",
+        "粉じん濃度",
+        "電離放射線量"
+      ],
+      "answerIndex": 1,
+      "explanation": "気温だけでなく湿度・周囲の熱環境等を反映する暑熱指標です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0022",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "一次予防に該当するのは？",
+      "choices": [
+        "リハビリテーション",
+        "病気の早期発見",
+        "疾病の発生予防",
+        "復職訓練のみ",
+        "治療開始"
+      ],
+      "answerIndex": 2,
+      "explanation": "一次予防＝発生予防、二次予防＝早期発見・早期治療、三次予防＝再発防止・社会復帰。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0023",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "健康診断で有所見者が出た場合に事業者が行う適切な対応は？",
+      "choices": [
+        "必ず直ちに解雇",
+        "医師等の意見を聴き必要な就業上の措置を検討",
+        "結果を掲示板に公開",
+        "何もしなくてよい",
+        "全員を配置転換"
+      ],
+      "answerIndex": 1,
+      "explanation": "医師等の意見聴取と必要な就業上の措置が重要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0024",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "メンタルヘルスの4つのケアに含まれないものは？",
+      "choices": [
+        "セルフケア",
+        "ラインによるケア",
+        "事業場内産業保健スタッフ等によるケア",
+        "事業場外資源によるケア",
+        "顧客によるケア"
+      ],
+      "answerIndex": 4,
+      "explanation": "4つのケアを名称で覚えます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0025",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "食中毒の予防として基本となる考え方は？",
+      "choices": [
+        "細菌を付けない・増やさない・やっつける",
+        "香辛料だけで防ぐ",
+        "一度冷凍すれば絶対安全",
+        "匂いだけで判定",
+        "常温放置する"
+      ],
+      "answerIndex": 0,
+      "explanation": "食中毒予防の3原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0026",
+      "category": "労働衛生（一般）",
+      "topic": null,
+      "question": "事務所の換気・空気環境対策として適切なのは？",
+      "choices": [
+        "換気を止める",
+        "CO₂濃度などを指標に換気状況を確認する",
+        "窓を開けない",
+        "臭いがなければ換気不要",
+        "人が多いほど換気量を減らす"
+      ],
+      "answerIndex": 1,
+      "explanation": "CO₂濃度は換気状態の目安になります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0027",
+      "category": "労働生理",
+      "topic": null,
+      "question": "血液のうち酸素運搬の中心的役割を持つものは？",
+      "choices": [
+        "白血球",
+        "赤血球",
+        "血小板",
+        "血漿タンパクのみ",
+        "リンパ球"
+      ],
+      "answerIndex": 1,
+      "explanation": "赤血球中のヘモグロビンが酸素を運びます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0028",
+      "category": "労働生理",
+      "topic": null,
+      "question": "血液凝固に特に重要な働きをするものは？",
+      "choices": [
+        "赤血球",
+        "血小板",
+        "好酸球",
+        "ヘモグロビン",
+        "胆汁"
+      ],
+      "answerIndex": 1,
+      "explanation": "血小板は止血・凝固に重要。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0029",
+      "category": "労働生理",
+      "topic": null,
+      "question": "細菌や異物に対する防御に主に関係するものは？",
+      "choices": [
+        "白血球",
+        "赤血球",
+        "血小板",
+        "アルブミンだけ",
+        "ブドウ糖"
+      ],
+      "answerIndex": 0,
+      "explanation": "白血球は生体防御に関わります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0030",
+      "category": "労働生理",
+      "topic": null,
+      "question": "心臓の左心室から送り出された血液が流れ込むのは？",
+      "choices": [
+        "肺動脈",
+        "大動脈",
+        "肺静脈",
+        "大静脈",
+        "門脈"
+      ],
+      "answerIndex": 1,
+      "explanation": "左心室→大動脈→全身。右心室→肺動脈→肺。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0031",
+      "category": "労働生理",
+      "topic": null,
+      "question": "肺胞で血液中に取り込まれる主な気体は？",
+      "choices": [
+        "窒素",
+        "酸素",
+        "二酸化炭素",
+        "一酸化炭素",
+        "水素"
+      ],
+      "answerIndex": 1,
+      "explanation": "肺胞で酸素が血液へ、二酸化炭素が呼気側へ移動します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0032",
+      "category": "労働生理",
+      "topic": null,
+      "question": "胆汁をつくる臓器は？",
+      "choices": [
+        "腎臓",
+        "肝臓",
+        "胃",
+        "膵臓",
+        "脾臓"
+      ],
+      "answerIndex": 1,
+      "explanation": "肝臓で生成、胆のうで濃縮・貯蔵。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0033",
+      "category": "労働生理",
+      "topic": null,
+      "question": "インスリンを分泌する臓器は？",
+      "choices": [
+        "肝臓",
+        "甲状腺",
+        "膵臓",
+        "副腎髄質",
+        "腎臓"
+      ],
+      "answerIndex": 2,
+      "explanation": "膵臓のランゲルハンス島β細胞から分泌され、血糖を下げます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0034",
+      "category": "労働生理",
+      "topic": null,
+      "question": "腎臓の主な役割は？",
+      "choices": [
+        "胆汁を生成",
+        "血液をろ過し尿をつくる",
+        "酸素を運搬",
+        "胃酸を分泌",
+        "血小板を生成"
+      ],
+      "answerIndex": 1,
+      "explanation": "腎臓はろ過・再吸収等を通じて体液環境を調節します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0035",
+      "category": "労働生理",
+      "topic": null,
+      "question": "交感神経が優位になったとき一般に起こるのは？",
+      "choices": [
+        "心拍数が増加",
+        "心拍数が必ずゼロになる",
+        "瞳孔が縮小するだけ",
+        "活動性が低下するだけ",
+        "発汗が必ず停止"
+      ],
+      "answerIndex": 0,
+      "explanation": "交感神経優位では心拍増加・瞳孔散大など。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0036",
+      "category": "労働生理",
+      "topic": null,
+      "question": "筋肉の収縮に直接使われるエネルギー物質は？",
+      "choices": [
+        "ATP",
+        "DNA",
+        "尿素",
+        "胆汁",
+        "ヘモグロビン"
+      ],
+      "answerIndex": 0,
+      "explanation": "ATPは筋収縮などに使われる直接的なエネルギー源。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0037",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "局所排気装置の基本的な目的は？",
+      "choices": [
+        "有害物を作業者の呼吸域へ送る",
+        "有害物を発散源近くで捕集する",
+        "空調温度のみ下げる",
+        "騒音を必ずゼロにする",
+        "休憩時間を減らす"
+      ],
+      "answerIndex": 1,
+      "explanation": "有害物質が拡散する前に発散源近くで捕集します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0038",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "有機溶剤業務で取り扱う物質の危険有害性を把握するために確認するのは？",
+      "choices": [
+        "SDS（安全データシート）",
+        "給与明細",
+        "出勤簿だけ",
+        "有給申請書",
+        "納品書の色"
+      ],
+      "answerIndex": 0,
+      "explanation": "SDSで危険有害性・応急措置・取扱い上の注意などを確認します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0039",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "化学物質のリスクアセスメントにおいて基本となるのは？",
+      "choices": [
+        "危険有害性を特定してばく露の程度等を評価する",
+        "製品名だけで安全と断定",
+        "全物質を無条件に禁止",
+        "本人の感覚だけで評価",
+        "表示がないものは無害"
+      ],
+      "answerIndex": 0,
+      "explanation": "危険有害性とばく露を評価し、適切なリスク低減措置を行います。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0040",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "呼吸用保護具について適切なのは？",
+      "choices": [
+        "すべての有害ガスに防じんマスクが有効",
+        "対象物質に合う種類を選び適切に装着する",
+        "フィット確認は不要",
+        "破損しても使用する",
+        "使い捨て品を無期限に使用"
+      ],
+      "answerIndex": 1,
+      "explanation": "防じん・防毒等は用途が異なります。適切な選定と密着性確認が大切。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0041",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "酸素欠乏危険場所で重要な対策は？",
+      "choices": [
+        "酸素濃度測定や換気などの措置",
+        "臭いがなければ安全",
+        "火気で酸素量を確認",
+        "単独で無確認入場",
+        "市販防じんマスクだけで対応"
+      ],
+      "answerIndex": 0,
+      "explanation": "酸欠は臭いで判断できません。測定・換気・必要な保護具等を実施します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0042",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "作業環境測定を行う目的として適切なのは？",
+      "choices": [
+        "賃金を決めるためだけ",
+        "作業場の有害因子の状態を把握・評価する",
+        "出勤率を調べる",
+        "従業員の年齢確認",
+        "個人評価"
+      ],
+      "answerIndex": 1,
+      "explanation": "作業環境中の有害因子の状態を測定して改善につなげます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0043",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "粉じん障害の防止に有効な対策は？",
+      "choices": [
+        "発じん抑制と局所排気・適切な呼吸用保護具",
+        "掃き掃除だけで必ず解決",
+        "乾いた粉じんを吹き飛ばす",
+        "マスクを全員で共用",
+        "防護措置を撤廃"
+      ],
+      "answerIndex": 0,
+      "explanation": "発生源対策・換気・保護具等の組み合わせで対処します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0044",
+      "category": "関係法令（有害）",
+      "topic": null,
+      "question": "有害業務における管理で特に重要な優先順位は？",
+      "choices": [
+        "まず保護具だけに頼る",
+        "可能な限り発生源対策や工学的対策を優先する",
+        "危険表示を隠す",
+        "健康診断だけで十分",
+        "教育を省略する"
+      ],
+      "answerIndex": 1,
+      "explanation": "リスク低減は代替・密閉・局所排気等の工学的対策を重視。保護具は最後の防壁です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0045",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "一酸化炭素中毒で主に問題となる作用は？",
+      "choices": [
+        "ヘモグロビンに強く結合して酸素運搬を妨げる",
+        "カルシウムを増加させる",
+        "胆汁分泌を増やす",
+        "紫外線を吸収する",
+        "聴力だけを改善"
+      ],
+      "answerIndex": 0,
+      "explanation": "COはヘモグロビンと結合し組織の酸素不足を引き起こします。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0046",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "騒音性難聴の特徴として適切なのは？",
+      "choices": [
+        "通常必ず完全回復する",
+        "内耳の障害が関わり、予防が重要",
+        "視力だけが低下する",
+        "低音しか聞こえないと必ず決まる",
+        "睡眠によって必ず治る"
+      ],
+      "answerIndex": 1,
+      "explanation": "大きな騒音への長期ばく露が難聴リスク。騒音低減や聴覚保護が重要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0047",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "振動工具の長期使用で問題となる障害は？",
+      "choices": [
+        "振動障害（手指の循環・神経障害など）",
+        "白内障のみ",
+        "虫歯のみ",
+        "肺炎のみ",
+        "急性胃腸炎のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "手腕振動は末梢循環・神経・運動器障害などに関係します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0048",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "じん肺の主な原因は？",
+      "choices": [
+        "粉じんを長期間吸入すること",
+        "飲水量が多いこと",
+        "画面を見続けること",
+        "日光浴",
+        "普通の会話"
+      ],
+      "answerIndex": 0,
+      "explanation": "鉱物性粉じん等の長期吸入による肺の線維化が問題です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0049",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "鉛による健康障害として関係するものは？",
+      "choices": [
+        "造血系・神経系などの障害",
+        "骨折だけ",
+        "花粉症だけ",
+        "近視だけ",
+        "虫歯だけ"
+      ],
+      "answerIndex": 0,
+      "explanation": "鉛は造血系・神経系・腎臓等に影響します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0050",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "有機溶剤にばく露した際の健康影響として適切なのは？",
+      "choices": [
+        "中枢神経系への影響などがあり得る",
+        "すべての有機溶剤は完全に無害",
+        "必ず感染症になる",
+        "骨がすぐ伸びる",
+        "聴力が必ず改善"
+      ],
+      "answerIndex": 0,
+      "explanation": "有機溶剤の種類・濃度・期間により神経系や肝腎機能などに影響があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0051",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "電離放射線による健康影響のリスク管理で基本となるものは？",
+      "choices": [
+        "被ばくを必要な限度に抑える",
+        "被ばく量を増やす",
+        "線量管理をしない",
+        "防護を外す",
+        "照度のみ測る"
+      ],
+      "answerIndex": 0,
+      "explanation": "時間・距離・遮へいなどを活用して被ばくを低減します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0052",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "高温環境下で熱中症が疑われ、意識がはっきりしない人への対応は？",
+      "choices": [
+        "救急要請し、涼しい場所への移動・冷却などを行う",
+        "無理に大量の水を飲ませる",
+        "そのまま働かせる",
+        "厚着させる",
+        "一人にして観察する"
+      ],
+      "answerIndex": 0,
+      "explanation": "意識障害は緊急対応。誤嚥のおそれがあるため無理に飲ませません。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0053",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "有害物質のばく露経路として代表的なものは？",
+      "choices": [
+        "吸入・皮膚吸収・経口",
+        "視線だけ",
+        "音だけ",
+        "疲労だけ",
+        "睡眠だけ"
+      ],
+      "answerIndex": 0,
+      "explanation": "吸入、経皮、経口のばく露経路を理解して適切な対策を選びます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0054",
+      "category": "労働衛生（有害）",
+      "topic": null,
+      "question": "化学物質による健康障害を防ぐための対策として不適切なのは？",
+      "choices": [
+        "換気をする",
+        "SDSを確認する",
+        "危険性に応じた保護具を使う",
+        "容器のラベルを外して中身を不明にする",
+        "取扱者へ教育する"
+      ],
+      "answerIndex": 3,
+      "explanation": "ラベル・SDSによる情報伝達は基本。容器の中身を不明にしてはいけません。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0055",
+      "category": "関係法令（一般）",
+      "topic": "衛生管理者を選任する単位",
+      "question": "次のテーマについて正しいものを選べ：「衛生管理者を選任する単位」",
+      "choices": [
+        "事業場ごと",
+        "企業グループごと",
+        "法人ごと",
+        "部門ごと",
+        "都道府県ごと"
+      ],
+      "answerIndex": 0,
+      "explanation": "労働者数は原則として事業場単位で判断します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0056",
+      "category": "関係法令（一般）",
+      "topic": "衛生管理者を選任する単位",
+      "question": "確認問題：衛生管理者を選任する単位として最も適切なのはどれか。",
+      "choices": [
+        "企業グループごと",
+        "法人ごと",
+        "事業場ごと",
+        "部門ごと",
+        "都道府県ごと"
+      ],
+      "answerIndex": 2,
+      "explanation": "労働者数は原則として事業場単位で判断します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0057",
+      "category": "関係法令（一般）",
+      "topic": "常時使用労働者数が50人以上となった事業場で必要な委員会",
+      "question": "次のテーマについて正しいものを選べ：「常時使用労働者数が50人以上となった事業場で必要な委員会」",
+      "choices": [
+        "衛生委員会",
+        "安全委員会のみ",
+        "労使協議会のみ",
+        "防災委員会のみ",
+        "品質委員会のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "衛生委員会は業種を問わず常時50人以上の事業場で必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0058",
+      "category": "関係法令（一般）",
+      "topic": "常時使用労働者数が50人以上となった事業場で必要な委員会",
+      "question": "確認問題：常時使用労働者数が50人以上となった事業場で必要な委員会として最も適切なのはどれか。",
+      "choices": [
+        "安全委員会のみ",
+        "労使協議会のみ",
+        "衛生委員会",
+        "防災委員会のみ",
+        "品質委員会のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "衛生委員会は業種を問わず常時50人以上の事業場で必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0059",
+      "category": "関係法令（一般）",
+      "topic": "衛生委員会の議事の概要を労働者に周知する時期",
+      "question": "次のテーマについて正しいものを選べ：「衛生委員会の議事の概要を労働者に周知する時期」",
+      "choices": [
+        "会議開催の都度、遅滞なく",
+        "年末のみ",
+        "3年ごと",
+        "監督署から指示されたときのみ",
+        "周知義務はない"
+      ],
+      "answerIndex": 0,
+      "explanation": "議事の概要は開催の都度、遅滞なく周知する必要があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0060",
+      "category": "関係法令（一般）",
+      "topic": "衛生委員会の議事の概要を労働者に周知する時期",
+      "question": "確認問題：衛生委員会の議事の概要を労働者に周知する時期として最も適切なのはどれか。",
+      "choices": [
+        "年末のみ",
+        "3年ごと",
+        "会議開催の都度、遅滞なく",
+        "監督署から指示されたときのみ",
+        "周知義務はない"
+      ],
+      "answerIndex": 2,
+      "explanation": "議事の概要は開催の都度、遅滞なく周知する必要があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0061",
+      "category": "関係法令（一般）",
+      "topic": "衛生委員会の議事の記録の保存期間",
+      "question": "次のテーマについて正しいものを選べ：「衛生委員会の議事の記録の保存期間」",
+      "choices": [
+        "3年間",
+        "1年間",
+        "2年間",
+        "5年間",
+        "10年間"
+      ],
+      "answerIndex": 0,
+      "explanation": "委員会の議事の記録は3年間保存します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0062",
+      "category": "関係法令（一般）",
+      "topic": "衛生委員会の議事の記録の保存期間",
+      "question": "確認問題：衛生委員会の議事の記録の保存期間として最も適切なのはどれか。",
+      "choices": [
+        "1年間",
+        "2年間",
+        "3年間",
+        "5年間",
+        "10年間"
+      ],
+      "answerIndex": 2,
+      "explanation": "委員会の議事の記録は3年間保存します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0063",
+      "category": "関係法令（一般）",
+      "topic": "事業場の産業医選任の原則的な人数基準",
+      "question": "次のテーマについて正しいものを選べ：「事業場の産業医選任の原則的な人数基準」",
+      "choices": [
+        "常時50人以上",
+        "常時10人以上",
+        "常時20人以上",
+        "常時30人以上",
+        "常時300人以上"
+      ],
+      "answerIndex": 0,
+      "explanation": "原則として常時50人以上の事業場で産業医を選任します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0064",
+      "category": "関係法令（一般）",
+      "topic": "事業場の産業医選任の原則的な人数基準",
+      "question": "確認問題：事業場の産業医選任の原則的な人数基準として最も適切なのはどれか。",
+      "choices": [
+        "常時10人以上",
+        "常時20人以上",
+        "常時50人以上",
+        "常時30人以上",
+        "常時300人以上"
+      ],
+      "answerIndex": 2,
+      "explanation": "原則として常時50人以上の事業場で産業医を選任します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0065",
+      "category": "関係法令（一般）",
+      "topic": "健康診断の結果、異常所見がある労働者に対する医師等の意見聴取",
+      "question": "次のテーマについて正しいものを選べ：「健康診断の結果、異常所見がある労働者に対する医師等の意見聴取」",
+      "choices": [
+        "健康診断実施後3か月以内",
+        "実施後1週間以内",
+        "実施後6か月以内",
+        "実施後1年以内",
+        "意見聴取は不要"
+      ],
+      "answerIndex": 0,
+      "explanation": "原則として健診実施日から3か月以内に医師等の意見を聴きます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0066",
+      "category": "関係法令（一般）",
+      "topic": "健康診断の結果、異常所見がある労働者に対する医師等の意見聴取",
+      "question": "確認問題：健康診断の結果、異常所見がある労働者に対する医師等の意見聴取として最も適切なのはどれか。",
+      "choices": [
+        "実施後1週間以内",
+        "実施後6か月以内",
+        "健康診断実施後3か月以内",
+        "実施後1年以内",
+        "意見聴取は不要"
+      ],
+      "answerIndex": 2,
+      "explanation": "原則として健診実施日から3か月以内に医師等の意見を聴きます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0067",
+      "category": "関係法令（一般）",
+      "topic": "衛生管理者を選任したときの報告先",
+      "question": "次のテーマについて正しいものを選べ：「衛生管理者を選任したときの報告先」",
+      "choices": [
+        "所轄労働基準監督署長",
+        "市区町村長",
+        "都道府県知事",
+        "税務署長",
+        "消防署長"
+      ],
+      "answerIndex": 0,
+      "explanation": "選任時には所定の選任報告を行います。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0068",
+      "category": "関係法令（一般）",
+      "topic": "衛生管理者を選任したときの報告先",
+      "question": "確認問題：衛生管理者を選任したときの報告先として最も適切なのはどれか。",
+      "choices": [
+        "市区町村長",
+        "都道府県知事",
+        "所轄労働基準監督署長",
+        "税務署長",
+        "消防署長"
+      ],
+      "answerIndex": 2,
+      "explanation": "選任時には所定の選任報告を行います。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0069",
+      "category": "関係法令（一般）",
+      "topic": "労働時間が6時間を超え8時間以下の場合の最低休憩時間",
+      "question": "次のテーマについて正しいものを選べ：「労働時間が6時間を超え8時間以下の場合の最低休憩時間」",
+      "choices": [
+        "45分",
+        "15分",
+        "30分",
+        "60分",
+        "90分"
+      ],
+      "answerIndex": 0,
+      "explanation": "6時間超で45分以上、8時間超で60分以上が原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0070",
+      "category": "関係法令（一般）",
+      "topic": "労働時間が6時間を超え8時間以下の場合の最低休憩時間",
+      "question": "確認問題：労働時間が6時間を超え8時間以下の場合の最低休憩時間として最も適切なのはどれか。",
+      "choices": [
+        "15分",
+        "30分",
+        "45分",
+        "60分",
+        "90分"
+      ],
+      "answerIndex": 2,
+      "explanation": "6時間超で45分以上、8時間超で60分以上が原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0071",
+      "category": "関係法令（一般）",
+      "topic": "労働時間が8時間を超える場合の最低休憩時間",
+      "question": "次のテーマについて正しいものを選べ：「労働時間が8時間を超える場合の最低休憩時間」",
+      "choices": [
+        "60分",
+        "15分",
+        "30分",
+        "45分",
+        "90分"
+      ],
+      "answerIndex": 0,
+      "explanation": "労働基準法34条の原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0072",
+      "category": "関係法令（一般）",
+      "topic": "労働時間が8時間を超える場合の最低休憩時間",
+      "question": "確認問題：労働時間が8時間を超える場合の最低休憩時間として最も適切なのはどれか。",
+      "choices": [
+        "15分",
+        "30分",
+        "60分",
+        "45分",
+        "90分"
+      ],
+      "answerIndex": 2,
+      "explanation": "労働基準法34条の原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0073",
+      "category": "関係法令（一般）",
+      "topic": "法定労働時間の原則（1日）",
+      "question": "次のテーマについて正しいものを選べ：「法定労働時間の原則（1日）」",
+      "choices": [
+        "8時間",
+        "6時間",
+        "7時間",
+        "9時間",
+        "10時間"
+      ],
+      "answerIndex": 0,
+      "explanation": "1日8時間、1週40時間が原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0074",
+      "category": "関係法令（一般）",
+      "topic": "法定労働時間の原則（1日）",
+      "question": "確認問題：法定労働時間の原則（1日）として最も適切なのはどれか。",
+      "choices": [
+        "6時間",
+        "7時間",
+        "8時間",
+        "9時間",
+        "10時間"
+      ],
+      "answerIndex": 2,
+      "explanation": "1日8時間、1週40時間が原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0075",
+      "category": "関係法令（一般）",
+      "topic": "法定労働時間の原則（1週）",
+      "question": "次のテーマについて正しいものを選べ：「法定労働時間の原則（1週）」",
+      "choices": [
+        "40時間",
+        "35時間",
+        "38時間",
+        "44時間",
+        "48時間"
+      ],
+      "answerIndex": 0,
+      "explanation": "一部特例事業を除き1週間40時間です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0076",
+      "category": "関係法令（一般）",
+      "topic": "法定労働時間の原則（1週）",
+      "question": "確認問題：法定労働時間の原則（1週）として最も適切なのはどれか。",
+      "choices": [
+        "35時間",
+        "38時間",
+        "40時間",
+        "44時間",
+        "48時間"
+      ],
+      "answerIndex": 2,
+      "explanation": "一部特例事業を除き1週間40時間です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0077",
+      "category": "関係法令（一般）",
+      "topic": "6か月継続勤務し全労働日の8割以上出勤した一般労働者の初年度年休",
+      "question": "次のテーマについて正しいものを選べ：「6か月継続勤務し全労働日の8割以上出勤した一般労働者の初年度年休」",
+      "choices": [
+        "10日",
+        "5日",
+        "7日",
+        "8日",
+        "12日"
+      ],
+      "answerIndex": 0,
+      "explanation": "年休は原則6か月・8割出勤で10日から付与します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0078",
+      "category": "関係法令（一般）",
+      "topic": "6か月継続勤務し全労働日の8割以上出勤した一般労働者の初年度年休",
+      "question": "確認問題：6か月継続勤務し全労働日の8割以上出勤した一般労働者の初年度年休として最も適切なのはどれか。",
+      "choices": [
+        "5日",
+        "7日",
+        "10日",
+        "8日",
+        "12日"
+      ],
+      "answerIndex": 2,
+      "explanation": "年休は原則6か月・8割出勤で10日から付与します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0079",
+      "category": "関係法令（一般）",
+      "topic": "年休が10日以上付与される労働者に対する使用者の年5日の取得義務",
+      "question": "次のテーマについて正しいものを選べ：「年休が10日以上付与される労働者に対する使用者の年5日の取得義務」",
+      "choices": [
+        "原則として付与日から1年以内",
+        "2年以内",
+        "3年以内",
+        "義務なし",
+        "毎月5日"
+      ],
+      "answerIndex": 0,
+      "explanation": "使用者は原則年5日について時季指定などにより取得させる必要があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0080",
+      "category": "関係法令（一般）",
+      "topic": "年休が10日以上付与される労働者に対する使用者の年5日の取得義務",
+      "question": "確認問題：年休が10日以上付与される労働者に対する使用者の年5日の取得義務として最も適切なのはどれか。",
+      "choices": [
+        "2年以内",
+        "3年以内",
+        "原則として付与日から1年以内",
+        "義務なし",
+        "毎月5日"
+      ],
+      "answerIndex": 2,
+      "explanation": "使用者は原則年5日について時季指定などにより取得させる必要があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0081",
+      "category": "関係法令（一般）",
+      "topic": "雇入時の健康診断の基本的な対象",
+      "question": "次のテーマについて正しいものを選べ：「雇入時の健康診断の基本的な対象」",
+      "choices": [
+        "常時使用する労働者",
+        "役員のみ",
+        "派遣先の管理者のみ",
+        "希望者のみ",
+        "満50歳以上のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "常時使用する労働者を雇い入れる際に行うのが原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0082",
+      "category": "関係法令（一般）",
+      "topic": "雇入時の健康診断の基本的な対象",
+      "question": "確認問題：雇入時の健康診断の基本的な対象として最も適切なのはどれか。",
+      "choices": [
+        "役員のみ",
+        "派遣先の管理者のみ",
+        "常時使用する労働者",
+        "希望者のみ",
+        "満50歳以上のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "常時使用する労働者を雇い入れる際に行うのが原則です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0083",
+      "category": "関係法令（一般）",
+      "topic": "衛生推進者の選任が必要な規模の原則",
+      "question": "次のテーマについて正しいものを選べ：「衛生推進者の選任が必要な規模の原則」",
+      "choices": [
+        "常時10人以上50人未満",
+        "5人未満",
+        "50人以上100人未満",
+        "100人以上",
+        "500人以上"
+      ],
+      "answerIndex": 0,
+      "explanation": "対象業種で常時10人以上50人未満の場合、衛生推進者等の選任が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0084",
+      "category": "関係法令（一般）",
+      "topic": "衛生推進者の選任が必要な規模の原則",
+      "question": "確認問題：衛生推進者の選任が必要な規模の原則として最も適切なのはどれか。",
+      "choices": [
+        "5人未満",
+        "50人以上100人未満",
+        "常時10人以上50人未満",
+        "100人以上",
+        "500人以上"
+      ],
+      "answerIndex": 2,
+      "explanation": "対象業種で常時10人以上50人未満の場合、衛生推進者等の選任が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0085",
+      "category": "関係法令（一般）",
+      "topic": "ストレスチェックで事業者が本人の同意なく取得できないもの",
+      "question": "次のテーマについて正しいものを選べ：「ストレスチェックで事業者が本人の同意なく取得できないもの」",
+      "choices": [
+        "個人の検査結果",
+        "実施者の所属部署",
+        "事業場の所在地",
+        "事業場の従業員数",
+        "年間の実施計画"
+      ],
+      "answerIndex": 0,
+      "explanation": "個人のストレスチェック結果は本人の同意なく事業者に提供できません。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0086",
+      "category": "関係法令（一般）",
+      "topic": "ストレスチェックで事業者が本人の同意なく取得できないもの",
+      "question": "確認問題：ストレスチェックで事業者が本人の同意なく取得できないものとして最も適切なのはどれか。",
+      "choices": [
+        "実施者の所属部署",
+        "事業場の所在地",
+        "個人の検査結果",
+        "事業場の従業員数",
+        "年間の実施計画"
+      ],
+      "answerIndex": 2,
+      "explanation": "個人のストレスチェック結果は本人の同意なく事業者に提供できません。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0087",
+      "category": "関係法令（有害）",
+      "topic": "粉じん作業の一部で必要な特殊健康診断",
+      "question": "次のテーマについて正しいものを選べ：「粉じん作業の一部で必要な特殊健康診断」",
+      "choices": [
+        "じん肺健康診断",
+        "雇入時のみの一般健診",
+        "歯科健診のみ",
+        "視力検査のみ",
+        "任意の体力測定"
+      ],
+      "answerIndex": 0,
+      "explanation": "粉じん作業従事者等にはじん肺法に基づく健康診断があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0088",
+      "category": "関係法令（有害）",
+      "topic": "粉じん作業の一部で必要な特殊健康診断",
+      "question": "確認問題：粉じん作業の一部で必要な特殊健康診断として最も適切なのはどれか。",
+      "choices": [
+        "雇入時のみの一般健診",
+        "歯科健診のみ",
+        "じん肺健康診断",
+        "視力検査のみ",
+        "任意の体力測定"
+      ],
+      "answerIndex": 2,
+      "explanation": "粉じん作業従事者等にはじん肺法に基づく健康診断があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0089",
+      "category": "関係法令（有害）",
+      "topic": "化学物質の安全データシートの略称",
+      "question": "次のテーマについて正しいものを選べ：「化学物質の安全データシートの略称」",
+      "choices": [
+        "SDS",
+        "GPS",
+        "GDP",
+        "CSR",
+        "SNS"
+      ],
+      "answerIndex": 0,
+      "explanation": "SDSはSafety Data Sheetで危険有害性や取扱い上の注意を示します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0090",
+      "category": "関係法令（有害）",
+      "topic": "化学物質の安全データシートの略称",
+      "question": "確認問題：化学物質の安全データシートの略称として最も適切なのはどれか。",
+      "choices": [
+        "GPS",
+        "GDP",
+        "SDS",
+        "CSR",
+        "SNS"
+      ],
+      "answerIndex": 2,
+      "explanation": "SDSはSafety Data Sheetで危険有害性や取扱い上の注意を示します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0091",
+      "category": "関係法令（有害）",
+      "topic": "有害な化学物質のリスクアセスメントで基本となる考え方",
+      "question": "次のテーマについて正しいものを選べ：「有害な化学物質のリスクアセスメントで基本となる考え方」",
+      "choices": [
+        "危険有害性とばく露を評価する",
+        "価格だけを調べる",
+        "臭いの有無だけで安全判定",
+        "作業者の慣れで評価する",
+        "保護具を選ぶ前に評価を省略する"
+      ],
+      "answerIndex": 0,
+      "explanation": "危険有害性とばく露の程度からリスクを見積もります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0092",
+      "category": "関係法令（有害）",
+      "topic": "有害な化学物質のリスクアセスメントで基本となる考え方",
+      "question": "確認問題：有害な化学物質のリスクアセスメントで基本となる考え方として最も適切なのはどれか。",
+      "choices": [
+        "価格だけを調べる",
+        "臭いの有無だけで安全判定",
+        "危険有害性とばく露を評価する",
+        "作業者の慣れで評価する",
+        "保護具を選ぶ前に評価を省略する"
+      ],
+      "answerIndex": 2,
+      "explanation": "危険有害性とばく露の程度からリスクを見積もります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0093",
+      "category": "関係法令（有害）",
+      "topic": "労働者が化学物質にばく露するのを減らすうえで優先する対策",
+      "question": "次のテーマについて正しいものを選べ：「労働者が化学物質にばく露するのを減らすうえで優先する対策」",
+      "choices": [
+        "代替・密閉化・局所排気などの工学的対策",
+        "個人の我慢",
+        "臭いを隠す",
+        "注意書きを撤去",
+        "換気設備を停止"
+      ],
+      "answerIndex": 0,
+      "explanation": "危険源除去・代替や工学的対策を優先し、保護具は必要に応じ併用します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0094",
+      "category": "関係法令（有害）",
+      "topic": "労働者が化学物質にばく露するのを減らすうえで優先する対策",
+      "question": "確認問題：労働者が化学物質にばく露するのを減らすうえで優先する対策として最も適切なのはどれか。",
+      "choices": [
+        "個人の我慢",
+        "臭いを隠す",
+        "代替・密閉化・局所排気などの工学的対策",
+        "注意書きを撤去",
+        "換気設備を停止"
+      ],
+      "answerIndex": 2,
+      "explanation": "危険源除去・代替や工学的対策を優先し、保護具は必要に応じ併用します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0095",
+      "category": "関係法令（有害）",
+      "topic": "有機溶剤等の蒸気の吸入防止に使う呼吸用保護具の例",
+      "question": "次のテーマについて正しいものを選べ：「有機溶剤等の蒸気の吸入防止に使う呼吸用保護具の例」",
+      "choices": [
+        "適切な吸収缶付き防毒マスク",
+        "綿製マスクのみ",
+        "耳栓",
+        "保護帽のみ",
+        "防じんマスクなら全蒸気に万能"
+      ],
+      "answerIndex": 0,
+      "explanation": "対象ガス・蒸気に適合した吸収缶を選びます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0096",
+      "category": "関係法令（有害）",
+      "topic": "有機溶剤等の蒸気の吸入防止に使う呼吸用保護具の例",
+      "question": "確認問題：有機溶剤等の蒸気の吸入防止に使う呼吸用保護具の例として最も適切なのはどれか。",
+      "choices": [
+        "綿製マスクのみ",
+        "耳栓",
+        "適切な吸収缶付き防毒マスク",
+        "保護帽のみ",
+        "防じんマスクなら全蒸気に万能"
+      ],
+      "answerIndex": 2,
+      "explanation": "対象ガス・蒸気に適合した吸収缶を選びます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0097",
+      "category": "関係法令（有害）",
+      "topic": "粉じんの吸入防止に用いる保護具の例",
+      "question": "次のテーマについて正しいものを選べ：「粉じんの吸入防止に用いる保護具の例」",
+      "choices": [
+        "適切な防じんマスク",
+        "耳栓",
+        "遮光眼鏡のみ",
+        "軍手のみ",
+        "一般の布マスクのみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "粒子状物質には適切な捕集性能の防じんマスクが基本です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0098",
+      "category": "関係法令（有害）",
+      "topic": "粉じんの吸入防止に用いる保護具の例",
+      "question": "確認問題：粉じんの吸入防止に用いる保護具の例として最も適切なのはどれか。",
+      "choices": [
+        "耳栓",
+        "遮光眼鏡のみ",
+        "適切な防じんマスク",
+        "軍手のみ",
+        "一般の布マスクのみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "粒子状物質には適切な捕集性能の防じんマスクが基本です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0099",
+      "category": "関係法令（有害）",
+      "topic": "局所排気装置で粉じん等を捕集する位置",
+      "question": "次のテーマについて正しいものを選べ：「局所排気装置で粉じん等を捕集する位置」",
+      "choices": [
+        "発生源の近く",
+        "作業者の背後の遠方",
+        "建物の屋外だけ",
+        "事務所の天井だけ",
+        "換気扇を止めた状態"
+      ],
+      "answerIndex": 0,
+      "explanation": "発生源で捕集して作業者への拡散を防ぎます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0100",
+      "category": "関係法令（有害）",
+      "topic": "局所排気装置で粉じん等を捕集する位置",
+      "question": "確認問題：局所排気装置で粉じん等を捕集する位置として最も適切なのはどれか。",
+      "choices": [
+        "作業者の背後の遠方",
+        "建物の屋外だけ",
+        "発生源の近く",
+        "事務所の天井だけ",
+        "換気扇を止めた状態"
+      ],
+      "answerIndex": 2,
+      "explanation": "発生源で捕集して作業者への拡散を防ぎます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0101",
+      "category": "関係法令（有害）",
+      "topic": "有害業務の作業環境測定の目的",
+      "question": "次のテーマについて正しいものを選べ：「有害業務の作業環境測定の目的」",
+      "choices": [
+        "空気中有害因子の状態を把握して管理する",
+        "売上高の予測",
+        "作業者の性格判定",
+        "人員評価のみ",
+        "商品の品質検査だけ"
+      ],
+      "answerIndex": 0,
+      "explanation": "作業環境を客観的に把握し改善に役立てます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0102",
+      "category": "関係法令（有害）",
+      "topic": "有害業務の作業環境測定の目的",
+      "question": "確認問題：有害業務の作業環境測定の目的として最も適切なのはどれか。",
+      "choices": [
+        "売上高の予測",
+        "作業者の性格判定",
+        "空気中有害因子の状態を把握して管理する",
+        "人員評価のみ",
+        "商品の品質検査だけ"
+      ],
+      "answerIndex": 2,
+      "explanation": "作業環境を客観的に把握し改善に役立てます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0103",
+      "category": "関係法令（有害）",
+      "topic": "鉛業務で健康障害の予防に重要な行動",
+      "question": "次のテーマについて正しいものを選べ：「鉛業務で健康障害の予防に重要な行動」",
+      "choices": [
+        "作業場で飲食や喫煙を避け手洗いする",
+        "汚れた手で飲食する",
+        "作業着のまま食事する",
+        "保護具を共有し清掃しない",
+        "作業後に手洗いを省略する"
+      ],
+      "answerIndex": 0,
+      "explanation": "鉛の経口摂取を防ぐ衛生行動が大切です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0104",
+      "category": "関係法令（有害）",
+      "topic": "鉛業務で健康障害の予防に重要な行動",
+      "question": "確認問題：鉛業務で健康障害の予防に重要な行動として最も適切なのはどれか。",
+      "choices": [
+        "汚れた手で飲食する",
+        "作業着のまま食事する",
+        "作業場で飲食や喫煙を避け手洗いする",
+        "保護具を共有し清掃しない",
+        "作業後に手洗いを省略する"
+      ],
+      "answerIndex": 2,
+      "explanation": "鉛の経口摂取を防ぐ衛生行動が大切です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0105",
+      "category": "関係法令（有害）",
+      "topic": "特殊健康診断と一般健康診断の関係",
+      "question": "次のテーマについて正しいものを選べ：「特殊健康診断と一般健康診断の関係」",
+      "choices": [
+        "対象となれば両方を受ける場合がある",
+        "どちらか一方しか受けられない",
+        "特殊健診は任意のみ",
+        "一般健診が特殊健診を全て代替する",
+        "特殊健診は全労働者に一律"
+      ],
+      "answerIndex": 0,
+      "explanation": "健診の目的と対象は異なり、双方の実施が必要な場合があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0106",
+      "category": "関係法令（有害）",
+      "topic": "特殊健康診断と一般健康診断の関係",
+      "question": "確認問題：特殊健康診断と一般健康診断の関係として最も適切なのはどれか。",
+      "choices": [
+        "どちらか一方しか受けられない",
+        "特殊健診は任意のみ",
+        "対象となれば両方を受ける場合がある",
+        "一般健診が特殊健診を全て代替する",
+        "特殊健診は全労働者に一律"
+      ],
+      "answerIndex": 2,
+      "explanation": "健診の目的と対象は異なり、双方の実施が必要な場合があります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0107",
+      "category": "関係法令（有害）",
+      "topic": "有機溶剤等の作業主任者の主な役割",
+      "question": "次のテーマについて正しいものを選べ：「有機溶剤等の作業主任者の主な役割」",
+      "choices": [
+        "作業方法の決定や換気設備の点検など",
+        "給与計算のみ",
+        "税務申告のみ",
+        "商品の販売のみ",
+        "通勤手当の審査のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "対象業務では法定の作業主任者の選任・職務遂行が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0108",
+      "category": "関係法令（有害）",
+      "topic": "有機溶剤等の作業主任者の主な役割",
+      "question": "確認問題：有機溶剤等の作業主任者の主な役割として最も適切なのはどれか。",
+      "choices": [
+        "給与計算のみ",
+        "税務申告のみ",
+        "作業方法の決定や換気設備の点検など",
+        "商品の販売のみ",
+        "通勤手当の審査のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "対象業務では法定の作業主任者の選任・職務遂行が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0109",
+      "category": "関係法令（有害）",
+      "topic": "電離放射線障害防止で基本となる三原則",
+      "question": "次のテーマについて正しいものを選べ：「電離放射線障害防止で基本となる三原則」",
+      "choices": [
+        "時間・距離・遮へい",
+        "温度・湿度・照度",
+        "睡眠・運動・食事",
+        "騒音・振動・光",
+        "速度・重量・面積"
+      ],
+      "answerIndex": 0,
+      "explanation": "作業時間短縮・距離確保・遮へいを組み合わせます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0110",
+      "category": "関係法令（有害）",
+      "topic": "電離放射線障害防止で基本となる三原則",
+      "question": "確認問題：電離放射線障害防止で基本となる三原則として最も適切なのはどれか。",
+      "choices": [
+        "温度・湿度・照度",
+        "睡眠・運動・食事",
+        "時間・距離・遮へい",
+        "騒音・振動・光",
+        "速度・重量・面積"
+      ],
+      "answerIndex": 2,
+      "explanation": "作業時間短縮・距離確保・遮へいを組み合わせます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0111",
+      "category": "関係法令（有害）",
+      "topic": "騒音性難聴の予防でまず検討すること",
+      "question": "次のテーマについて正しいものを選べ：「騒音性難聴の予防でまず検討すること」",
+      "choices": [
+        "騒音源の低減や遮音等の対策",
+        "耳鳴りを放置",
+        "大声で会話する",
+        "騒音をさらに増やす",
+        "健康診断だけで作業改善しない"
+      ],
+      "answerIndex": 0,
+      "explanation": "音源対策や防音措置が重要で、耳栓なども適切に使用します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0112",
+      "category": "関係法令（有害）",
+      "topic": "騒音性難聴の予防でまず検討すること",
+      "question": "確認問題：騒音性難聴の予防でまず検討することとして最も適切なのはどれか。",
+      "choices": [
+        "耳鳴りを放置",
+        "大声で会話する",
+        "騒音源の低減や遮音等の対策",
+        "騒音をさらに増やす",
+        "健康診断だけで作業改善しない"
+      ],
+      "answerIndex": 2,
+      "explanation": "音源対策や防音措置が重要で、耳栓なども適切に使用します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0113",
+      "category": "関係法令（有害）",
+      "topic": "有害なガスや蒸気の発生源を囲い込む対策",
+      "question": "次のテーマについて正しいものを選べ：「有害なガスや蒸気の発生源を囲い込む対策」",
+      "choices": [
+        "密閉化",
+        "希釈せず放置",
+        "発生源を開放",
+        "保護具の撤去",
+        "喫煙"
+      ],
+      "answerIndex": 0,
+      "explanation": "密閉化は発生源から作業環境への拡散を抑制します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0114",
+      "category": "関係法令（有害）",
+      "topic": "有害なガスや蒸気の発生源を囲い込む対策",
+      "question": "確認問題：有害なガスや蒸気の発生源を囲い込む対策として最も適切なのはどれか。",
+      "choices": [
+        "希釈せず放置",
+        "発生源を開放",
+        "密閉化",
+        "保護具の撤去",
+        "喫煙"
+      ],
+      "answerIndex": 2,
+      "explanation": "密閉化は発生源から作業環境への拡散を抑制します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0115",
+      "category": "関係法令（有害）",
+      "topic": "皮膚から吸収される化学物質への対策",
+      "question": "次のテーマについて正しいものを選べ：「皮膚から吸収される化学物質への対策」",
+      "choices": [
+        "耐透過性を確認した適切な化学防護手袋",
+        "綿手袋なら万能",
+        "裸手作業が基本",
+        "目薬のみ",
+        "耳栓のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "対象物質に応じ材質・透過性を確認します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0116",
+      "category": "関係法令（有害）",
+      "topic": "皮膚から吸収される化学物質への対策",
+      "question": "確認問題：皮膚から吸収される化学物質への対策として最も適切なのはどれか。",
+      "choices": [
+        "綿手袋なら万能",
+        "裸手作業が基本",
+        "耐透過性を確認した適切な化学防護手袋",
+        "目薬のみ",
+        "耳栓のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "対象物質に応じ材質・透過性を確認します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0117",
+      "category": "関係法令（有害）",
+      "topic": "容器ラベルが示す重要な情報",
+      "question": "次のテーマについて正しいものを選べ：「容器ラベルが示す重要な情報」",
+      "choices": [
+        "化学品の危険有害性",
+        "従業員の勤怠",
+        "売上利益",
+        "作業者の身長",
+        "設備の耐用年数"
+      ],
+      "answerIndex": 0,
+      "explanation": "ラベル表示とSDSは化学物質管理の基礎です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0118",
+      "category": "関係法令（有害）",
+      "topic": "容器ラベルが示す重要な情報",
+      "question": "確認問題：容器ラベルが示す重要な情報として最も適切なのはどれか。",
+      "choices": [
+        "従業員の勤怠",
+        "売上利益",
+        "化学品の危険有害性",
+        "作業者の身長",
+        "設備の耐用年数"
+      ],
+      "answerIndex": 2,
+      "explanation": "ラベル表示とSDSは化学物質管理の基礎です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0119",
+      "category": "労働衛生（一般）",
+      "topic": "健康管理の三管理の一つ",
+      "question": "次のテーマについて正しいものを選べ：「健康管理の三管理の一つ」",
+      "choices": [
+        "健康管理",
+        "財務管理",
+        "在庫管理",
+        "販売管理",
+        "広報管理"
+      ],
+      "answerIndex": 0,
+      "explanation": "労働衛生の三管理は作業環境管理・作業管理・健康管理です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0120",
+      "category": "労働衛生（一般）",
+      "topic": "健康管理の三管理の一つ",
+      "question": "確認問題：健康管理の三管理の一つとして最も適切なのはどれか。",
+      "choices": [
+        "財務管理",
+        "在庫管理",
+        "健康管理",
+        "販売管理",
+        "広報管理"
+      ],
+      "answerIndex": 2,
+      "explanation": "労働衛生の三管理は作業環境管理・作業管理・健康管理です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0121",
+      "category": "労働衛生（一般）",
+      "topic": "労働衛生の三管理に含まれるもの",
+      "question": "次のテーマについて正しいものを選べ：「労働衛生の三管理に含まれるもの」",
+      "choices": [
+        "作業環境管理",
+        "利益管理",
+        "労務費配賦",
+        "知的財産管理",
+        "顧客管理"
+      ],
+      "answerIndex": 0,
+      "explanation": "作業環境中の有害因子の状態を改善します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0122",
+      "category": "労働衛生（一般）",
+      "topic": "労働衛生の三管理に含まれるもの",
+      "question": "確認問題：労働衛生の三管理に含まれるものとして最も適切なのはどれか。",
+      "choices": [
+        "利益管理",
+        "労務費配賦",
+        "作業環境管理",
+        "知的財産管理",
+        "顧客管理"
+      ],
+      "answerIndex": 2,
+      "explanation": "作業環境中の有害因子の状態を改善します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0123",
+      "category": "労働衛生（一般）",
+      "topic": "労働衛生の三管理に含まれるもの（作業方法に関する管理）",
+      "question": "次のテーマについて正しいものを選べ：「労働衛生の三管理に含まれるもの（作業方法に関する管理）」",
+      "choices": [
+        "作業管理",
+        "広告管理",
+        "購買管理",
+        "原価管理",
+        "契約管理"
+      ],
+      "answerIndex": 0,
+      "explanation": "姿勢・作業方法・保護具の使用などの管理です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0124",
+      "category": "労働衛生（一般）",
+      "topic": "労働衛生の三管理に含まれるもの（作業方法に関する管理）",
+      "question": "確認問題：労働衛生の三管理に含まれるもの（作業方法に関する管理）として最も適切なのはどれか。",
+      "choices": [
+        "広告管理",
+        "購買管理",
+        "作業管理",
+        "原価管理",
+        "契約管理"
+      ],
+      "answerIndex": 2,
+      "explanation": "姿勢・作業方法・保護具の使用などの管理です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0125",
+      "category": "労働衛生（一般）",
+      "topic": "職場での受動喫煙防止策として適切なもの",
+      "question": "次のテーマについて正しいものを選べ：「職場での受動喫煙防止策として適切なもの」",
+      "choices": [
+        "法令に応じた屋内禁煙等の措置",
+        "分煙表示だけで常に十分",
+        "換気なしの喫煙",
+        "喫煙場所を自由に増やす",
+        "受動喫煙を放置"
+      ],
+      "answerIndex": 0,
+      "explanation": "職場の受動喫煙防止には施設区分に応じた措置が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0126",
+      "category": "労働衛生（一般）",
+      "topic": "職場での受動喫煙防止策として適切なもの",
+      "question": "確認問題：職場での受動喫煙防止策として適切なものとして最も適切なのはどれか。",
+      "choices": [
+        "分煙表示だけで常に十分",
+        "換気なしの喫煙",
+        "法令に応じた屋内禁煙等の措置",
+        "喫煙場所を自由に増やす",
+        "受動喫煙を放置"
+      ],
+      "answerIndex": 2,
+      "explanation": "職場の受動喫煙防止には施設区分に応じた措置が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0127",
+      "category": "労働衛生（一般）",
+      "topic": "VDT作業などで眼精疲労を防ぐために見直す項目",
+      "question": "次のテーマについて正しいものを選べ：「VDT作業などで眼精疲労を防ぐために見直す項目」",
+      "choices": [
+        "照明・画面位置・休止時間",
+        "画面の輝度を最大固定",
+        "まばたきを禁止",
+        "長時間連続作業",
+        "画面に極端に近づく"
+      ],
+      "answerIndex": 0,
+      "explanation": "作業環境・姿勢・休止時間を総合的に整えます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0128",
+      "category": "労働衛生（一般）",
+      "topic": "VDT作業などで眼精疲労を防ぐために見直す項目",
+      "question": "確認問題：VDT作業などで眼精疲労を防ぐために見直す項目として最も適切なのはどれか。",
+      "choices": [
+        "画面の輝度を最大固定",
+        "まばたきを禁止",
+        "照明・画面位置・休止時間",
+        "長時間連続作業",
+        "画面に極端に近づく"
+      ],
+      "answerIndex": 2,
+      "explanation": "作業環境・姿勢・休止時間を総合的に整えます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0129",
+      "category": "労働衛生（一般）",
+      "topic": "熱中症予防で暑熱環境の評価に用いられる指標",
+      "question": "次のテーマについて正しいものを選べ：「熱中症予防で暑熱環境の評価に用いられる指標」",
+      "choices": [
+        "WBGT",
+        "BMI",
+        "GDP",
+        "GNP",
+        "HbA1c"
+      ],
+      "answerIndex": 0,
+      "explanation": "WBGT（暑さ指数）は気温だけでなく湿度や輻射熱等も考慮します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0130",
+      "category": "労働衛生（一般）",
+      "topic": "熱中症予防で暑熱環境の評価に用いられる指標",
+      "question": "確認問題：熱中症予防で暑熱環境の評価に用いられる指標として最も適切なのはどれか。",
+      "choices": [
+        "BMI",
+        "GDP",
+        "WBGT",
+        "GNP",
+        "HbA1c"
+      ],
+      "answerIndex": 2,
+      "explanation": "WBGT（暑さ指数）は気温だけでなく湿度や輻射熱等も考慮します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0131",
+      "category": "労働衛生（一般）",
+      "topic": "心肺蘇生で意識と正常な呼吸がないときの基本対応",
+      "question": "次のテーマについて正しいものを選べ：「心肺蘇生で意識と正常な呼吸がないときの基本対応」",
+      "choices": [
+        "119番通報・AED手配・胸骨圧迫",
+        "様子見だけ",
+        "水を飲ませる",
+        "一人で帰宅させる",
+        "体温を測るまで放置"
+      ],
+      "answerIndex": 0,
+      "explanation": "安全確認後に周囲へ応援を求め、救命処置を開始します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0132",
+      "category": "労働衛生（一般）",
+      "topic": "心肺蘇生で意識と正常な呼吸がないときの基本対応",
+      "question": "確認問題：心肺蘇生で意識と正常な呼吸がないときの基本対応として最も適切なのはどれか。",
+      "choices": [
+        "様子見だけ",
+        "水を飲ませる",
+        "119番通報・AED手配・胸骨圧迫",
+        "一人で帰宅させる",
+        "体温を測るまで放置"
+      ],
+      "answerIndex": 2,
+      "explanation": "安全確認後に周囲へ応援を求め、救命処置を開始します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0133",
+      "category": "労働衛生（一般）",
+      "topic": "感染症予防の基本的な対策",
+      "question": "次のテーマについて正しいものを選べ：「感染症予防の基本的な対策」",
+      "choices": [
+        "手指衛生と適切な換気",
+        "体調不良でも無条件に出勤",
+        "共用物品を清掃しない",
+        "換気を止める",
+        "手洗いをしない"
+      ],
+      "answerIndex": 0,
+      "explanation": "感染経路を考え、手指衛生・換気等を組み合わせます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0134",
+      "category": "労働衛生（一般）",
+      "topic": "感染症予防の基本的な対策",
+      "question": "確認問題：感染症予防の基本的な対策として最も適切なのはどれか。",
+      "choices": [
+        "体調不良でも無条件に出勤",
+        "共用物品を清掃しない",
+        "手指衛生と適切な換気",
+        "換気を止める",
+        "手洗いをしない"
+      ],
+      "answerIndex": 2,
+      "explanation": "感染経路を考え、手指衛生・換気等を組み合わせます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0135",
+      "category": "労働衛生（一般）",
+      "topic": "腰痛予防で重量物を扱う際に有効な対策",
+      "question": "次のテーマについて正しいものを選べ：「腰痛予防で重量物を扱う際に有効な対策」",
+      "choices": [
+        "機械化・補助具の使用",
+        "無理な前かがみを維持",
+        "反動をつけた持ち上げ",
+        "重量を確認しない",
+        "体から遠ざけて持つ"
+      ],
+      "answerIndex": 0,
+      "explanation": "重量物の取り扱いを減らし、姿勢や作業設計を改善します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0136",
+      "category": "労働衛生（一般）",
+      "topic": "腰痛予防で重量物を扱う際に有効な対策",
+      "question": "確認問題：腰痛予防で重量物を扱う際に有効な対策として最も適切なのはどれか。",
+      "choices": [
+        "無理な前かがみを維持",
+        "反動をつけた持ち上げ",
+        "機械化・補助具の使用",
+        "重量を確認しない",
+        "体から遠ざけて持つ"
+      ],
+      "answerIndex": 2,
+      "explanation": "重量物の取り扱いを減らし、姿勢や作業設計を改善します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0137",
+      "category": "労働衛生（一般）",
+      "topic": "メンタルヘルス対策に含まれる一次予防",
+      "question": "次のテーマについて正しいものを選べ：「メンタルヘルス対策に含まれる一次予防」",
+      "choices": [
+        "ストレス要因を減らす職場環境改善",
+        "復職後の支援だけ",
+        "疾病の治療だけ",
+        "休職命令だけ",
+        "診断書の保管のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "一次予防は不調の未然防止です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0138",
+      "category": "労働衛生（一般）",
+      "topic": "メンタルヘルス対策に含まれる一次予防",
+      "question": "確認問題：メンタルヘルス対策に含まれる一次予防として最も適切なのはどれか。",
+      "choices": [
+        "復職後の支援だけ",
+        "疾病の治療だけ",
+        "ストレス要因を減らす職場環境改善",
+        "休職命令だけ",
+        "診断書の保管のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "一次予防は不調の未然防止です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0139",
+      "category": "労働衛生（一般）",
+      "topic": "メンタルヘルス対策に含まれる二次予防",
+      "question": "次のテーマについて正しいものを選べ：「メンタルヘルス対策に含まれる二次予防」",
+      "choices": [
+        "不調の早期発見・早期対応",
+        "設備投資計画",
+        "人事制度の広報のみ",
+        "出張精算",
+        "復職支援だけ"
+      ],
+      "answerIndex": 0,
+      "explanation": "二次予防は早期発見と適切な対応を重視します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0140",
+      "category": "労働衛生（一般）",
+      "topic": "メンタルヘルス対策に含まれる二次予防",
+      "question": "確認問題：メンタルヘルス対策に含まれる二次予防として最も適切なのはどれか。",
+      "choices": [
+        "設備投資計画",
+        "人事制度の広報のみ",
+        "不調の早期発見・早期対応",
+        "出張精算",
+        "復職支援だけ"
+      ],
+      "answerIndex": 2,
+      "explanation": "二次予防は早期発見と適切な対応を重視します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0141",
+      "category": "労働衛生（一般）",
+      "topic": "メンタルヘルス対策に含まれる三次予防",
+      "question": "次のテーマについて正しいものを選べ：「メンタルヘルス対策に含まれる三次予防」",
+      "choices": [
+        "職場復帰支援・再発防止",
+        "採用面接のみ",
+        "安全標識の塗り替え",
+        "ストレス源の放置",
+        "退職の強制"
+      ],
+      "answerIndex": 0,
+      "explanation": "三次予防は職場復帰と再発防止が中心です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0142",
+      "category": "労働衛生（一般）",
+      "topic": "メンタルヘルス対策に含まれる三次予防",
+      "question": "確認問題：メンタルヘルス対策に含まれる三次予防として最も適切なのはどれか。",
+      "choices": [
+        "採用面接のみ",
+        "安全標識の塗り替え",
+        "職場復帰支援・再発防止",
+        "ストレス源の放置",
+        "退職の強制"
+      ],
+      "answerIndex": 2,
+      "explanation": "三次予防は職場復帰と再発防止が中心です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0143",
+      "category": "労働衛生（一般）",
+      "topic": "健康診断後の事後措置の目的",
+      "question": "次のテーマについて正しいものを選べ：「健康診断後の事後措置の目的」",
+      "choices": [
+        "就業上の措置や保健指導につなげる",
+        "結果を放置する",
+        "結果を本人に知らせない",
+        "異常所見を無視する",
+        "給与のみを変更する"
+      ],
+      "answerIndex": 0,
+      "explanation": "医師意見等を踏まえ就業上の配慮を検討します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0144",
+      "category": "労働衛生（一般）",
+      "topic": "健康診断後の事後措置の目的",
+      "question": "確認問題：健康診断後の事後措置の目的として最も適切なのはどれか。",
+      "choices": [
+        "結果を放置する",
+        "結果を本人に知らせない",
+        "就業上の措置や保健指導につなげる",
+        "異常所見を無視する",
+        "給与のみを変更する"
+      ],
+      "answerIndex": 2,
+      "explanation": "医師意見等を踏まえ就業上の配慮を検討します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0145",
+      "category": "労働衛生（一般）",
+      "topic": "十分な睡眠が不足した状態で起きやすいこと",
+      "question": "次のテーマについて正しいものを選べ：「十分な睡眠が不足した状態で起きやすいこと」",
+      "choices": [
+        "注意力低下・事故リスク上昇",
+        "反応速度が必ず向上",
+        "疲労が完全消失",
+        "集中力が必ず増す",
+        "眠気を感じない"
+      ],
+      "answerIndex": 0,
+      "explanation": "睡眠不足は判断力・注意力に影響します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0146",
+      "category": "労働衛生（一般）",
+      "topic": "十分な睡眠が不足した状態で起きやすいこと",
+      "question": "確認問題：十分な睡眠が不足した状態で起きやすいこととして最も適切なのはどれか。",
+      "choices": [
+        "反応速度が必ず向上",
+        "疲労が完全消失",
+        "注意力低下・事故リスク上昇",
+        "集中力が必ず増す",
+        "眠気を感じない"
+      ],
+      "answerIndex": 2,
+      "explanation": "睡眠不足は判断力・注意力に影響します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0147",
+      "category": "労働衛生（一般）",
+      "topic": "室内空気環境に関する管理で重要なもの",
+      "question": "次のテーマについて正しいものを選べ：「室内空気環境に関する管理で重要なもの」",
+      "choices": [
+        "換気の確保",
+        "換気口を全閉",
+        "CO2濃度を無視",
+        "空調の点検をしない",
+        "密閉を優先"
+      ],
+      "answerIndex": 0,
+      "explanation": "換気は汚染物質の蓄積を抑える基礎対策です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0148",
+      "category": "労働衛生（一般）",
+      "topic": "室内空気環境に関する管理で重要なもの",
+      "question": "確認問題：室内空気環境に関する管理で重要なものとして最も適切なのはどれか。",
+      "choices": [
+        "換気口を全閉",
+        "CO2濃度を無視",
+        "換気の確保",
+        "空調の点検をしない",
+        "密閉を優先"
+      ],
+      "answerIndex": 2,
+      "explanation": "換気は汚染物質の蓄積を抑える基礎対策です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0149",
+      "category": "労働衛生（一般）",
+      "topic": "健康相談における個人情報の取り扱い",
+      "question": "次のテーマについて正しいものを選べ：「健康相談における個人情報の取り扱い」",
+      "choices": [
+        "必要な範囲で適切に保護する",
+        "無断で全社員に公開",
+        "SNSに投稿",
+        "私用で転送",
+        "本人への説明を省略"
+      ],
+      "answerIndex": 0,
+      "explanation": "健康情報は機微性が高く適正な取扱いが求められます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0150",
+      "category": "労働衛生（一般）",
+      "topic": "健康相談における個人情報の取り扱い",
+      "question": "確認問題：健康相談における個人情報の取り扱いとして最も適切なのはどれか。",
+      "choices": [
+        "無断で全社員に公開",
+        "SNSに投稿",
+        "必要な範囲で適切に保護する",
+        "私用で転送",
+        "本人への説明を省略"
+      ],
+      "answerIndex": 2,
+      "explanation": "健康情報は機微性が高く適正な取扱いが求められます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0151",
+      "category": "労働衛生（有害）",
+      "topic": "高温環境で起こりやすい健康障害",
+      "question": "次のテーマについて正しいものを選べ：「高温環境で起こりやすい健康障害」",
+      "choices": [
+        "熱中症",
+        "潜水病",
+        "白内障のみ",
+        "高山病のみ",
+        "放射線障害のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "熱放散が追いつかないと体温調節に異常が生じます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0152",
+      "category": "労働衛生（有害）",
+      "topic": "高温環境で起こりやすい健康障害",
+      "question": "確認問題：高温環境で起こりやすい健康障害として最も適切なのはどれか。",
+      "choices": [
+        "潜水病",
+        "白内障のみ",
+        "熱中症",
+        "高山病のみ",
+        "放射線障害のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "熱放散が追いつかないと体温調節に異常が生じます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0153",
+      "category": "労働衛生（有害）",
+      "topic": "高圧環境からの急な減圧に関連する障害",
+      "question": "次のテーマについて正しいものを選べ：「高圧環境からの急な減圧に関連する障害」",
+      "choices": [
+        "減圧症",
+        "熱中症",
+        "花粉症",
+        "じん肺",
+        "皮膚炎のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "体内に溶解した窒素等が気泡化して障害を起こします。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0154",
+      "category": "労働衛生（有害）",
+      "topic": "高圧環境からの急な減圧に関連する障害",
+      "question": "確認問題：高圧環境からの急な減圧に関連する障害として最も適切なのはどれか。",
+      "choices": [
+        "熱中症",
+        "花粉症",
+        "減圧症",
+        "じん肺",
+        "皮膚炎のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "体内に溶解した窒素等が気泡化して障害を起こします。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0155",
+      "category": "労働衛生（有害）",
+      "topic": "低温環境への長時間ばく露で起こり得るもの",
+      "question": "次のテーマについて正しいものを選べ：「低温環境への長時間ばく露で起こり得るもの」",
+      "choices": [
+        "低体温症",
+        "熱射病のみ",
+        "鉛中毒",
+        "有機溶剤中毒",
+        "減圧症"
+      ],
+      "answerIndex": 0,
+      "explanation": "寒冷ばく露では体温低下や凍傷などを予防します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0156",
+      "category": "労働衛生（有害）",
+      "topic": "低温環境への長時間ばく露で起こり得るもの",
+      "question": "確認問題：低温環境への長時間ばく露で起こり得るものとして最も適切なのはどれか。",
+      "choices": [
+        "熱射病のみ",
+        "鉛中毒",
+        "低体温症",
+        "有機溶剤中毒",
+        "減圧症"
+      ],
+      "answerIndex": 2,
+      "explanation": "寒冷ばく露では体温低下や凍傷などを予防します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0157",
+      "category": "労働衛生（有害）",
+      "topic": "紫外線ばく露による障害の一例",
+      "question": "次のテーマについて正しいものを選べ：「紫外線ばく露による障害の一例」",
+      "choices": [
+        "電気性眼炎",
+        "鉛中毒",
+        "減圧症",
+        "振動障害",
+        "じん肺"
+      ],
+      "answerIndex": 0,
+      "explanation": "溶接光など強い紫外線で角結膜が障害されます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0158",
+      "category": "労働衛生（有害）",
+      "topic": "紫外線ばく露による障害の一例",
+      "question": "確認問題：紫外線ばく露による障害の一例として最も適切なのはどれか。",
+      "choices": [
+        "鉛中毒",
+        "減圧症",
+        "電気性眼炎",
+        "振動障害",
+        "じん肺"
+      ],
+      "answerIndex": 2,
+      "explanation": "溶接光など強い紫外線で角結膜が障害されます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0159",
+      "category": "労働衛生（有害）",
+      "topic": "赤外線への長期ばく露で関連する眼の障害",
+      "question": "次のテーマについて正しいものを選べ：「赤外線への長期ばく露で関連する眼の障害」",
+      "choices": [
+        "白内障",
+        "じん肺",
+        "鉛中毒",
+        "減圧症",
+        "騒音性難聴"
+      ],
+      "answerIndex": 0,
+      "explanation": "強い赤外線の慢性ばく露は水晶体への影響が知られます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0160",
+      "category": "労働衛生（有害）",
+      "topic": "赤外線への長期ばく露で関連する眼の障害",
+      "question": "確認問題：赤外線への長期ばく露で関連する眼の障害として最も適切なのはどれか。",
+      "choices": [
+        "じん肺",
+        "鉛中毒",
+        "白内障",
+        "減圧症",
+        "騒音性難聴"
+      ],
+      "answerIndex": 2,
+      "explanation": "強い赤外線の慢性ばく露は水晶体への影響が知られます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0161",
+      "category": "労働衛生（有害）",
+      "topic": "振動工具を長年使用すると生じ得る障害",
+      "question": "次のテーマについて正しいものを選べ：「振動工具を長年使用すると生じ得る障害」",
+      "choices": [
+        "手指の末梢循環障害",
+        "じん肺",
+        "減圧症",
+        "熱中症",
+        "中毒性肝炎のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "手腕振動はレイノー現象等の原因となります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0162",
+      "category": "労働衛生（有害）",
+      "topic": "振動工具を長年使用すると生じ得る障害",
+      "question": "確認問題：振動工具を長年使用すると生じ得る障害として最も適切なのはどれか。",
+      "choices": [
+        "じん肺",
+        "減圧症",
+        "手指の末梢循環障害",
+        "熱中症",
+        "中毒性肝炎のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "手腕振動はレイノー現象等の原因となります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0163",
+      "category": "労働衛生（有害）",
+      "topic": "じん肺の主な発生原因",
+      "question": "次のテーマについて正しいものを選べ：「じん肺の主な発生原因」",
+      "choices": [
+        "鉱物性粉じんなどの長期間の吸入",
+        "騒音のみ",
+        "画面作業のみ",
+        "飲水不足のみ",
+        "短時間の会話"
+      ],
+      "answerIndex": 0,
+      "explanation": "粉じんが肺に沈着し線維化等を生じます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0164",
+      "category": "労働衛生（有害）",
+      "topic": "じん肺の主な発生原因",
+      "question": "確認問題：じん肺の主な発生原因として最も適切なのはどれか。",
+      "choices": [
+        "騒音のみ",
+        "画面作業のみ",
+        "鉱物性粉じんなどの長期間の吸入",
+        "飲水不足のみ",
+        "短時間の会話"
+      ],
+      "answerIndex": 2,
+      "explanation": "粉じんが肺に沈着し線維化等を生じます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0165",
+      "category": "労働衛生（有害）",
+      "topic": "一酸化炭素中毒の主な機序",
+      "question": "次のテーマについて正しいものを選べ：「一酸化炭素中毒の主な機序」",
+      "choices": [
+        "ヘモグロビンへの結合により酸素運搬を妨げる",
+        "骨密度を急上昇させる",
+        "視力が必ず改善",
+        "血糖を必ず下げる",
+        "酸素運搬を促進"
+      ],
+      "answerIndex": 0,
+      "explanation": "COはヘモグロビンに強く結合して組織低酸素を引き起こします。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0166",
+      "category": "労働衛生（有害）",
+      "topic": "一酸化炭素中毒の主な機序",
+      "question": "確認問題：一酸化炭素中毒の主な機序として最も適切なのはどれか。",
+      "choices": [
+        "骨密度を急上昇させる",
+        "視力が必ず改善",
+        "ヘモグロビンへの結合により酸素運搬を妨げる",
+        "血糖を必ず下げる",
+        "酸素運搬を促進"
+      ],
+      "answerIndex": 2,
+      "explanation": "COはヘモグロビンに強く結合して組織低酸素を引き起こします。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0167",
+      "category": "労働衛生（有害）",
+      "topic": "硫化水素の高濃度ばく露で特に危険なこと",
+      "question": "次のテーマについて正しいものを選べ：「硫化水素の高濃度ばく露で特に危険なこと」",
+      "choices": [
+        "急激な意識消失や呼吸障害",
+        "必ず皮膚が青くなるだけ",
+        "視力改善",
+        "食欲増進",
+        "花粉症だけ"
+      ],
+      "answerIndex": 0,
+      "explanation": "高濃度では嗅覚を頼れず急性中毒に注意が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0168",
+      "category": "労働衛生（有害）",
+      "topic": "硫化水素の高濃度ばく露で特に危険なこと",
+      "question": "確認問題：硫化水素の高濃度ばく露で特に危険なこととして最も適切なのはどれか。",
+      "choices": [
+        "必ず皮膚が青くなるだけ",
+        "視力改善",
+        "急激な意識消失や呼吸障害",
+        "食欲増進",
+        "花粉症だけ"
+      ],
+      "answerIndex": 2,
+      "explanation": "高濃度では嗅覚を頼れず急性中毒に注意が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0169",
+      "category": "労働衛生（有害）",
+      "topic": "有機溶剤で急性中毒の症状になり得るもの",
+      "question": "次のテーマについて正しいものを選べ：「有機溶剤で急性中毒の症状になり得るもの」",
+      "choices": [
+        "頭痛・めまい・意識障害",
+        "骨折だけ",
+        "歯の変色だけ",
+        "視力の恒久的向上",
+        "聴力の改善"
+      ],
+      "answerIndex": 0,
+      "explanation": "吸入濃度によって中枢神経系が影響を受けます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0170",
+      "category": "労働衛生（有害）",
+      "topic": "有機溶剤で急性中毒の症状になり得るもの",
+      "question": "確認問題：有機溶剤で急性中毒の症状になり得るものとして最も適切なのはどれか。",
+      "choices": [
+        "骨折だけ",
+        "歯の変色だけ",
+        "頭痛・めまい・意識障害",
+        "視力の恒久的向上",
+        "聴力の改善"
+      ],
+      "answerIndex": 2,
+      "explanation": "吸入濃度によって中枢神経系が影響を受けます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0171",
+      "category": "労働衛生（有害）",
+      "topic": "騒音への長期ばく露で代表的な健康障害",
+      "question": "次のテーマについて正しいものを選べ：「騒音への長期ばく露で代表的な健康障害」",
+      "choices": [
+        "騒音性難聴",
+        "じん肺",
+        "潜水病",
+        "紫外線角膜炎",
+        "鉛中毒"
+      ],
+      "answerIndex": 0,
+      "explanation": "内耳の感覚細胞への障害が生じます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0172",
+      "category": "労働衛生（有害）",
+      "topic": "騒音への長期ばく露で代表的な健康障害",
+      "question": "確認問題：騒音への長期ばく露で代表的な健康障害として最も適切なのはどれか。",
+      "choices": [
+        "じん肺",
+        "潜水病",
+        "騒音性難聴",
+        "紫外線角膜炎",
+        "鉛中毒"
+      ],
+      "answerIndex": 2,
+      "explanation": "内耳の感覚細胞への障害が生じます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0173",
+      "category": "労働衛生（有害）",
+      "topic": "粉じんが発生する作業の環境対策",
+      "question": "次のテーマについて正しいものを選べ：「粉じんが発生する作業の環境対策」",
+      "choices": [
+        "発生源の囲い込み・局所排気",
+        "ほうきで舞い上げる",
+        "防護設備を外す",
+        "空調停止のみ",
+        "マスクだけに依存"
+      ],
+      "answerIndex": 0,
+      "explanation": "粉じんの発散防止を優先します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0174",
+      "category": "労働衛生（有害）",
+      "topic": "粉じんが発生する作業の環境対策",
+      "question": "確認問題：粉じんが発生する作業の環境対策として最も適切なのはどれか。",
+      "choices": [
+        "ほうきで舞い上げる",
+        "防護設備を外す",
+        "発生源の囲い込み・局所排気",
+        "空調停止のみ",
+        "マスクだけに依存"
+      ],
+      "answerIndex": 2,
+      "explanation": "粉じんの発散防止を優先します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0175",
+      "category": "労働衛生（有害）",
+      "topic": "強いレーザー光線を扱う際の保護",
+      "question": "次のテーマについて正しいものを選べ：「強いレーザー光線を扱う際の保護」",
+      "choices": [
+        "波長と出力に適合した保護眼鏡",
+        "普通のサングラスで万能",
+        "保護具不要",
+        "耳栓のみ",
+        "素手で遮光"
+      ],
+      "answerIndex": 0,
+      "explanation": "レーザーの波長等に対応した眼保護が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0176",
+      "category": "労働衛生（有害）",
+      "topic": "強いレーザー光線を扱う際の保護",
+      "question": "確認問題：強いレーザー光線を扱う際の保護として最も適切なのはどれか。",
+      "choices": [
+        "普通のサングラスで万能",
+        "保護具不要",
+        "波長と出力に適合した保護眼鏡",
+        "耳栓のみ",
+        "素手で遮光"
+      ],
+      "answerIndex": 2,
+      "explanation": "レーザーの波長等に対応した眼保護が必要です。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0177",
+      "category": "労働衛生（有害）",
+      "topic": "放射線の被ばく管理に使われる測定器の例",
+      "question": "次のテーマについて正しいものを選べ：「放射線の被ばく管理に使われる測定器の例」",
+      "choices": [
+        "個人線量計",
+        "騒音計のみ",
+        "風速計のみ",
+        "照度計のみ",
+        "湿度計のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "個人線量計で外部被ばくの線量を把握します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0178",
+      "category": "労働衛生（有害）",
+      "topic": "放射線の被ばく管理に使われる測定器の例",
+      "question": "確認問題：放射線の被ばく管理に使われる測定器の例として最も適切なのはどれか。",
+      "choices": [
+        "騒音計のみ",
+        "風速計のみ",
+        "個人線量計",
+        "照度計のみ",
+        "湿度計のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "個人線量計で外部被ばくの線量を把握します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0179",
+      "category": "労働衛生（有害）",
+      "topic": "呼吸用保護具を適切に着用できているかを調べること",
+      "question": "次のテーマについて正しいものを選べ：「呼吸用保護具を適切に着用できているかを調べること」",
+      "choices": [
+        "フィットテスト等",
+        "在庫棚卸し",
+        "視力測定",
+        "心電図のみ",
+        "原価計算"
+      ],
+      "answerIndex": 0,
+      "explanation": "面体の密着性を確認することで漏れのリスクを低減します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0180",
+      "category": "労働衛生（有害）",
+      "topic": "呼吸用保護具を適切に着用できているかを調べること",
+      "question": "確認問題：呼吸用保護具を適切に着用できているかを調べることとして最も適切なのはどれか。",
+      "choices": [
+        "在庫棚卸し",
+        "視力測定",
+        "フィットテスト等",
+        "心電図のみ",
+        "原価計算"
+      ],
+      "answerIndex": 2,
+      "explanation": "面体の密着性を確認することで漏れのリスクを低減します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0181",
+      "category": "労働衛生（有害）",
+      "topic": "有害化学物質のばく露低減で不適切な行動",
+      "question": "次のテーマについて正しいものを選べ：「有害化学物質のばく露低減で不適切な行動」",
+      "choices": [
+        "密閉設備を勝手に開放する",
+        "SDSを確認する",
+        "適切な換気を使う",
+        "保護具を選ぶ",
+        "作業手順を守る"
+      ],
+      "answerIndex": 0,
+      "explanation": "設備や作業手順を守り、ばく露低減を図ります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0182",
+      "category": "労働衛生（有害）",
+      "topic": "有害化学物質のばく露低減で不適切な行動",
+      "question": "確認問題：有害化学物質のばく露低減で不適切な行動として最も適切なのはどれか。",
+      "choices": [
+        "SDSを確認する",
+        "適切な換気を使う",
+        "密閉設備を勝手に開放する",
+        "保護具を選ぶ",
+        "作業手順を守る"
+      ],
+      "answerIndex": 2,
+      "explanation": "設備や作業手順を守り、ばく露低減を図ります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0183",
+      "category": "労働生理",
+      "topic": "血液中で酸素の運搬を担う主な成分",
+      "question": "次のテーマについて正しいものを選べ：「血液中で酸素の運搬を担う主な成分」",
+      "choices": [
+        "ヘモグロビン",
+        "フィブリン",
+        "インスリン",
+        "胆汁",
+        "ペプシン"
+      ],
+      "answerIndex": 0,
+      "explanation": "赤血球中のヘモグロビンが酸素を結合して運びます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0184",
+      "category": "労働生理",
+      "topic": "血液中で酸素の運搬を担う主な成分",
+      "question": "確認問題：血液中で酸素の運搬を担う主な成分として最も適切なのはどれか。",
+      "choices": [
+        "フィブリン",
+        "インスリン",
+        "ヘモグロビン",
+        "胆汁",
+        "ペプシン"
+      ],
+      "answerIndex": 2,
+      "explanation": "赤血球中のヘモグロビンが酸素を結合して運びます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0185",
+      "category": "労働生理",
+      "topic": "血液凝固に重要な細胞成分",
+      "question": "次のテーマについて正しいものを選べ：「血液凝固に重要な細胞成分」",
+      "choices": [
+        "血小板",
+        "赤血球",
+        "好酸球",
+        "神経細胞",
+        "肝細胞"
+      ],
+      "answerIndex": 0,
+      "explanation": "血小板は止血時に集まり血栓形成に関与します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0186",
+      "category": "労働生理",
+      "topic": "血液凝固に重要な細胞成分",
+      "question": "確認問題：血液凝固に重要な細胞成分として最も適切なのはどれか。",
+      "choices": [
+        "赤血球",
+        "好酸球",
+        "血小板",
+        "神経細胞",
+        "肝細胞"
+      ],
+      "answerIndex": 2,
+      "explanation": "血小板は止血時に集まり血栓形成に関与します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0187",
+      "category": "労働生理",
+      "topic": "感染防御に関与する血液細胞",
+      "question": "次のテーマについて正しいものを選べ：「感染防御に関与する血液細胞」",
+      "choices": [
+        "白血球",
+        "赤血球",
+        "血小板のみ",
+        "脂肪細胞",
+        "骨細胞"
+      ],
+      "answerIndex": 0,
+      "explanation": "白血球には好中球・リンパ球などがあります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0188",
+      "category": "労働生理",
+      "topic": "感染防御に関与する血液細胞",
+      "question": "確認問題：感染防御に関与する血液細胞として最も適切なのはどれか。",
+      "choices": [
+        "赤血球",
+        "血小板のみ",
+        "白血球",
+        "脂肪細胞",
+        "骨細胞"
+      ],
+      "answerIndex": 2,
+      "explanation": "白血球には好中球・リンパ球などがあります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0189",
+      "category": "労働生理",
+      "topic": "心臓から全身へ血液を送り出す部屋",
+      "question": "次のテーマについて正しいものを選べ：「心臓から全身へ血液を送り出す部屋」",
+      "choices": [
+        "左心室",
+        "右心房",
+        "左心房",
+        "右心室",
+        "冠静脈"
+      ],
+      "answerIndex": 0,
+      "explanation": "左心室が大動脈へ血液を送り出します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0190",
+      "category": "労働生理",
+      "topic": "心臓から全身へ血液を送り出す部屋",
+      "question": "確認問題：心臓から全身へ血液を送り出す部屋として最も適切なのはどれか。",
+      "choices": [
+        "右心房",
+        "左心房",
+        "左心室",
+        "右心室",
+        "冠静脈"
+      ],
+      "answerIndex": 2,
+      "explanation": "左心室が大動脈へ血液を送り出します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0191",
+      "category": "労働生理",
+      "topic": "肺でのガス交換が行われる主な部位",
+      "question": "次のテーマについて正しいものを選べ：「肺でのガス交換が行われる主な部位」",
+      "choices": [
+        "肺胞",
+        "気管",
+        "咽頭",
+        "鼻腔",
+        "食道"
+      ],
+      "answerIndex": 0,
+      "explanation": "肺胞と毛細血管の間で酸素と二酸化炭素が交換されます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0192",
+      "category": "労働生理",
+      "topic": "肺でのガス交換が行われる主な部位",
+      "question": "確認問題：肺でのガス交換が行われる主な部位として最も適切なのはどれか。",
+      "choices": [
+        "気管",
+        "咽頭",
+        "肺胞",
+        "鼻腔",
+        "食道"
+      ],
+      "answerIndex": 2,
+      "explanation": "肺胞と毛細血管の間で酸素と二酸化炭素が交換されます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0193",
+      "category": "労働生理",
+      "topic": "呼吸運動で主要な役割を果たす筋肉",
+      "question": "次のテーマについて正しいものを選べ：「呼吸運動で主要な役割を果たす筋肉」",
+      "choices": [
+        "横隔膜",
+        "咬筋",
+        "上腕二頭筋",
+        "大腿四頭筋",
+        "表情筋"
+      ],
+      "answerIndex": 0,
+      "explanation": "横隔膜が収縮して胸郭を広げ吸気を助けます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0194",
+      "category": "労働生理",
+      "topic": "呼吸運動で主要な役割を果たす筋肉",
+      "question": "確認問題：呼吸運動で主要な役割を果たす筋肉として最も適切なのはどれか。",
+      "choices": [
+        "咬筋",
+        "上腕二頭筋",
+        "横隔膜",
+        "大腿四頭筋",
+        "表情筋"
+      ],
+      "answerIndex": 2,
+      "explanation": "横隔膜が収縮して胸郭を広げ吸気を助けます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0195",
+      "category": "労働生理",
+      "topic": "体内の血糖値を下げるホルモン",
+      "question": "次のテーマについて正しいものを選べ：「体内の血糖値を下げるホルモン」",
+      "choices": [
+        "インスリン",
+        "グルカゴン",
+        "アドレナリン",
+        "コルチゾール",
+        "成長ホルモン"
+      ],
+      "answerIndex": 0,
+      "explanation": "インスリンは細胞への糖取り込みなどを促します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0196",
+      "category": "労働生理",
+      "topic": "体内の血糖値を下げるホルモン",
+      "question": "確認問題：体内の血糖値を下げるホルモンとして最も適切なのはどれか。",
+      "choices": [
+        "グルカゴン",
+        "アドレナリン",
+        "インスリン",
+        "コルチゾール",
+        "成長ホルモン"
+      ],
+      "answerIndex": 2,
+      "explanation": "インスリンは細胞への糖取り込みなどを促します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0197",
+      "category": "労働生理",
+      "topic": "血糖値を上げる働きがある膵臓のホルモン",
+      "question": "次のテーマについて正しいものを選べ：「血糖値を上げる働きがある膵臓のホルモン」",
+      "choices": [
+        "グルカゴン",
+        "インスリン",
+        "メラトニン",
+        "オキシトシン",
+        "カルシトニン"
+      ],
+      "answerIndex": 0,
+      "explanation": "グルカゴンは肝臓でのグリコーゲン分解等を促します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0198",
+      "category": "労働生理",
+      "topic": "血糖値を上げる働きがある膵臓のホルモン",
+      "question": "確認問題：血糖値を上げる働きがある膵臓のホルモンとして最も適切なのはどれか。",
+      "choices": [
+        "インスリン",
+        "メラトニン",
+        "グルカゴン",
+        "オキシトシン",
+        "カルシトニン"
+      ],
+      "answerIndex": 2,
+      "explanation": "グルカゴンは肝臓でのグリコーゲン分解等を促します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0199",
+      "category": "労働生理",
+      "topic": "胆汁を生成する臓器",
+      "question": "次のテーマについて正しいものを選べ：「胆汁を生成する臓器」",
+      "choices": [
+        "肝臓",
+        "腎臓",
+        "膵臓",
+        "胃",
+        "脾臓"
+      ],
+      "answerIndex": 0,
+      "explanation": "胆汁は肝臓で作られ胆のうに蓄えられます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0200",
+      "category": "労働生理",
+      "topic": "胆汁を生成する臓器",
+      "question": "確認問題：胆汁を生成する臓器として最も適切なのはどれか。",
+      "choices": [
+        "腎臓",
+        "膵臓",
+        "肝臓",
+        "胃",
+        "脾臓"
+      ],
+      "answerIndex": 2,
+      "explanation": "胆汁は肝臓で作られ胆のうに蓄えられます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0201",
+      "category": "労働生理",
+      "topic": "尿を生成する臓器",
+      "question": "次のテーマについて正しいものを選べ：「尿を生成する臓器」",
+      "choices": [
+        "腎臓",
+        "胆のう",
+        "胃",
+        "甲状腺",
+        "肺"
+      ],
+      "answerIndex": 0,
+      "explanation": "腎臓のネフロンが血液をろ過し尿を作ります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0202",
+      "category": "労働生理",
+      "topic": "尿を生成する臓器",
+      "question": "確認問題：尿を生成する臓器として最も適切なのはどれか。",
+      "choices": [
+        "胆のう",
+        "胃",
+        "腎臓",
+        "甲状腺",
+        "肺"
+      ],
+      "answerIndex": 2,
+      "explanation": "腎臓のネフロンが血液をろ過し尿を作ります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0203",
+      "category": "労働生理",
+      "topic": "主に栄養素を吸収する消化管",
+      "question": "次のテーマについて正しいものを選べ：「主に栄養素を吸収する消化管」",
+      "choices": [
+        "小腸",
+        "食道",
+        "大腸のみ",
+        "口腔",
+        "咽頭"
+      ],
+      "answerIndex": 0,
+      "explanation": "小腸の絨毛等で多くの栄養素が吸収されます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0204",
+      "category": "労働生理",
+      "topic": "主に栄養素を吸収する消化管",
+      "question": "確認問題：主に栄養素を吸収する消化管として最も適切なのはどれか。",
+      "choices": [
+        "食道",
+        "大腸のみ",
+        "小腸",
+        "口腔",
+        "咽頭"
+      ],
+      "answerIndex": 2,
+      "explanation": "小腸の絨毛等で多くの栄養素が吸収されます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0205",
+      "category": "労働生理",
+      "topic": "タンパク質の消化を始める胃の酵素",
+      "question": "次のテーマについて正しいものを選べ：「タンパク質の消化を始める胃の酵素」",
+      "choices": [
+        "ペプシン",
+        "アミラーゼ",
+        "リパーゼ",
+        "ラクターゼ",
+        "インスリン"
+      ],
+      "answerIndex": 0,
+      "explanation": "胃液中のペプシンがタンパク質を分解します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0206",
+      "category": "労働生理",
+      "topic": "タンパク質の消化を始める胃の酵素",
+      "question": "確認問題：タンパク質の消化を始める胃の酵素として最も適切なのはどれか。",
+      "choices": [
+        "アミラーゼ",
+        "リパーゼ",
+        "ペプシン",
+        "ラクターゼ",
+        "インスリン"
+      ],
+      "answerIndex": 2,
+      "explanation": "胃液中のペプシンがタンパク質を分解します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0207",
+      "category": "労働生理",
+      "topic": "唾液に含まれデンプンを分解する酵素",
+      "question": "次のテーマについて正しいものを選べ：「唾液に含まれデンプンを分解する酵素」",
+      "choices": [
+        "アミラーゼ",
+        "ペプシン",
+        "トリプシン",
+        "リパーゼ",
+        "ペプチダーゼ"
+      ],
+      "answerIndex": 0,
+      "explanation": "唾液アミラーゼがでんぷんの消化を始めます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0208",
+      "category": "労働生理",
+      "topic": "唾液に含まれデンプンを分解する酵素",
+      "question": "確認問題：唾液に含まれデンプンを分解する酵素として最も適切なのはどれか。",
+      "choices": [
+        "ペプシン",
+        "トリプシン",
+        "アミラーゼ",
+        "リパーゼ",
+        "ペプチダーゼ"
+      ],
+      "answerIndex": 2,
+      "explanation": "唾液アミラーゼがでんぷんの消化を始めます。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0209",
+      "category": "労働生理",
+      "topic": "体温調節の中枢がある部位",
+      "question": "次のテーマについて正しいものを選べ：「体温調節の中枢がある部位」",
+      "choices": [
+        "視床下部",
+        "延髄の運動野",
+        "小脳皮質のみ",
+        "海馬のみ",
+        "脊髄後根のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "視床下部は体温調節や自律神経・内分泌機能に関与します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0210",
+      "category": "労働生理",
+      "topic": "体温調節の中枢がある部位",
+      "question": "確認問題：体温調節の中枢がある部位として最も適切なのはどれか。",
+      "choices": [
+        "延髄の運動野",
+        "小脳皮質のみ",
+        "視床下部",
+        "海馬のみ",
+        "脊髄後根のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "視床下部は体温調節や自律神経・内分泌機能に関与します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0211",
+      "category": "労働生理",
+      "topic": "交感神経が優位なときに一般的に起こること",
+      "question": "次のテーマについて正しいものを選べ：「交感神経が優位なときに一般的に起こること」",
+      "choices": [
+        "心拍数の増加",
+        "心拍数の著しい低下",
+        "消化管運動の一律促進",
+        "瞳孔の縮小",
+        "発汗の完全停止"
+      ],
+      "answerIndex": 0,
+      "explanation": "交感神経は活動・緊張に備える反応を促します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0212",
+      "category": "労働生理",
+      "topic": "交感神経が優位なときに一般的に起こること",
+      "question": "確認問題：交感神経が優位なときに一般的に起こることとして最も適切なのはどれか。",
+      "choices": [
+        "心拍数の著しい低下",
+        "消化管運動の一律促進",
+        "心拍数の増加",
+        "瞳孔の縮小",
+        "発汗の完全停止"
+      ],
+      "answerIndex": 2,
+      "explanation": "交感神経は活動・緊張に備える反応を促します。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0213",
+      "category": "労働生理",
+      "topic": "副交感神経が優位なときに一般的に起こること",
+      "question": "次のテーマについて正しいものを選べ：「副交感神経が優位なときに一般的に起こること」",
+      "choices": [
+        "消化管運動の促進",
+        "心拍の必ず倍増",
+        "瞳孔の散大のみ",
+        "発汗の増加のみ",
+        "血糖値の急上昇のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "副交感神経は休息・消化を促す働きがあります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    },
+    {
+      "id": "EISEI1-0214",
+      "category": "労働生理",
+      "topic": "副交感神経が優位なときに一般的に起こること",
+      "question": "確認問題：副交感神経が優位なときに一般的に起こることとして最も適切なのはどれか。",
+      "choices": [
+        "心拍の必ず倍増",
+        "瞳孔の散大のみ",
+        "消化管運動の促進",
+        "発汗の増加のみ",
+        "血糖値の急上昇のみ"
+      ],
+      "answerIndex": 2,
+      "explanation": "副交感神経は休息・消化を促す働きがあります。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲"
+    }
+  ]
+}
