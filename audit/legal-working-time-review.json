@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "EISEI1-0016",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roudouzikan/index.html",
+      "basis": "労働基準法第32条",
+      "finding": "原則は1日8時間、1週40時間。特例措置対象事業場や変形労働時間制などの例外は個別に適用条件の確認が必要。",
+      "asOf": "2026-10-20",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0069",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_13.html",
+      "basis": "労働基準法第34条",
+      "finding": "労働時間が6時間超8時間以下なら45分以上の休憩。8時間ちょうどは45分以上であり、8時間超は60分以上。休憩を途中に与える原則にも注意。",
+      "asOf": "2026-10-20",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0070",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_13.html",
+      "basis": "労働基準法第34条",
+      "finding": "労働時間が6時間超8時間以下なら45分以上の休憩。8時間ちょうどは45分以上であり、8時間超は60分以上。休憩を途中に与える原則にも注意。",
+      "asOf": "2026-10-20",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
