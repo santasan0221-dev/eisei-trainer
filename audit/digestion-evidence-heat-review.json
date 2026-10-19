@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "newPrimaryChecks": [
+    {
+      "id": "EISEI1-0021",
+      "sourceUrl": "https://neccyusho.mhlw.go.jp/heat_index/",
+      "finding": "WBGTは温湿度・輻射熱等を考慮した熱ストレス指標。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0129",
+      "sourceUrl": "https://neccyusho.mhlw.go.jp/heat_index/",
+      "finding": "WBGTは温湿度・輻射熱等を考慮した熱ストレス指標。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0130",
+      "sourceUrl": "https://neccyusho.mhlw.go.jp/heat_index/",
+      "finding": "WBGTは温湿度・輻射熱等を考慮した熱ストレス指標。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0019",
+      "sourceUrl": "https://www.mhlw.go.jp/content/000539604.pdf",
+      "finding": "情報機器作業では画面・照明・休止時間・姿勢等の調整が重要。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0127",
+      "sourceUrl": "https://www.mhlw.go.jp/content/000539604.pdf",
+      "finding": "情報機器作業では画面・照明・休止時間・姿勢等の調整が重要。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0128",
+      "sourceUrl": "https://www.mhlw.go.jp/content/000539604.pdf",
+      "finding": "情報機器作業では画面・照明・休止時間・姿勢等の調整が重要。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    }
+  ],
+  "followUpEvidence": [
+    {
+      "id": "EISEI1-0205",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544242/",
+      "finding": "ペプシンは胃でタンパク質の消化に関与する。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0206",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544242/",
+      "finding": "ペプシンは胃でタンパク質の消化に関与する。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0207",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544242/",
+      "finding": "唾液アミラーゼはデンプンの消化に関与する。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0208",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK544242/",
+      "finding": "唾液アミラーゼはデンプンの消化に関与する。",
+      "expertApproved": false
+    }
+  ]
+}
