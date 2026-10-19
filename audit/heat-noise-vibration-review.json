@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-20",
+  "reviewLevel": "主要論点と公的資料の照合。全選択肢・専門家校閲は未実施",
+  "entries": [
+    {
+      "id": "EISEI1-0020",
+      "sourceUrl": "https://neccyusho.mhlw.go.jp/heatstroke/",
+      "basis": "厚労省 職場における熱中症予防情報",
+      "finding": "暑熱順化・休憩・水分塩分補給が予防の基本。意識がはっきりしなければ直ちに救急隊を要請し、移動・冷却を進める。",
+      "caveat": "意識障害がある人への無理な経口補水は避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0052",
+      "sourceUrl": "https://neccyusho.mhlw.go.jp/heatstroke/",
+      "basis": "厚労省 職場における熱中症予防情報",
+      "finding": "暑熱順化・休憩・水分塩分補給が予防の基本。意識がはっきりしなければ直ちに救急隊を要請し、移動・冷却を進める。",
+      "caveat": "意識障害がある人への無理な経口補水は避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0046",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc7618&dataType=1",
+      "basis": "厚労省 2023年改訂 騒音障害防止ガイドライン",
+      "finding": "騒音性難聴を予防するため騒音源の低減・伝ぱ経路対策を優先して検討し、適切な聴覚保護具などを組み合わせる。",
+      "caveat": "聴覚保護具のみで音源・経路の対策を代替する説明は避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0111",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc7618&dataType=1",
+      "basis": "厚労省 2023年改訂 騒音障害防止ガイドライン",
+      "finding": "騒音性難聴を予防するため騒音源の低減・伝ぱ経路対策を優先して検討し、適切な聴覚保護具などを組み合わせる。",
+      "caveat": "聴覚保護具のみで音源・経路の対策を代替する説明は避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0112",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc7618&dataType=1",
+      "basis": "厚労省 2023年改訂 騒音障害防止ガイドライン",
+      "finding": "騒音性難聴を予防するため騒音源の低減・伝ぱ経路対策を優先して検討し、適切な聴覚保護具などを組み合わせる。",
+      "caveat": "聴覚保護具のみで音源・経路の対策を代替する説明は避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0047",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo97_1.html",
+      "basis": "厚労省 職場のあんぜんサイト 振動障害",
+      "finding": "振動工具による手指の末梢循環障害・末梢神経障害・運動器障害が起こり得る。",
+      "caveat": "長時間の振動工具使用と発症の関係を特定個人の診断と混同しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0161",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo97_1.html",
+      "basis": "厚労省 職場のあんぜんサイト 振動障害",
+      "finding": "振動工具による手指の末梢循環障害・末梢神経障害・運動器障害が起こり得る。",
+      "caveat": "長時間の振動工具使用と発症の関係を特定個人の診断と混同しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0162",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo97_1.html",
+      "basis": "厚労省 職場のあんぜんサイト 振動障害",
+      "finding": "振動工具による手指の末梢循環障害・末梢神経障害・運動器障害が起こり得る。",
+      "caveat": "長時間の振動工具使用と発症の関係を特定個人の診断と混同しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    }
+  ]
+}
