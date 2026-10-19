@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "level": "公的医学資料と主要論点の一次照合",
+  "expertApproved": false,
+  "entries": [
+    {
+      "id": "EISEI1-0028",
+      "sourceUrl": "https://medlineplus.gov/blood.html",
+      "basis": "NIH MedlinePlus 血液の構成",
+      "finding": "血小板は止血と凝固、白血球は免疫と感染防御に関与する。赤血球は酸素を運搬する。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0029",
+      "sourceUrl": "https://medlineplus.gov/blood.html",
+      "basis": "NIH MedlinePlus 血液の構成",
+      "finding": "血小板は止血と凝固、白血球は免疫と感染防御に関与する。赤血球は酸素を運搬する。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0032",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/definition-facts",
+      "basis": "NIH NIDDK 胆汁と胆のう",
+      "finding": "胆汁は肝臓で産生され、胆のうに蓄えられる。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0189",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+      "basis": "NIH NHLBI 心臓の血流",
+      "finding": "左心室が大動脈へ血液を拍出して全身の体循環を支える。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0190",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+      "basis": "NIH NHLBI 心臓の血流",
+      "finding": "左心室が大動脈へ血液を拍出して全身の体循環を支える。",
+      "expertApproved": false
+    }
+  ]
+}
