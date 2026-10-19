@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0199",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Your Digestive System & How it Works",
+      "finding": "肝臓は胆汁を産生し、小腸は食物中の栄養素の大部分を吸収する。",
+      "sourceSupportsMainAnswer": true,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0200",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Your Digestive System & How it Works",
+      "finding": "肝臓は胆汁を産生し、小腸は食物中の栄養素の大部分を吸収する。",
+      "sourceSupportsMainAnswer": true,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0203",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Your Digestive System & How it Works",
+      "finding": "肝臓は胆汁を産生し、小腸は食物中の栄養素の大部分を吸収する。",
+      "sourceSupportsMainAnswer": true,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0204",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Your Digestive System & How it Works",
+      "finding": "肝臓は胆汁を産生し、小腸は食物中の栄養素の大部分を吸収する。",
+      "sourceSupportsMainAnswer": true,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0201",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+      "basis": "NIH NIDDK Your Kidneys & How They Work",
+      "finding": "腎臓は血液をろ過し、再吸収などを経て尿を生成する。",
+      "sourceSupportsMainAnswer": true,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0202",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+      "basis": "NIH NIDDK Your Kidneys & How They Work",
+      "finding": "腎臓は血液をろ過し、再吸収などを経て尿を生成する。",
+      "sourceSupportsMainAnswer": true,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0205",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Digestive System overview",
+      "finding": "口腔・胃で消化液や酵素による消化が行われる。ただし本資料だけではペプシン・唾液アミラーゼをそれぞれ名指しで説明していない。",
+      "sourceSupportsMainAnswer": false,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0206",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Digestive System overview",
+      "finding": "口腔・胃で消化液や酵素による消化が行われる。ただし本資料だけではペプシン・唾液アミラーゼをそれぞれ名指しで説明していない。",
+      "sourceSupportsMainAnswer": false,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0207",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Digestive System overview",
+      "finding": "口腔・胃で消化液や酵素による消化が行われる。ただし本資料だけではペプシン・唾液アミラーゼをそれぞれ名指しで説明していない。",
+      "sourceSupportsMainAnswer": false,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0208",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works",
+      "basis": "NIH NIDDK Digestive System overview",
+      "finding": "口腔・胃で消化液や酵素による消化が行われる。ただし本資料だけではペプシン・唾液アミラーゼをそれぞれ名指しで説明していない。",
+      "sourceSupportsMainAnswer": false,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0036",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25880520/",
+      "basis": "PubMed Energetics of contraction",
+      "finding": "筋肉はATPから得たエネルギーを収縮の仕事へ変換する。",
+      "sourceSupportsMainAnswer": true,
+      "expertApproved": false,
+      "allChoicesChecked": false
+    }
+  ]
+}
