@@ -49,6 +49,8 @@ jobs:
         run: node scripts/check-physiology-respiration-autonomic-review.mjs
       - name: Check autonomic and endocrine follow-up
         run: node scripts/check-physiology-autonomic-endocrine-followup.mjs
+      - name: Check digestive physiology coverage
+        run: node scripts/check-physiology-digestion-renal-review.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
