@@ -4,6 +4,7 @@ on:
     branches: [main, 'feature/**']
   pull_request:
     branches: [main, 'feature/**']
+  workflow_dispatch:
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -12,6 +13,24 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: node --test tests/*.test.mjs
-      - run: node --check src/exam-core.mjs
-      - run: node --check exams/eisei-1/questions.js
+      - name: Run tests
+        run: node --test tests/*.test.mjs
+      - name: Check JavaScript syntax
+        run: |
+          node --check src/exam-core.mjs
+          node --check exams/eisei-1/questions.js
+  preview-artifact:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare preview package
+        run: |
+          mkdir -p preview-site/exams/eisei-1
+          cp index.html manifest.webmanifest sw.js preview-site/
+          cp exams/eisei-1/questions.js preview-site/exams/eisei-1/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shikaku-toppa-preview
+          path: preview-site/
+          retention-days: 7
