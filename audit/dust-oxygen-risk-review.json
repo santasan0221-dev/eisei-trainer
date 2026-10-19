@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "status": "一次照合・最終未承認",
+  "entries": [
+    {
+      "id": "EISEI1-0041",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74105000&dataType=0&pageNo=1",
+      "basis": "酸素欠乏症等防止規則第3条・第5条",
+      "finding": "酸素欠乏危険作業では作業前測定を行い原則酸素濃度18%以上に維持するよう換気。換気困難等の場合は必要な空気呼吸器等の対応を要する。",
+      "reviewCaveat": "通常の防じんマスク・防毒マスクでは酸素欠乏を解消できない。第2種では硫化水素にも注意。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0037",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74107000&dataType=0&pageNo=1",
+      "basis": "粉じん障害防止規則第11条（局所排気装置）",
+      "finding": "局所排気のフードは粉じんの発生源ごとに設け、外付け式フードは発生源にできるだけ近づけて捕集する。",
+      "reviewCaveat": "局所排気設備を設置すれば無条件で完全対策になるわけではない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0099",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74107000&dataType=0&pageNo=1",
+      "basis": "粉じん障害防止規則第11条（局所排気装置）",
+      "finding": "局所排気のフードは粉じんの発生源ごとに設け、外付け式フードは発生源にできるだけ近づけて捕集する。",
+      "reviewCaveat": "局所排気設備を設置すれば無条件で完全対策になるわけではない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0100",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74107000&dataType=0&pageNo=1",
+      "basis": "粉じん障害防止規則第11条（局所排気装置）",
+      "finding": "局所排気のフードは粉じんの発生源ごとに設け、外付け式フードは発生源にできるだけ近づけて捕集する。",
+      "reviewCaveat": "局所排気設備を設置すれば無条件で完全対策になるわけではない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0043",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74107000&dataType=0&pageNo=1",
+      "basis": "粉じん障害防止規則第4条・第27条",
+      "finding": "粉じんの発散防止には密閉、湿潤化、局所排気等を条件に応じ組み合わせ、必要な作業には有効な呼吸用保護具を使用させる。",
+      "reviewCaveat": "粉じん用の防じんマスクと有機溶剤蒸気用の防毒マスクを混同しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0097",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74107000&dataType=0&pageNo=1",
+      "basis": "粉じん障害防止規則第4条・第27条",
+      "finding": "粉じんの発散防止には密閉、湿潤化、局所排気等を条件に応じ組み合わせ、必要な作業には有効な呼吸用保護具を使用させる。",
+      "reviewCaveat": "粉じん用の防じんマスクと有機溶剤蒸気用の防毒マスクを混同しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0098",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74107000&dataType=0&pageNo=1",
+      "basis": "粉じん障害防止規則第4条・第27条",
+      "finding": "粉じんの発散防止には密閉、湿潤化、局所排気等を条件に応じ組み合わせ、必要な作業には有効な呼吸用保護具を使用させる。",
+      "reviewCaveat": "粉じん用の防じんマスクと有機溶剤蒸気用の防毒マスクを混同しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
