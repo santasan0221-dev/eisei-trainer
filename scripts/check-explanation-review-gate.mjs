@@ -7,7 +7,8 @@ const evidence=[
   ...read('audit/primary-source-checks-batch2.json').entries,
   ...read('audit/primary-source-checks-batch3.json').entries,
   ...read('audit/primary-source-checks-batch4.json').entries,
-  ...read('audit/primary-source-checks-batch5.json').entries
+  ...read('audit/primary-source-checks-batch5.json').entries,
+  ...read('audit/primary-source-checks-batch6.json').entries
 ];
 const firstPass=new Set(evidence.map(x=>x.id));
 const allIds=new Set(bank.questions.map(x=>x.id));
@@ -16,5 +17,5 @@ for(const p of proposals){if(!allIds.has(p.id)||seen.has(p.id))throw Error('Inva
 for(const e of evidence){if(!seen.has(e.id))throw Error('Evidence lacks proposal '+e.id);if(e.expertApproved!==false)throw Error('Unexpected expert approval '+e.id)}
 const lacking=proposals.filter(p=>!firstPass.has(p.id)).map(p=>p.id);
 const report={originalQuestions:bank.questions.length,proposals:proposals.length,sourceChecks:firstPass.size,awaitingSourceRecheck:lacking,expertApproved:0,explanationsAppliedToProduction:false};
-if(report.proposals!==34||report.sourceChecks!==29||lacking.length!==5)throw Error('Unexpected baseline '+JSON.stringify(report));
+if(report.proposals!==34||report.sourceChecks!==34||lacking.length!==0)throw Error('Unexpected baseline '+JSON.stringify(report));
 fs.mkdirSync('audit-output',{recursive:true});fs.writeFileSync('audit-output/explanation-review-gate.json',JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify(report));
