@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0027",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/complete-blood-count-cbc/",
+      "basis": "NIH MedlinePlus complete blood count",
+      "finding": "赤血球に含まれるヘモグロビンが肺から組織への酸素運搬を担う。赤血球とヘモグロビンという細胞・タンパク質の違いに注意。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0183",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/complete-blood-count-cbc/",
+      "basis": "NIH MedlinePlus complete blood count",
+      "finding": "赤血球に含まれるヘモグロビンが肺から組織への酸素運搬を担う。赤血球とヘモグロビンという細胞・タンパク質の違いに注意。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0184",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/complete-blood-count-cbc/",
+      "basis": "NIH MedlinePlus complete blood count",
+      "finding": "赤血球に含まれるヘモグロビンが肺から組織への酸素運搬を担う。赤血球とヘモグロビンという細胞・タンパク質の違いに注意。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0185",
+      "sourceUrl": "https://medlineplus.gov/blood.html",
+      "basis": "NIH MedlinePlus Blood",
+      "finding": "血小板は止血・凝固、白血球は感染防御・免疫反応に関与。機能の混同を避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0186",
+      "sourceUrl": "https://medlineplus.gov/blood.html",
+      "basis": "NIH MedlinePlus Blood",
+      "finding": "血小板は止血・凝固、白血球は感染防御・免疫反応に関与。機能の混同を避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0187",
+      "sourceUrl": "https://medlineplus.gov/blood.html",
+      "basis": "NIH MedlinePlus Blood",
+      "finding": "血小板は止血・凝固、白血球は感染防御・免疫反応に関与。機能の混同を避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0188",
+      "sourceUrl": "https://medlineplus.gov/blood.html",
+      "basis": "NIH MedlinePlus Blood",
+      "finding": "血小板は止血・凝固、白血球は感染防御・免疫反応に関与。機能の混同を避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0030",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/heart/blood-flow",
+      "basis": "NIH NHLBI how blood flows through heart",
+      "finding": "左心室から拍出された酸素化血液は大動脈に流入する。右心室から肺動脈へ行く肺循環とは別。",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    }
+  ]
+}
