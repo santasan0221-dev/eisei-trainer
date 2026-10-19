@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "files": [
+    "audit/primary-source-checks.json",
+    "audit/primary-source-checks-batch2.json",
+    "audit/primary-source-checks-batch3.json",
+    "audit/primary-source-checks-batch4.json",
+    "audit/primary-source-checks-batch5.json",
+    "audit/primary-source-checks-batch6.json",
+    "audit/legal-core-review-batch1.json",
+    "audit/legal-working-time-review.json",
+    "audit/legal-committee-leave-review.json",
+    "audit/health-privacy-promoter-review.json",
+    "audit/dust-oxygen-risk-review.json",
+    "audit/solvent-respirator-review.json",
+    "audit/physiology-blood-circulation-review.json",
+    "audit/physiology-respiration-autonomic-review.json",
+    "audit/physiology-autonomic-endocrine-followup.json",
+    "audit/physiology-digestion-renal-review.json",
+    "audit/digestion-evidence-heat-review.json",
+    "audit/heat-noise-vibration-review.json",
+    "audit/uv-co-radiation-exposure-review.json",
+    "audit/hygiene-firstaid-followup-review.json",
+    "audit/prevention-mental-health-review.json",
+    "audit/infection-backpain-gloves-review.json",
+    "audit/chemical-controls-smoke-review.json"
+  ]
+}
