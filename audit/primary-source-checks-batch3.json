@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "EISEI1-0103",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74094000&dataType=0",
+      "basis": "鉛中毒予防規則第49条・第51条",
+      "finding": "鉛業務では手洗い用溶液等の使用、作業場所での喫煙・飲食の禁止が定められており、設問の正答方針に整合する。",
+      "level": "一次資料照合・要二次確認",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0104",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74094000&dataType=0",
+      "basis": "鉛中毒予防規則第49条・第51条",
+      "finding": "鉛業務では手洗い用溶液等の使用、作業場所での喫煙・飲食の禁止が定められており、設問の正答方針に整合する。",
+      "level": "一次資料照合・要二次確認",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0137",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11201250/001249070.pdf",
+      "basis": "厚生労働省 職場環境改善の手引",
+      "finding": "職場環境の改善をメンタルヘルス一次予防策として位置づけていることを確認。",
+      "level": "一次資料照合・要二次確認",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0138",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11201250/001249070.pdf",
+      "basis": "厚生労働省 職場環境改善の手引",
+      "finding": "職場環境の改善をメンタルヘルス一次予防策として位置づけていることを確認。",
+      "level": "一次資料照合・要二次確認",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0173",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo15_1.html",
+      "basis": "厚生労働省 職場のあんぜんサイト 局所排気装置",
+      "finding": "局所排気装置は発散源付近で有害物を捕集する装置であり、発生源対策という正答方針に整合する。",
+      "level": "一次資料照合・要二次確認",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0174",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo15_1.html",
+      "basis": "厚生労働省 職場のあんぜんサイト 局所排気装置",
+      "finding": "局所排気装置は発散源付近で有害物を捕集する装置であり、発生源対策という正答方針に整合する。",
+      "level": "一次資料照合・要二次確認",
+      "expertApproved": false
+    }
+  ],
+  "note": "厚労省一次資料と設問の主要論点だけ照合。法令施行日、全選択肢、専門家最終承認は未検証。"
+}
