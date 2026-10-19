@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0022",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkoudukuri/index.html",
+      "basis": "厚生労働省 健康づくり・疾病予防",
+      "finding": "一次予防は疾病の発生を未然に防ぐこと。二次予防の早期発見、三次予防の再発防止と区別。",
+      "reviewCaveat": "予防段階の用語を職場のメンタルヘルス予防と混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": false
+    },
+    {
+      "id": "EISEI1-0139",
+      "sourceUrl": "https://kokoro.mhlw.go.jp/guideline/",
+      "basis": "厚生労働省『こころの耳』職場のメンタルヘルス対策",
+      "finding": "二次予防はメンタルヘルス不調の早期発見と適切な対応に関係する。",
+      "reviewCaveat": "ストレスチェック実施義務と二次予防の概念は分けて考える",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": false
+    },
+    {
+      "id": "EISEI1-0140",
+      "sourceUrl": "https://kokoro.mhlw.go.jp/guideline/",
+      "basis": "厚生労働省『こころの耳』職場のメンタルヘルス対策",
+      "finding": "二次予防はメンタルヘルス不調の早期発見と適切な対応に関係する。",
+      "reviewCaveat": "ストレスチェック実施義務と二次予防の概念は分けて考える",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": false
+    },
+    {
+      "id": "EISEI1-0141",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000189227.html",
+      "basis": "厚生労働省 職場復帰支援の手引き",
+      "finding": "三次予防の重要な実践には休業労働者の職場復帰支援と再発予防が含まれる。",
+      "reviewCaveat": "休職者本人への支援と企業の就業上の措置を区別する",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": false
+    },
+    {
+      "id": "EISEI1-0142",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000189227.html",
+      "basis": "厚生労働省 職場復帰支援の手引き",
+      "finding": "三次予防の重要な実践には休業労働者の職場復帰支援と再発予防が含まれる。",
+      "reviewCaveat": "休職者本人への支援と企業の就業上の措置を区別する",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": false
+    }
+  ]
+}
