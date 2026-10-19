@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "checkedDate": "2026-10-19",
+  "entries": [
+    {
+      "id": "EISEI1-0026",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74089000&dataType=0&pageNo=1",
+      "basis": "事務所衛生基準規則第3条・第5条",
+      "finding": "事務所の二酸化炭素濃度は換気・空気環境の管理指標の一つ。通常換気の規定と空調設備等の規定は区別する。",
+      "level": "公式資料と主要論点を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0145",
+      "sourceUrl": "https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html",
+      "basis": "厚労省 e-ヘルスネット 睡眠不足と昼間の眠気",
+      "finding": "睡眠不足による注意力・集中力低下や運転等の事故リスク増加が示される。",
+      "level": "公式資料と主要論点を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0146",
+      "sourceUrl": "https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html",
+      "basis": "厚労省 e-ヘルスネット 睡眠不足と昼間の眠気",
+      "finding": "睡眠不足による注意力・集中力低下や運転等の事故リスク増加が示される。",
+      "level": "公式資料と主要論点を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0163",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74164000&dataType=0&pageNo=1",
+      "basis": "じん肺法第2条第1項第1号",
+      "finding": "粉じん吸入による肺の線維増殖性変化を主体とする疾病がじん肺と定義される。",
+      "level": "公式資料と主要論点を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0164",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74164000&dataType=0&pageNo=1",
+      "basis": "じん肺法第2条第1項第1号",
+      "finding": "粉じん吸入による肺の線維増殖性変化を主体とする疾病がじん肺と定義される。",
+      "level": "公式資料と主要論点を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0171",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc0351&dataType=1&pageNo=1",
+      "basis": "厚労省 騒音性難聴の認定基準",
+      "finding": "長期の著しい騒音ばく露による感音性難聴が対象。耳の疾患などによる難聴と区別する。",
+      "level": "公式資料と主要論点を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0172",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc0351&dataType=1&pageNo=1",
+      "basis": "厚労省 騒音性難聴の認定基準",
+      "finding": "長期の著しい騒音ばく露による感音性難聴が対象。耳の疾患などによる難聴と区別する。",
+      "level": "公式資料と主要論点を照合",
+      "expertApproved": false
+    }
+  ],
+  "note": "全選択肢の校閲や専門家承認ではない。問題原本は変更しない。"
+}
