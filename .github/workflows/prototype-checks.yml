@@ -1,9 +1,9 @@
 name: Prototype checks
 on:
   push:
-    branches: [main, 'feature/**']
+    branches: [main, 'feature/**', 'fix/**', 'test/**']
   pull_request:
-    branches: [main, 'feature/**']
+    branches: [main, 'feature/**', 'fix/**', 'test/**']
   workflow_dispatch:
 jobs:
   test:
