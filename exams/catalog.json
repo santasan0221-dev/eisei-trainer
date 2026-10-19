@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "exams": [
+    {
+      "id": "eisei-1",
+      "name": "第一種衛生管理者",
+      "status": "available",
+      "questionBank": "legacy-inline",
+      "examMinutes": 180,
+      "description": "214演習問題・5区分模試"
+    },
+    {
+      "id": "eisei-2",
+      "name": "第二種衛生管理者",
+      "status": "planned",
+      "questionBank": null,
+      "description": "問題と法令の監査後に公開"
+    },
+    {
+      "id": "otsu4",
+      "name": "危険物取扱者 乙4",
+      "status": "planned",
+      "questionBank": null,
+      "description": "準備中"
+    },
+    {
+      "id": "it-passport",
+      "name": "ITパスポート",
+      "status": "planned",
+      "questionBank": null,
+      "description": "準備中"
+    },
+    {
+      "id": "unkan",
+      "name": "運行管理者",
+      "status": "planned",
+      "questionBank": null,
+      "description": "準備中"
+    },
+    {
+      "id": "boki-3",
+      "name": "日商簿記3級",
+      "status": "planned",
+      "questionBank": null,
+      "description": "準備中"
+    }
+  ]
+}
