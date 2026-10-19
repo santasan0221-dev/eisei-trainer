@@ -51,6 +51,8 @@ jobs:
         run: node scripts/check-physiology-autonomic-endocrine-followup.mjs
       - name: Check digestive physiology coverage
         run: node scripts/check-physiology-digestion-renal-review.mjs
+      - name: Verify digestion and heat evidence
+        run: node --test tests/digestion-evidence-heat-review.test.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
