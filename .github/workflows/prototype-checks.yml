@@ -21,6 +21,8 @@ jobs:
         run: node scripts/review-triage.mjs
       - name: Audit explanation review coverage
         run: node scripts/check-explanation-review-gate.mjs
+      - name: Build full-bank review queue
+        run: node scripts/build-review-queue.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
