@@ -1,0 +1,237 @@
+{
+  "examId": "eisei-1",
+  "version": 1,
+  "status": "review-required-not-published",
+  "origin": "new-original-draft",
+  "sourceReference": "https://www.exam.or.jp/lckohyo/",
+  "questions": [
+    {
+      "id": "EISEI1-DRAFT-001",
+      "category": "関係法令（一般）",
+      "topic": "衛生委員会の構成",
+      "question": "衛生委員会の議長に関して適切な説明はどれか。",
+      "choices": [
+        "原則として総括安全衛生管理者またはこれに準ずる者が務める",
+        "衛生管理者だけが務められる",
+        "常に労働者の互選で決まる",
+        "産業医のみが務める",
+        "議長を設ける必要はない"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "衛生委員会の構成要件と議長の資格を確認する。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-002",
+      "category": "関係法令（一般）",
+      "topic": "定期健康診断の事後措置",
+      "question": "健康診断の結果、異常所見がある労働者への対応として適切なのはどれか。",
+      "choices": [
+        "直ちに一律解雇する",
+        "医師等の意見を聴き、必要な就業上の措置を検討する",
+        "結果を誰でも見られる場所に掲示する",
+        "本人の申告がなければ放置する",
+        "全員の労働契約を解除する"
+      ],
+      "answerIndex": 1,
+      "explanationDraft": "医師等の意見聴取や就業上の措置を理解する。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-003",
+      "category": "関係法令（一般）",
+      "topic": "衛生管理者の選任単位",
+      "question": "本社と遠隔地の工場が独立した事業場である場合、衛生管理者の選任人数を判断する単位として原則適切なのはどれか。",
+      "choices": [
+        "企業グループ全体",
+        "本社と工場を合計した法人単位",
+        "各事業場ごと",
+        "役職者の人数だけ",
+        "業務委託先の人数だけ"
+      ],
+      "answerIndex": 2,
+      "explanationDraft": "原則として事業場単位で常時使用労働者数を判断する。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-004",
+      "category": "労働衛生（一般）",
+      "topic": "一次・二次・三次予防",
+      "question": "定期健康診断で疾病を早期に発見する取り組みは、一般にどの段階の予防か。",
+      "choices": [
+        "一次予防",
+        "二次予防",
+        "三次予防",
+        "四次予防",
+        "疾病予防には含まれない"
+      ],
+      "answerIndex": 1,
+      "explanationDraft": "二次予防は早期発見・早期治療を目指す。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-005",
+      "category": "労働衛生（一般）",
+      "topic": "熱中症の緊急対応",
+      "question": "暑い職場で意識状態がおかしい労働者が出た場合に優先する対応はどれか。",
+      "choices": [
+        "本人が希望するまで放置する",
+        "大量の水を無理に飲ませる",
+        "救急要請と冷却・安全確保を進める",
+        "作業を継続させる",
+        "体を温める"
+      ],
+      "answerIndex": 2,
+      "explanationDraft": "意識障害は緊急性が高く、無理な飲水を避けて救急対応する。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-006",
+      "category": "労働衛生（一般）",
+      "topic": "情報機器作業の負担軽減",
+      "question": "情報機器作業の負担軽減で適切なのはどれか。",
+      "choices": [
+        "長時間同じ姿勢を保つ",
+        "画面の反射や姿勢を調整する",
+        "照度は常にゼロにする",
+        "休止を認めない",
+        "全員が同じ高さの椅子を使う"
+      ],
+      "answerIndex": 1,
+      "explanationDraft": "作業環境、姿勢、休止時間を組み合わせて対策する。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-007",
+      "category": "労働生理",
+      "topic": "呼吸とガス交換",
+      "question": "肺胞のガス交換について適切なのはどれか。",
+      "choices": [
+        "酸素は肺胞から血液に移る",
+        "酸素は必ず血液から肺胞へ移る",
+        "二酸化炭素は肺胞で生成されるだけで排出されない",
+        "肺胞は消化酵素を出す",
+        "肺胞は血球を産生する"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "肺胞と毛細血管の間で酸素・二酸化炭素を交換する。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-008",
+      "category": "労働生理",
+      "topic": "腎機能と尿生成",
+      "question": "腎臓で原尿が作られる過程に最も関係する構造はどれか。",
+      "choices": [
+        "肺胞",
+        "胃の幽門",
+        "糸球体",
+        "甲状腺濾胞",
+        "肝小葉"
+      ],
+      "answerIndex": 2,
+      "explanationDraft": "糸球体でろ過が起こり、尿細管で再吸収などが行われる。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-009",
+      "category": "労働生理",
+      "topic": "自律神経と循環",
+      "question": "交感神経が優位な状況で一般的に見られる反応はどれか。",
+      "choices": [
+        "心拍数の増加",
+        "心拍停止",
+        "瞳孔の恒常的縮小のみ",
+        "血圧は必ずゼロになる",
+        "呼吸の完全停止"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "交感神経は活動時の生理的反応に関与する。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-010",
+      "category": "関係法令（有害）",
+      "topic": "有害物質のばく露経路",
+      "question": "作業場で有害化学物質が人体に侵入する経路の組み合わせとして適切なのはどれか。",
+      "choices": [
+        "吸入・皮膚・経口",
+        "音・光・影",
+        "視力・聴力・味覚",
+        "気圧・湿度・速度",
+        "騒音・振動・温度"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "吸入・経皮吸収・経口摂取が代表的なばく露経路。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-011",
+      "category": "関係法令（有害）",
+      "topic": "リスク低減の優先順位",
+      "question": "化学物質リスクの低減措置として、個人用保護具に頼る前に優先して検討するのはどれか。",
+      "choices": [
+        "危険源の除去・代替・密閉化など",
+        "作業者の我慢",
+        "表示の撤去",
+        "換気停止",
+        "記録の廃棄"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "上位のリスク低減措置を優先し、保護具も必要に応じて組み合わせる。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-012",
+      "category": "労働衛生（有害）",
+      "topic": "騒音と健康影響",
+      "question": "長期の大きな騒音ばく露で注意すべき健康影響はどれか。",
+      "choices": [
+        "騒音性難聴",
+        "虫歯のみに限る",
+        "骨折のみに限る",
+        "視力の急速な改善",
+        "血糖値の永久的な低下"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "大きな騒音に長くばく露すると聴力低下のリスクがある。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    }
+  ]
+}
