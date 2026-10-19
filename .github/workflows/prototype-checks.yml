@@ -41,6 +41,8 @@ jobs:
         run: node scripts/check-health-privacy-promoter-review.mjs
       - name: Check dust and oxygen source review
         run: node scripts/check-dust-oxygen-review.mjs
+      - name: Check solvent and respirator primary reviews
+        run: node scripts/check-solvent-respirator-review.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax

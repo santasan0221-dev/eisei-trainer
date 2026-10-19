@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0095",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc2748&dataType=1&pageNo=1",
+      "basis": "防毒マスクの選択・使用に関する厚労省通達",
+      "finding": "有機溶剤蒸気への対策では有機ガス用など適切な吸収缶を選択し、物質・濃度・破過時間・密着性を確認する。",
+      "reviewCaveat": "酸素欠乏環境や高濃度など、防毒マスクの使用に適さない条件がある。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0096",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc2748&dataType=1&pageNo=1",
+      "basis": "防毒マスクの選択・使用に関する厚労省通達",
+      "finding": "有機溶剤蒸気への対策では有機ガス用など適切な吸収缶を選択し、物質・濃度・破過時間・密着性を確認する。",
+      "reviewCaveat": "酸素欠乏環境や高濃度など、防毒マスクの使用に適さない条件がある。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0107",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74090000",
+      "basis": "有機溶剤中毒予防規則第19条の2",
+      "finding": "有機溶剤作業主任者は作業方法の決定・作業者指揮、換気装置の1か月以内ごとの点検、保護具使用状況の監視等を行う。",
+      "reviewCaveat": "作業主任者の選任対象作業と対象外の業務の区別が必要。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0108",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74090000",
+      "basis": "有機溶剤中毒予防規則第19条の2",
+      "finding": "有機溶剤作業主任者は作業方法の決定・作業者指揮、換気装置の1か月以内ごとの点検、保護具使用状況の監視等を行う。",
+      "reviewCaveat": "作業主任者の選任対象作業と対象外の業務の区別が必要。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0179",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc5642&dataType=1&pageNo=1",
+      "basis": "特化則第38条の21 フィットテストの適用",
+      "finding": "一定の金属アーク溶接等作業では面体の密着確認を求めるフィットテストが義務付けられる。",
+      "reviewCaveat": "フィットテストの法定義務がすべてのマスク使用作業に一律に適用されるとは説明しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0180",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc5642&dataType=1&pageNo=1",
+      "basis": "特化則第38条の21 フィットテストの適用",
+      "finding": "一定の金属アーク溶接等作業では面体の密着確認を求めるフィットテストが義務付けられる。",
+      "reviewCaveat": "フィットテストの法定義務がすべてのマスク使用作業に一律に適用されるとは説明しない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0050",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/jirei/sai_000968.html",
+      "basis": "厚労省 職場のあんぜんサイト 有機溶剤中毒の災害事例",
+      "finding": "有機溶剤の吸入ばく露によって急性中毒・意識障害などが生じる危険性があり、換気・保護具・作業管理が必要。",
+      "reviewCaveat": "有機溶剤の種類や濃度で症状は異なる。すべての有機溶剤で一律同症状とはしない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0169",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/jirei/sai_000968.html",
+      "basis": "厚労省 職場のあんぜんサイト 有機溶剤中毒の災害事例",
+      "finding": "有機溶剤の吸入ばく露によって急性中毒・意識障害などが生じる危険性があり、換気・保護具・作業管理が必要。",
+      "reviewCaveat": "有機溶剤の種類や濃度で症状は異なる。すべての有機溶剤で一律同症状とはしない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0170",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/jirei/sai_000968.html",
+      "basis": "厚労省 職場のあんぜんサイト 有機溶剤中毒の災害事例",
+      "finding": "有機溶剤の吸入ばく露によって急性中毒・意識障害などが生じる危険性があり、換気・保護具・作業管理が必要。",
+      "reviewCaveat": "有機溶剤の種類や濃度で症状は異なる。すべての有機溶剤で一律同症状とはしない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
