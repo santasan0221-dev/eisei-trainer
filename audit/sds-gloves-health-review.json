@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0089",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11237.html",
+      "finding": "SDSは化学物質の安全データシートの略称として使われ、労働安全衛生法の情報伝達制度に位置付けられる。",
+      "evidenceForMainAnswer": "direct",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0090",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11237.html",
+      "finding": "SDSは化学物質の安全データシートの略称として使われ、労働安全衛生法の情報伝達制度に位置付けられる。",
+      "evidenceForMainAnswer": "direct",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0115",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc2426&dataType=1",
+      "finding": "取扱物質と使用時間に適合する耐透過性の化学防護手袋を選定する。",
+      "evidenceForMainAnswer": "direct",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0119",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理である。",
+      "evidenceForMainAnswer": "direct",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0120",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理である。",
+      "evidenceForMainAnswer": "direct",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    }
+  ]
+}
