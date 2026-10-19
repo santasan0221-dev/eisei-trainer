@@ -31,6 +31,8 @@ jobs:
         run: node scripts/check-candidate-publication.mjs
       - name: Build prioritized review worklist
         run: node scripts/build-prioritized-review-worklist.mjs
+      - name: Check new legal core review coverage
+        run: node scripts/check-legal-core-review-progress.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
