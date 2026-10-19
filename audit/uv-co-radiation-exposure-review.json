@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0157",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo81_1.html",
+      "basis": "厚生労働省 職場のあんぜんサイト アーク溶接",
+      "finding": "アーク溶接の紫外線は電気性眼炎を引き起こす。眼の防護用溶接面等が必要。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0158",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo81_1.html",
+      "basis": "厚生労働省 職場のあんぜんサイト アーク溶接",
+      "finding": "アーク溶接の紫外線は電気性眼炎を引き起こす。眼の防護用溶接面等が必要。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0045",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo08_1.html",
+      "basis": "厚生労働省 一酸化炭素中毒",
+      "finding": "一酸化炭素はヘモグロビンと結合しやすく、酸素運搬能力を下げる。無色・無臭で感知しにくい。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0165",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo08_1.html",
+      "basis": "厚生労働省 一酸化炭素中毒",
+      "finding": "一酸化炭素はヘモグロビンと結合しやすく、酸素運搬能力を下げる。無色・無臭で感知しにくい。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0166",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo08_1.html",
+      "basis": "厚生労働省 一酸化炭素中毒",
+      "finding": "一酸化炭素はヘモグロビンと結合しやすく、酸素運搬能力を下げる。無色・無臭で感知しにくい。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0051",
+      "sourceUrl": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/hourei_seido_tetsuzuki/anzen_eisei/denri_faq.html",
+      "basis": "神奈川労働局 電離放射線FAQ",
+      "finding": "外部被ばくの低減の基本は時間短縮・線源からの距離確保・遮へい。必要性のない被ばくを避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0109",
+      "sourceUrl": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/hourei_seido_tetsuzuki/anzen_eisei/denri_faq.html",
+      "basis": "神奈川労働局 電離放射線FAQ",
+      "finding": "外部被ばくの低減の基本は時間短縮・線源からの距離確保・遮へい。必要性のない被ばくを避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0110",
+      "sourceUrl": "https://jsite.mhlw.go.jp/kanagawa-roudoukyoku/hourei_seido_tetsuzuki/anzen_eisei/denri_faq.html",
+      "basis": "神奈川労働局 電離放射線FAQ",
+      "finding": "外部被ばくの低減の基本は時間短縮・線源からの距離確保・遮へい。必要性のない被ばくを避ける。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0049",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_30056.html",
+      "basis": "厚生労働省 職業病対象化学物質",
+      "finding": "鉛及び化合物は造血器障害・末梢神経障害などの健康障害と関連する。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    },
+    {
+      "id": "EISEI1-0053",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11300000/001107730.pdf",
+      "basis": "厚生労働省 化学物質リスクアセスメント教材",
+      "finding": "化学物質の代表的ばく露経路は吸入、経皮吸収、経口摂取。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "legalEffectiveDateConfirmed": false
+    }
+  ],
+  "scope": "主要論点の照合、専門家未承認"
+}
