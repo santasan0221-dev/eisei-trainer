@@ -19,8 +19,22 @@ jobs:
         run: |
           node --check src/exam-core.mjs
           node --check exams/eisei-1/questions.js
-  preview-artifact:
+  browser-smoke:
     needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install headless browser
+        run: |
+          npm install --no-save playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Click and verify exam
+        run: node tests/exam-browser-smoke.mjs
+  preview-artifact:
+    needs: [test, browser-smoke]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
