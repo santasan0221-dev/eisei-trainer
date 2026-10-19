@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "note": "一次照合メモ。専門家校閲完了を意味しない。学習アプリ本体の問題データを変更しない。",
+  "entries": [
+    {
+      "id": "EISEI1-0001",
+      "status": "一次照合",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032/20260101_507M60000100097/",
+      "legalBasis": "労働安全衛生法施行令第4条（50人以上）および安衛則第7条",
+      "finding": "50人以上の事業場で衛生管理者の選任が必要。適用範囲の前提条件は最終校閲で再確認。",
+      "reviewer": null,
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0002",
+      "status": "一次照合",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032/20260101_507M60000100097/",
+      "legalBasis": "労働安全衛生規則第7条第1項第1号",
+      "finding": "選任すべき事由の発生から14日以内。",
+      "reviewer": null,
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0003",
+      "status": "一次照合",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032/20260101_507M60000100097/",
+      "legalBasis": "労働安全衛生規則第11条第1項",
+      "finding": "少なくとも毎週1回作業場等を巡視。",
+      "reviewer": null,
+      "approved": false
+    }
+  ]
+}
