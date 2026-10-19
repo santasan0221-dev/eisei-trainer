@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-20",
+  "scope": "existing question bank unreviewed priority batch 1",
+  "entries": [
+    {
+      "id": "EISEI1-0001",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "basis": "衛生管理者の選任: 常時50人以上・事業場単位",
+      "finding": "衛生管理者は常時50人以上を使用する事業場で選任が必要。会社全体を一括して判定する説明は避ける。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0055",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "basis": "衛生管理者の選任: 常時50人以上・事業場単位",
+      "finding": "衛生管理者は常時50人以上を使用する事業場で選任が必要。会社全体を一括して判定する説明は避ける。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0056",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "basis": "衛生管理者の選任: 常時50人以上・事業場単位",
+      "finding": "衛生管理者は常時50人以上を使用する事業場で選任が必要。会社全体を一括して判定する説明は避ける。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0003",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0",
+      "basis": "労働安全衛生規則第11条",
+      "finding": "衛生管理者は少なくとも毎週1回作業場等を巡視し、有害のおそれがあれば必要な措置を講じる。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0004",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "basis": "衛生管理者の必要人数（事業場150人）",
+      "finding": "常時150人は50人超200人以下の区分で衛生管理者1人以上。境界値200人超は別区分。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0009",
+      "sourceUrl": "https://jsite.mhlw.go.jp/miyagi-roudoukyoku/2/227.html",
+      "basis": "衛生委員会の設置（常時50人以上）",
+      "finding": "常時50人以上の事業場ごとに衛生委員会を設置する。業種によっては安全衛生委員会の形もある。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0015",
+      "sourceUrl": "https://www.check-roudou.mhlw.go.jp/qa/roudousya/yukyu/q1.html",
+      "basis": "労働基準法第39条 年次有給休暇",
+      "finding": "原則6か月間継続勤務し全労働日の8割以上出勤した場合、年次有給休暇の付与要件を満たす。比例付与等の例外に注意。",
+      "reviewStatus": "公的法令・行政資料との主要論点一次照合",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
