@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0008",
+      "sourceUrl": "https://www.mhlw.go.jp/toukei/itiran/roudou/saigai/anzen/anzen00/5.html",
+      "basis": "労働安全衛生法第12条・第13条",
+      "finding": "常時50人以上の事業場では原則衛生管理者と産業医の選任が必要。安全管理者は業種別要件がある。",
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0081",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "basis": "労働安全衛生規則第43条",
+      "finding": "雇入時健康診断は常時使用する労働者が対象。直近3か月以内の健診結果を示す書面がある場合、相当項目についての省略条件に注意。",
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0082",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "basis": "労働安全衛生規則第43条",
+      "finding": "雇入時健康診断は常時使用する労働者が対象。直近3か月以内の健診結果を示す書面がある場合、相当項目についての省略条件に注意。",
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0083",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_09980.html",
+      "basis": "労働安全衛生法第12条の2と安衛則第12条の2",
+      "finding": "常時10人以上50人未満の事業場では業種に応じ安全衛生推進者又は衛生推進者の選任が必要。設問の『衛生推進者』と『安全衛生推進者』の違いを明示する必要がある。",
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0084",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_09980.html",
+      "basis": "労働安全衛生法第12条の2と安衛則第12条の2",
+      "finding": "常時10人以上50人未満の事業場では業種に応じ安全衛生推進者又は衛生推進者の選任が必要。設問の『衛生推進者』と『安全衛生推進者』の違いを明示する必要がある。",
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0085",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc1015&dataType=1&pageNo=1",
+      "basis": "労働安全衛生法第66条の10第2項とストレスチェック指針",
+      "finding": "個人結果は本人の同意なしに事業者へ提供しない。本人への結果通知後に同意を取得し、面接指導申出等の扱いに留意する。",
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0086",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc1015&dataType=1&pageNo=1",
+      "basis": "労働安全衛生法第66条の10第2項とストレスチェック指針",
+      "finding": "個人結果は本人の同意なしに事業者へ提供しない。本人への結果通知後に同意を取得し、面接指導申出等の扱いに留意する。",
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
