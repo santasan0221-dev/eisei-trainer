@@ -25,6 +25,8 @@ jobs:
         run: node scripts/build-review-queue.mjs
       - name: Check legal change risk register
         run: node scripts/check-legal-change-risk.mjs
+      - name: Check draft answer rationales
+        run: node scripts/check-legal-option-review.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
