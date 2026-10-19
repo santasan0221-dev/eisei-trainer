@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "status": "提案・未承認",
+  "note": "原本の設問・正答・解説を変更しない。公式情報との一次照合案であり専門家校閲ではない。",
+  "entries": [
+    {
+      "id": "EISEI1-0002",
+      "proposedExplanation": "衛生管理者は、選任すべき事由が発生した日から14日以内に選任する。根拠は労働安全衛生規則第7条第1項第1号。7日、10日、30日、60日は、この規定の選任期限と一致しない。",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032?occasion_date=20250620",
+      "basis": "労働安全衛生規則第7条第1項第1号",
+      "status": "一次照合案",
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0005",
+      "proposedExplanation": "常時使用する労働者が200人を超え500人以下の事業場では、衛生管理者を2人以上選任する。350人はこの区分に該当するので2人が最低人数。1人では不足し、3～5人は法令上の最低人数ではない。",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032?occasion_date=20250620",
+      "basis": "労働安全衛生規則第7条第1項第4号",
+      "status": "一次照合案",
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0006",
+      "proposedExplanation": "常時使用する労働者が500人を超え1000人以下の事業場では、衛生管理者を3人以上選任する。750人はこの区分なので最低3人。1人・2人では不足し、4人・6人は最低人数ではない。",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032?occasion_date=20250620",
+      "basis": "労働安全衛生規則第7条第1項第4号",
+      "status": "一次照合案",
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0024",
+      "proposedExplanation": "4つのケアは①セルフケア、②ラインによるケア、③事業場内産業保健スタッフ等によるケア、④事業場外資源によるケア。『顧客によるケア』は含まれない。各ケアの実施主体の違いも確認する。",
+      "sourceUrl": "https://www.mhlw.go.jp/content/000909980.pdf",
+      "basis": "厚生労働省『メンタルヘルスの4つのケア』",
+      "status": "一次照合案",
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0025",
+      "proposedExplanation": "細菌性食中毒の予防は『つけない・増やさない・やっつける』が基本。手指・器具の衛生管理、低温保存、十分な加熱などを組み合わせる。香辛料のみ、冷凍のみ、においのみで安全性は保証できず、常温放置は増殖につながる。ウイルス性食中毒は別の整理が必要。",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00008.html",
+      "basis": "厚生労働省『家庭での食中毒予防』",
+      "status": "一次照合案",
+      "approved": false
+    }
+  ]
+}
