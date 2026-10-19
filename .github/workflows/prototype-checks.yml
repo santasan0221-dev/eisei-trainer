@@ -47,6 +47,8 @@ jobs:
         run: node scripts/check-physiology-blood-circulation-review.mjs
       - name: Check respiratory physiology evidence
         run: node scripts/check-physiology-respiration-autonomic-review.mjs
+      - name: Check autonomic and endocrine follow-up
+        run: node scripts/check-physiology-autonomic-endocrine-followup.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
