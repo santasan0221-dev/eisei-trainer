@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0017",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "basis": "厚労省 職場のあんぜんサイト『労働衛生の3管理』",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理。局所排気は作業環境管理に属し、作業方法の適正化は作業管理。",
+      "reviewCaveat": "5管理の総括管理・衛生教育と混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0018",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "basis": "厚労省 職場のあんぜんサイト『労働衛生の3管理』",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理。局所排気は作業環境管理に属し、作業方法の適正化は作業管理。",
+      "reviewCaveat": "5管理の総括管理・衛生教育と混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0121",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "basis": "厚労省 職場のあんぜんサイト『労働衛生の3管理』",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理。局所排気は作業環境管理に属し、作業方法の適正化は作業管理。",
+      "reviewCaveat": "5管理の総括管理・衛生教育と混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0122",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "basis": "厚労省 職場のあんぜんサイト『労働衛生の3管理』",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理。局所排気は作業環境管理に属し、作業方法の適正化は作業管理。",
+      "reviewCaveat": "5管理の総括管理・衛生教育と混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0123",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "basis": "厚労省 職場のあんぜんサイト『労働衛生の3管理』",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理。局所排気は作業環境管理に属し、作業方法の適正化は作業管理。",
+      "reviewCaveat": "5管理の総括管理・衛生教育と混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0124",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo28_1.html",
+      "basis": "厚労省 職場のあんぜんサイト『労働衛生の3管理』",
+      "finding": "労働衛生の3管理は作業環境管理・作業管理・健康管理。局所排気は作業環境管理に属し、作業方法の適正化は作業管理。",
+      "reviewCaveat": "5管理の総括管理・衛生教育と混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0131",
+      "sourceUrl": "https://www.jrc.or.jp/study/safety/airway/",
+      "basis": "日本赤十字社 心肺蘇生手順",
+      "finding": "反応がなく正常な呼吸がなければ119番通報、AED手配、胸骨圧迫を進める。",
+      "reviewCaveat": "現場安全確認、呼吸評価とAED案内に従う手順を全選択肢で再確認",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0132",
+      "sourceUrl": "https://www.jrc.or.jp/study/safety/airway/",
+      "basis": "日本赤十字社 心肺蘇生手順",
+      "finding": "反応がなく正常な呼吸がなければ119番通報、AED手配、胸骨圧迫を進める。",
+      "reviewCaveat": "現場安全確認、呼吸評価とAED案内に従う手順を全選択肢で再確認",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0143",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11201250/001174622.pdf",
+      "basis": "厚生労働省 健診結果に基づく事後措置の概要",
+      "finding": "異常所見者について医師等の意見を聴き、就業上の措置を検討する。保健指導との役割の違いを確認する。",
+      "reviewCaveat": "医師意見聴取の法定義務と保健指導の努力義務を区別",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    },
+    {
+      "id": "EISEI1-0144",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11201250/001174622.pdf",
+      "basis": "厚生労働省 健診結果に基づく事後措置の概要",
+      "finding": "異常所見者について医師等の意見を聴き、就業上の措置を検討する。保健指導との役割の違いを確認する。",
+      "reviewCaveat": "医師意見聴取の法定義務と保健指導の努力義務を区別",
+      "expertApproved": false,
+      "allChoicesChecked": false
+    }
+  ]
+}
