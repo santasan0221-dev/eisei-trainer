@@ -45,6 +45,8 @@ jobs:
         run: node scripts/check-solvent-respirator-review.mjs
       - name: Check physiology source review coverage
         run: node scripts/check-physiology-blood-circulation-review.mjs
+      - name: Check respiratory physiology evidence
+        run: node scripts/check-physiology-respiration-autonomic-review.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
