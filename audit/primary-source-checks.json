@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "examId": "eisei-1",
+  "description": "34問の解説改善案のうち初回5問の一次資料照合。正式校閲ではない。",
+  "verifiedForReference": [
+    {
+      "id": "EISEI1-0010",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032?occasion_date=20260708",
+      "basis": "労働安全衛生規則第23条第1項",
+      "finding": "衛生委員会を毎月1回以上開催する旨を確認。",
+      "reviewLevel": "公式一次資料と選択肢を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0061",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032?occasion_date=20260708",
+      "basis": "労働安全衛生規則第23条第4項",
+      "finding": "開催の都度記録すべき事項を3年間保存する規定を確認。設問文の『議事の記録』という簡略表現は正確性の最終確認が必要。",
+      "reviewLevel": "公式一次資料と選択肢を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0062",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032?occasion_date=20260708",
+      "basis": "労働安全衛生規則第23条第4項",
+      "finding": "保存期間3年の規定を確認。0061と同一論点の別形式問題。",
+      "reviewLevel": "公式一次資料と選択肢を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0071",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_13.html",
+      "basis": "労働基準法第34条・厚労省FAQ",
+      "finding": "労働時間8時間超では休憩60分以上を確認。45分は6時間超8時間以下の場合。",
+      "reviewLevel": "公式一次資料と選択肢を照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0072",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_13.html",
+      "basis": "労働基準法第34条・厚労省FAQ",
+      "finding": "8時間超の休憩60分以上を確認。0071と同一論点の別形式問題。",
+      "reviewLevel": "公式一次資料と選択肢を照合",
+      "expertApproved": false
+    }
+  ],
+  "needsExpertApproval": true
+}
