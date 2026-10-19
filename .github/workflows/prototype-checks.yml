@@ -23,6 +23,8 @@ jobs:
         run: node scripts/check-explanation-review-gate.mjs
       - name: Build full-bank review queue
         run: node scripts/build-review-queue.mjs
+      - name: Check legal change risk register
+        run: node scripts/check-legal-change-risk.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
