@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "reviewDate": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0039",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "sourceSummary": "危険性・有害性を特定し、ばく露の程度や発生可能性、重篤度を評価してリスクを見積もる。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0091",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "sourceSummary": "危険性・有害性を特定し、ばく露の程度や発生可能性、重篤度を評価してリスクを見積もる。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0092",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "sourceSummary": "危険性・有害性を特定し、ばく露の程度や発生可能性、重篤度を評価してリスクを見積もる。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0093",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "sourceSummary": "リスク低減措置は代替等の本質的対策、工学的対策、管理的対策、保護具の順に検討する。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0094",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "sourceSummary": "リスク低減措置は代替等の本質的対策、工学的対策、管理的対策、保護具の順に検討する。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0054",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "sourceSummary": "容器ラベルとSDSを危険有害性の確認に用いる。ラベルを剥がして不明にする行為は適切でない。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0125",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc4773&dataType=1&pageNo=1",
+      "sourceSummary": "第二種施設の事務所・工場等では原則屋内禁煙、基準適合の喫煙室など例外がある。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0126",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc4773&dataType=1&pageNo=1",
+      "sourceSummary": "第二種施設の事務所・工場等では原則屋内禁煙、基準適合の喫煙室など例外がある。",
+      "supportLevel": "main-answer",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    }
+  ],
+  "notes": "資料ページの主要論点確認済み。法令改正時点と全選択肢・専門家最終校閲は未確認。"
+}
