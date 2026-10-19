@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-19",
+  "entries": [
+    {
+      "id": "EISEI1-0038",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000099121_00005.html",
+      "basis": "SDSによる危険有害性情報の伝達",
+      "finding": "SDSは化学物質の危険有害性情報を確認する手段。取扱物質の分類とばく露条件は個別に評価する。",
+      "reviewStatus": "主要論点照合・全選択肢未校閲",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0039",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "basis": "化学物質リスクアセスメントQ&A",
+      "finding": "化学物質リスクアセスメントは危険有害性とばく露を評価し、その結果に応じリスク低減措置を検討する。",
+      "reviewStatus": "主要論点照合・全選択肢未校閲",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0040",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "basis": "化学物質リスクアセスメントQ12-2",
+      "finding": "保護具の種類・装着方法・必要防護性能は対象物質とばく露条件に合わせる。代替・工学的対策などの優先順位を飛ばして保護具だけを選ぶ説明は不適切。",
+      "reviewStatus": "主要論点照合・全選択肢未校閲",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0093",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "basis": "化学物質リスクアセスメントQ12-2",
+      "finding": "代替と密閉化・局所排気などの工学的措置を保護具だけに頼る対応より優先して検討する。",
+      "reviewStatus": "主要論点照合・全選択肢未校閲",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0094",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "basis": "化学物質リスクアセスメントQ12-2",
+      "finding": "代替と密閉化・局所排気などの工学的措置を保護具だけに頼る対応より優先して検討する。",
+      "reviewStatus": "主要論点照合・全選択肢未校閲",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0115",
+      "sourceUrl": "https://chemiguide.mhlw.go.jp/kyochogekkan/check.html",
+      "basis": "皮膚障害等防止用保護具の選定マニュアル",
+      "finding": "皮膚等障害化学物質に用いる手袋は対象物質に対する耐透過性能を確認して選ぶ。一般的な手袋で一律に保護できるとは限らない。",
+      "reviewStatus": "主要論点照合・全選択肢未校閲",
+      "expertApproved": false
+    }
+  ],
+  "note": "厚労省公式情報に照らした主要論点の確認。2026年時点の個別適用・全選択肢・専門家校閲は別工程。"
+}
