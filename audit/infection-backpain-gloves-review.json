@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-20",
+  "note": "6問の既存問題の出典追跡。感染症2問は手指衛生が直接根拠、換気は部分照合。専門家最終承認なし。",
+  "entries": [
+    {
+      "id": "EISEI1-0133",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/QA2026.html",
+      "basis": "厚労省 2026年度急性呼吸器感染症Q&A",
+      "finding": "手指衛生は接触感染等の予防の基本。換気も含めた複合的対策が大切だが、感染症や状況で必要な措置が異なる。",
+      "reviewCaveat": "Q&Aは手指衛生の直接根拠。換気については別の直接資料との突合が必要",
+      "sourceSupport": "partial",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": true
+    },
+    {
+      "id": "EISEI1-0134",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/QA2026.html",
+      "basis": "厚労省 2026年度急性呼吸器感染症Q&A",
+      "finding": "手指衛生は接触感染等の予防の基本。換気も含めた複合的対策が大切だが、感染症や状況で必要な措置が異なる。",
+      "reviewCaveat": "Q&Aは手指衛生の直接根拠。換気については別の直接資料との突合が必要",
+      "sourceSupport": "partial",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": true
+    },
+    {
+      "id": "EISEI1-0135",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_31158.html",
+      "basis": "厚労省 腰痛予防対策",
+      "finding": "重量物取扱いや不自然姿勢を伴う作業は自動化を検討し、難しい場合は台車等の補助機器による省力化が有効。",
+      "reviewCaveat": "実作業・重量・頻度に応じた実施を要する",
+      "sourceSupport": "main-answer",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": true
+    },
+    {
+      "id": "EISEI1-0136",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_31158.html",
+      "basis": "厚労省 腰痛予防対策",
+      "finding": "重量物取扱いや不自然姿勢を伴う作業は自動化を検討し、難しい場合は台車等の補助機器による省力化が有効。",
+      "reviewCaveat": "実作業・重量・頻度に応じた実施を要する",
+      "sourceSupport": "main-answer",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": true
+    },
+    {
+      "id": "EISEI1-0116",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc2426&dataType=1",
+      "basis": "厚労省 化学防護手袋の選択・使用",
+      "finding": "手袋は取扱物質、使用時間に応じた耐透過性・耐浸透性を確認して選択する。",
+      "reviewCaveat": "材質だけで一律に安全とは判断できず、使用時間と混合物も考慮",
+      "sourceSupport": "main-answer",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceUrlReachabilityConfirmed": true
+    }
+  ]
+}
