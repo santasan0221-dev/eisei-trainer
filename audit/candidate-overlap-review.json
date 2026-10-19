@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "method": "既存214問と新規4問の設問主題を人手で比較した一次重複監査。言い換えの完全一致は確認していない。",
+  "expertApproved": false,
+  "entries": [
+    {
+      "id": "DRAFT-CHEM-001",
+      "existingIds": [
+        "EISEI1-0039",
+        "EISEI1-0091",
+        "EISEI1-0092",
+        "EISEI1-0105",
+        "EISEI1-0106"
+      ],
+      "relation": "隣接論点",
+      "difference": "一般的な化学物質リスク評価・特殊健診の関係ではなく、リスクアセスメント対象物健康診断の実施要件を問う。",
+      "decision": "候補維持・適用条件の校閲待ち"
+    },
+    {
+      "id": "DRAFT-CHEM-002",
+      "existingIds": [
+        "EISEI1-0039",
+        "EISEI1-0091",
+        "EISEI1-0092",
+        "EISEI1-0105",
+        "EISEI1-0106"
+      ],
+      "relation": "隣接論点",
+      "difference": "濃度基準超過のおそれがある場合の健康診断の扱いは既存問題に直接の同一設問なし。",
+      "decision": "候補維持・濃度基準適用対象の校閲待ち"
+    },
+    {
+      "id": "DRAFT-CHEM-003",
+      "existingIds": [
+        "EISEI1-0042",
+        "EISEI1-0101",
+        "EISEI1-0102"
+      ],
+      "relation": "発展論点",
+      "difference": "既存は測定・評価の目的、新候補は第三管理区分の判定後に必要な対応。",
+      "decision": "候補維持・対象規則と専門家の意見聴取の要件を校閲"
+    },
+    {
+      "id": "DRAFT-CHEM-004",
+      "existingIds": [
+        "EISEI1-0038",
+        "EISEI1-0039",
+        "EISEI1-0089",
+        "EISEI1-0090"
+      ],
+      "relation": "隣接論点",
+      "difference": "既存はSDSおよびリスクアセスメントの基本、新候補は化学物質管理者の職務。",
+      "decision": "候補維持・選任要件の校閲待ち"
+    }
+  ]
+}
