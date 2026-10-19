@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0031",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits",
+      "basis": "NIH NHLBI How the Lungs Work",
+      "finding": "肺胞では酸素が血液に移行する。吸気時には横隔膜が収縮して下降し、胸腔が広がる。",
+      "reviewCaveat": "呼気時の横隔膜弛緩や肋間筋の役割との区別を全選択肢で確認する",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": true
+    },
+    {
+      "id": "EISEI1-0193",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits",
+      "basis": "NIH NHLBI How the Lungs Work",
+      "finding": "肺胞では酸素が血液に移行する。吸気時には横隔膜が収縮して下降し、胸腔が広がる。",
+      "reviewCaveat": "呼気時の横隔膜弛緩や肋間筋の役割との区別を全選択肢で確認する",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": true
+    },
+    {
+      "id": "EISEI1-0194",
+      "sourceUrl": "https://www.nhlbi.nih.gov/health/lungs/breathing-benefits",
+      "basis": "NIH NHLBI How the Lungs Work",
+      "finding": "肺胞では酸素が血液に移行する。吸気時には横隔膜が収縮して下降し、胸腔が広がる。",
+      "reviewCaveat": "呼気時の横隔膜弛緩や肋間筋の役割との区別を全選択肢で確認する",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": true
+    },
+    {
+      "id": "EISEI1-0034",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work",
+      "basis": "NIH NIDDK Your Kidneys & How They Work",
+      "finding": "腎臓は糸球体と尿細管によるろ過・再吸収を通じて血液の老廃物や余分な水分を排泄する尿を作る。",
+      "reviewCaveat": "尿は単純なろ過液ではなく、再吸収・分泌過程を経る",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": true
+    },
+    {
+      "id": "EISEI1-0209",
+      "sourceUrl": "https://medlineplus.gov/ency/article/002380.htm",
+      "basis": "NIH MedlinePlus Hypothalamus",
+      "finding": "視床下部は体温などの恒常性を調節する中枢に関わる。",
+      "reviewCaveat": "体温調節の中枢と皮膚の温度受容器を混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": true
+    },
+    {
+      "id": "EISEI1-0210",
+      "sourceUrl": "https://medlineplus.gov/ency/article/002380.htm",
+      "basis": "NIH MedlinePlus Hypothalamus",
+      "finding": "視床下部は体温などの恒常性を調節する中枢に関わる。",
+      "reviewCaveat": "体温調節の中枢と皮膚の温度受容器を混同しない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": true
+    },
+    {
+      "id": "EISEI1-0035",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/autonomic-testing/",
+      "basis": "NIH MedlinePlus Autonomic Testing",
+      "finding": "自律神経系は心拍・呼吸・体温・消化などを調節する。交感神経と副交感神経それぞれの個別反応は追加の専門資料との照合が必要。",
+      "reviewCaveat": "この資料だけでは交感神経による心拍増加、副交感神経による消化運動促進の選択肢ごとの正誤は確定できない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": false
+    },
+    {
+      "id": "EISEI1-0211",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/autonomic-testing/",
+      "basis": "NIH MedlinePlus Autonomic Testing",
+      "finding": "自律神経系は心拍・呼吸・体温・消化などを調節する。交感神経と副交感神経それぞれの個別反応は追加の専門資料との照合が必要。",
+      "reviewCaveat": "この資料だけでは交感神経による心拍増加、副交感神経による消化運動促進の選択肢ごとの正誤は確定できない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": false
+    },
+    {
+      "id": "EISEI1-0212",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/autonomic-testing/",
+      "basis": "NIH MedlinePlus Autonomic Testing",
+      "finding": "自律神経系は心拍・呼吸・体温・消化などを調節する。交感神経と副交感神経それぞれの個別反応は追加の専門資料との照合が必要。",
+      "reviewCaveat": "この資料だけでは交感神経による心拍増加、副交感神経による消化運動促進の選択肢ごとの正誤は確定できない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": false
+    },
+    {
+      "id": "EISEI1-0213",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/autonomic-testing/",
+      "basis": "NIH MedlinePlus Autonomic Testing",
+      "finding": "自律神経系は心拍・呼吸・体温・消化などを調節する。交感神経と副交感神経それぞれの個別反応は追加の専門資料との照合が必要。",
+      "reviewCaveat": "この資料だけでは交感神経による心拍増加、副交感神経による消化運動促進の選択肢ごとの正誤は確定できない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": false
+    },
+    {
+      "id": "EISEI1-0214",
+      "sourceUrl": "https://medlineplus.gov/lab-tests/autonomic-testing/",
+      "basis": "NIH MedlinePlus Autonomic Testing",
+      "finding": "自律神経系は心拍・呼吸・体温・消化などを調節する。交感神経と副交感神経それぞれの個別反応は追加の専門資料との照合が必要。",
+      "reviewCaveat": "この資料だけでは交感神経による心拍増加、副交感神経による消化運動促進の選択肢ごとの正誤は確定できない",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceSupportsFullAnswer": false
+    }
+  ]
+}
