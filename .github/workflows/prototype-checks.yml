@@ -39,6 +39,8 @@ jobs:
         run: node scripts/check-committee-leave-review.mjs
       - name: Check promoter and privacy review coverage
         run: node scripts/check-health-privacy-promoter-review.mjs
+      - name: Check dust and oxygen source review
+        run: node scripts/check-dust-oxygen-review.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
