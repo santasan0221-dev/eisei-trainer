@@ -27,6 +27,8 @@ jobs:
         run: node scripts/check-legal-change-risk.mjs
       - name: Check draft answer rationales
         run: node scripts/check-legal-option-review.mjs
+      - name: Check candidate publication gate
+        run: node scripts/check-candidate-publication.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
