@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "asOf": "2026-10-19",
+  "note": "法令・公的資料の主要論点を照合した監査メモ。専門家の最終校閲ではない。問題の元データは変更しない。",
+  "entries": [
+    {
+      "id": "EISEI1-0011",
+      "risk": "medium",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "basis": "労働安全衛生規則第44条",
+      "finding": "一般の定期健康診断は原則1年以内ごとに1回。特定業務従事者は別の規定がある。",
+      "proposedClarification": "『原則』の条件と、特定業務従事者に適用される別の頻度を併記する。",
+      "expertApproved": false,
+      "sourceChecked": true
+    },
+    {
+      "id": "EISEI1-0012",
+      "risk": "medium",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "basis": "労働安全衛生規則第43条",
+      "finding": "常時使用する労働者を雇い入れる場合は雇入時健康診断の対象。所定の条件下の項目省略についての例外を要確認。",
+      "proposedClarification": "常時使用の範囲と、医師による健康診断結果の書面提出等に伴う省略条件を校閲する。",
+      "expertApproved": false,
+      "sourceChecked": true
+    },
+    {
+      "id": "EISEI1-0013",
+      "risk": "medium",
+      "sourceUrl": "https://hi-elcc.mhlw.go.jp/pdf/point_roudoukankeihou.pdf",
+      "basis": "労働安全衛生規則第51条と厚生労働省資料",
+      "finding": "一般健康診断個人票は原則5年間保存する。特殊健康診断の保存期間と区別。",
+      "proposedClarification": "『定期健康診断の個人票』であることを明示し、特殊健診の保存期間を一括りにしない。",
+      "expertApproved": false,
+      "sourceChecked": true
+    },
+    {
+      "id": "EISEI1-0020",
+      "risk": "high",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9174&dataType=1&pageNo=1",
+      "basis": "2025年6月1日施行 労働安全衛生規則第612条の2",
+      "finding": "暑熱順化・水分塩分補給に加え、一定の暑熱作業には報告体制整備、症状悪化防止の手順作成、周知が義務化された。",
+      "proposedClarification": "既存の正答は予防策の説明として成立するが、2025年改正に伴う事業者の義務について別設問を追加する方針を検討する。",
+      "expertApproved": false,
+      "sourceChecked": true
+    }
+  ]
+}
