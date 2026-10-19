@@ -37,6 +37,8 @@ jobs:
         run: node scripts/check-working-time-review-progress.mjs
       - name: Check committee and leave review coverage
         run: node scripts/check-committee-leave-review.mjs
+      - name: Check promoter and privacy review coverage
+        run: node scripts/check-health-privacy-promoter-review.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
