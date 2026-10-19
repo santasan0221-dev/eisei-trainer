@@ -29,6 +29,14 @@ jobs:
           mkdir -p preview-site/exams/eisei-1
           cp index.html manifest.webmanifest sw.js preview-site/
           cp exams/eisei-1/questions.js preview-site/exams/eisei-1/
+      - name: Validate preview files
+        run: |
+          test -s preview-site/index.html
+          test -s preview-site/manifest.webmanifest
+          test -s preview-site/sw.js
+          test -s preview-site/exams/eisei-1/questions.js
+          grep -q 'exams/eisei-1/questions.js' preview-site/index.html
+          grep -q 'exams/eisei-1/questions.js' preview-site/sw.js
       - uses: actions/upload-artifact@v4
         with:
           name: shikaku-toppa-preview
