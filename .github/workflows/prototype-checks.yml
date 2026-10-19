@@ -17,6 +17,8 @@ jobs:
         run: node --test tests/*.test.mjs
       - name: Check review ledger
         run: node scripts/check-review-ledger.mjs
+      - name: Triage question explanations
+        run: node scripts/review-triage.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax
