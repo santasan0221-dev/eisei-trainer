@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "sourceAsOf": "2026-10-19",
+  "status": "要専門家最終校閲",
+  "reviews": [
+    {
+      "id": "DRAFT-CHEM-001",
+      "correctIndex": 1,
+      "sourceUrl": "https://www.mhlw.go.jp/content/11300000/001161296.pdf",
+      "verification": "安衛則577条の2に基づく第3項健診はリスクアセスメント結果から必要と認める場合に実施。無条件の全員一律毎年実施ではない。",
+      "wrongOptions": [
+        "全員に無条件・毎年一律という義務はない",
+        "正答候補",
+        "一般健康診断の代替にはならない",
+        "対象者への実施は制度上あり得る",
+        "実施後の措置も必要"
+      ],
+      "needsReview": "第3項健診と第4項健診の差・医師等が判断する検査項目を説明に明示",
+      "duplicateExistingIds": [],
+      "expertApproved": false
+    },
+    {
+      "id": "DRAFT-CHEM-002",
+      "correctIndex": 2,
+      "sourceUrl": "https://www.mhlw.go.jp/content/11300000/001161296.pdf",
+      "verification": "濃度基準値を超えてばく露したおそれのあるときは、速やかに医師等による健康診断を実施する第4項健診の扱い。",
+      "wrongOptions": [
+        "自覚症状の有無だけでは判断しない",
+        "一般健診だけで代替できない",
+        "正答候補",
+        "口頭確認だけで完結しない",
+        "希望者に限らない"
+      ],
+      "needsReview": "濃度基準値が設定されたリスクアセスメント対象物という適用条件を問題文に明記",
+      "duplicateExistingIds": [
+        "EISEI1-0105",
+        "EISEI1-0106"
+      ],
+      "expertApproved": false
+    },
+    {
+      "id": "DRAFT-CHEM-003",
+      "correctIndex": 1,
+      "sourceUrl": "https://jsite.mhlw.go.jp/tokyo-roudoukyoku/content/contents/001845104.pdf",
+      "verification": "2024年4月施行。特別則による作業環境測定で第三管理区分の作業場には外部の作業環境管理専門家の意見聴取などが必要。",
+      "wrongOptions": [
+        "評価結果の保管だけでは不十分",
+        "正答候補",
+        "設備の点検禁止は規定されない",
+        "全員即日配置転換が一律義務ではない",
+        "評価を抹消できない"
+      ],
+      "needsReview": "対象を特別則による作業環境測定結果と明確化",
+      "duplicateExistingIds": [
+        "EISEI1-0042",
+        "EISEI1-0101",
+        "EISEI1-0102"
+      ],
+      "expertApproved": false
+    },
+    {
+      "id": "DRAFT-CHEM-004",
+      "correctIndex": 1,
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "verification": "化学物質管理者はリスクアセスメント対象物を製造・取り扱う事業場での化学物質管理の職務を担う。",
+      "wrongOptions": [
+        "選任制度は存在する",
+        "正答候補",
+        "衛生管理者資格のみが唯一の選任要件ではない",
+        "一般健診だけが職務ではない",
+        "選任禁止ではない"
+      ],
+      "needsReview": "製造と取扱いで必要な講習等の要件が異なる点を調べ、文言の対象範囲を再確認",
+      "duplicateExistingIds": [
+        "EISEI1-0038",
+        "EISEI1-0039"
+      ],
+      "expertApproved": false
+    }
+  ],
+  "note": "既存問題との重複は論点の近さを示す候補。新問題の公開承認を意味しない。"
+}
