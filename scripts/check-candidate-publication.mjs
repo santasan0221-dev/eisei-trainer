@@ -1,0 +1,20 @@
+import fs from 'node:fs';
+const load=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+const src=load('exams/eisei-1/legal-change-candidates.json');
+const bank=load('exams/eisei-1/questions.json');
+const options=load('audit/legal-change-option-review.json').entries;
+const overlaps=load('audit/candidate-overlap-review.json').entries;
+const o=new Map(options.map(x=>[x.id,x])),d=new Map(overlaps.map(x=>[x.id,x]));
+const statuses=src.questions.map(q=>{
+const issues=[];
+if(!q.sourceUrl?.startsWith('https://'))issues.push('公式資料URL未設定');
+if(!q.lawAsOf)issues.push('法令基準日未検証');
+if(!q.reviewCaveat||q.reviewCaveat.length<15)issues.push('適用条件の要確認');
+if(!o.has(q.id)||o.get(q.id).choiceRationales.length!==q.choices.length)issues.push('全選択肢の検討不足');
+if(!d.has(q.id)||!d.get(q.id).existingIds?.length)issues.push('既存問題との重複確認不足');
+if(!q.approved||!o.get(q.id)?.expertApproved)issues.push('専門家最終承認なし');
+if(q.published)issues.push('未承認候補が公開フラグON');
+return{id:q.id,decision:issues.length?'HOLD':'READY',issues};});
+const summary={generatedBy:'scripts/check-candidate-publication.mjs',candidates:statuses.length,ready:statuses.filter(x=>x.decision==='READY').length,hold:statuses.filter(x=>x.decision==='HOLD').length,statuses};
+if(bank.questions.length!==214||summary.candidates!==4||src.questions.some(q=>q.published))throw Error('Unexpected live bank or candidate state');
+fs.mkdirSync('audit-output',{recursive:true});fs.writeFileSync('audit-output/candidate-publication-gate.json',JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify({ready:summary.ready,hold:summary.hold}));
