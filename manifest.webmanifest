@@ -1,0 +1,10 @@
+{
+  "name": "衛生管理者 合格トレーナー PRO",
+  "short_name": "衛生管理者PRO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fa",
+  "theme_color": "#087d87",
+  "icons": []
+}
