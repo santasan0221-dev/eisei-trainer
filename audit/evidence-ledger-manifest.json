@@ -23,6 +23,7 @@
     "audit/hygiene-firstaid-followup-review.json",
     "audit/prevention-mental-health-review.json",
     "audit/infection-backpain-gloves-review.json",
-    "audit/chemical-controls-smoke-review.json"
+    "audit/chemical-controls-smoke-review.json",
+    "audit/sds-gloves-health-review.json"
   ]
 }
