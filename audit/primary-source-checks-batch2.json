@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "scope": "第一種衛生管理者 解説草案への追加一次照合",
+  "checkedAt": "2026-10-19",
+  "note": "根拠資料による一次照合。専門家の承認はゼロ。元の問題データは未改変。",
+  "entries": [
+    {
+      "id": "EISEI1-0067",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_09979.html",
+      "basis": "厚生労働省 選任報告Q&A／労働安全衛生規則第7条",
+      "finding": "衛生管理者選任後は遅滞なく所轄労働基準監督署長へ選任報告書を提出する。選任期限14日と報告時期の区別が必要。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0068",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_09979.html",
+      "basis": "厚生労働省 選任報告Q&A／労働安全衛生規則第7条",
+      "finding": "衛生管理者選任後は遅滞なく所轄労働基準監督署長へ選任報告書を提出する。選任期限14日と報告時期の区別が必要。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0073",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_9.html",
+      "basis": "労働基準法第32条／厚生労働省Q&A",
+      "finding": "法定労働時間は原則1日8時間。変形労働時間制や適用除外を無視して一律に『絶対8時間』とは説明しない。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0074",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_9.html",
+      "basis": "労働基準法第32条／厚生労働省Q&A",
+      "finding": "法定労働時間は原則1日8時間。変形労働時間制や適用除外を無視して一律に『絶対8時間』とは説明しない。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0075",
+      "sourceUrl": "https://www.check-roudou.mhlw.go.jp/qa/roudousya/roudoujikan/q4.html",
+      "basis": "労働基準法第32条・第40条／労働基準法施行規則第25条の2",
+      "finding": "原則週40時間。常時10人未満の一定業種では週44時間の特例がある。変形労働時間制などの例外と区別する。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0076",
+      "sourceUrl": "https://www.check-roudou.mhlw.go.jp/qa/roudousya/roudoujikan/q4.html",
+      "basis": "労働基準法第32条・第40条／労働基準法施行規則第25条の2",
+      "finding": "原則週40時間。常時10人未満の一定業種では週44時間の特例がある。変形労働時間制などの例外と区別する。",
+      "expertApproved": false
+    }
+  ]
+}
