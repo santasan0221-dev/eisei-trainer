@@ -29,6 +29,8 @@ jobs:
         run: node scripts/check-legal-option-review.mjs
       - name: Check candidate publication gate
         run: node scripts/check-candidate-publication.mjs
+      - name: Build prioritized review worklist
+        run: node scripts/build-prioritized-review-worklist.mjs
       - name: Create content quality audit
         run: node scripts/audit-content.mjs
       - name: Check JavaScript syntax

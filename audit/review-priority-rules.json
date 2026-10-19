@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "policy": "優先順位は参考値。法令は高優先、一次照合未実施を先行、改正リスクは加点。承認は人が判断する。",
+  "weights": {
+    "legalQuestion": 30,
+    "noPrimaryCheck": 40,
+    "primaryCheck": -40,
+    "missingSource": 15,
+    "missingLegalDate": 15,
+    "flaggedByRiskLedger": 20
+  },
+  "nextAction": "優先上位から出典を収集し全選択肢を校閲"
+}
