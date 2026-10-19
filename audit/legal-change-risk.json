@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "asOf": "2026-10-19",
+  "description": "校閲優先順位の候補。設問原本は変更しない。",
+  "entries": [
+    {
+      "id": "EISEI1-0014",
+      "risk": "high",
+      "reason": "2028-04-01に50人未満の事業場にもストレスチェック実施義務が拡大。『従来の基準』という設問の限定を維持しつつ、現行と将来を分ける必要。",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei12/",
+      "effectiveDate": "2028-04-01",
+      "suggestedExplanation": "2026年10月時点では、50人以上の事業場に実施義務がある。2028年4月1日からは50人未満にも義務が拡大する。『従来の基準』と施行後の規定を区別して覚える。",
+      "reviewStatus": "一次資料による改正時期の照合・専門家未承認",
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0001",
+      "risk": "medium",
+      "reason": "選任義務の事業場規模、産業医や安全管理者と混同しないようにする。",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11300000/001465346.pdf",
+      "effectiveDate": null,
+      "reviewStatus": "一次資料主要論点照合・専門家未承認",
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0004",
+      "risk": "medium",
+      "reason": "200人以下と200人超の境界を取り違えないか確認。",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "effectiveDate": null,
+      "reviewStatus": "一次資料主要論点照合・専門家未承認",
+      "approved": false
+    },
+    {
+      "id": "EISEI1-0007",
+      "risk": "medium",
+      "reason": "製造業では第二種免許だけで衛生管理者に選任できない。その他の法定資格の例外も含める。",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=1",
+      "effectiveDate": null,
+      "reviewStatus": "一次資料主要論点照合・専門家未承認",
+      "approved": false
+    }
+  ]
+}
