@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "EISEI1-0002",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11300000/001465346.pdf",
+      "basis": "安衛則第7条（衛生管理者選任期限）",
+      "finding": "選任すべき事由発生から14日以内に選任する。",
+      "level": "公式資料による主要論点の一次照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0005",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "basis": "厚生労働省 衛生管理者の人数表",
+      "finding": "常時350人は200人超500人以下の区分で、衛生管理者2人以上。",
+      "level": "公式資料による主要論点の一次照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0006",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "basis": "厚生労働省 衛生管理者の人数表",
+      "finding": "常時750人は500人超1000人以下の区分で、衛生管理者3人以上。",
+      "level": "公式資料による主要論点の一次照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0024",
+      "sourceUrl": "https://kokoro.mhlw.go.jp/glossaries/word-1700/",
+      "basis": "厚生労働省 こころの耳「4つのケア」",
+      "finding": "セルフケア、ラインによるケア、事業場内産業保健スタッフ等によるケア、事業場外資源によるケアが該当し、顧客によるケアは含まれない。",
+      "level": "公式資料による主要論点の一次照合",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0025",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/01_00008.html",
+      "basis": "厚生労働省 食中毒予防の3原則",
+      "finding": "細菌性食中毒予防は、つけない・増やさない・やっつけるが基本。ウイルス性とは区別する。",
+      "level": "公式資料による主要論点の一次照合",
+      "expertApproved": false
+    }
+  ],
+  "expertApproved": false
+}
