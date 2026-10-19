@@ -232,6 +232,158 @@
       "lawAsOf": null,
       "reviewStatus": "未校閲",
       "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-013",
+      "category": "関係法令（一般）",
+      "topic": "産業医と衛生管理者の役割の違い",
+      "question": "衛生管理者と産業医の役割を比較した説明として適切なのはどれか。",
+      "choices": [
+        "双方とも衛生管理に関係するが、資格や職務は異なる",
+        "産業医は衛生委員会に関係しない",
+        "衛生管理者は医師免許が必須",
+        "産業医は選任後に一切巡視しない",
+        "衛生管理者は人数要件がない"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】産業医と衛生管理者の役割の違いの基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-014",
+      "category": "労働衛生（一般）",
+      "topic": "健康情報の取扱い",
+      "question": "従業員の健康診断結果の取扱いとして適切なのはどれか。",
+      "choices": [
+        "業務上必要な範囲で適切に管理する",
+        "誰でも閲覧できるよう掲示する",
+        "部外者へ無制限に共有する",
+        "本人の同意なく営業資料に使用する",
+        "管理台帳には安全対策を設けない"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】健康情報の取扱いの基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-015",
+      "category": "労働衛生（一般）",
+      "topic": "作業姿勢と筋骨格系負担",
+      "question": "長時間の座位作業で身体負担を減らす方法として適切なのはどれか。",
+      "choices": [
+        "椅子と机の高さを調整し姿勢変化や休止を取り入れる",
+        "休止を一切取らない",
+        "ディスプレイの高さを調整できなくする",
+        "不自然な姿勢を固定する",
+        "照明を常に消す"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】作業姿勢と筋骨格系負担の基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-016",
+      "category": "労働生理",
+      "topic": "血糖調節とホルモン",
+      "question": "食後の血糖値の調節に関わるホルモンとして適切なのはどれか。",
+      "choices": [
+        "インスリン",
+        "メラトニンのみ",
+        "胃酸",
+        "胆汁",
+        "ヘモグロビン"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】血糖調節とホルモンの基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-017",
+      "category": "労働生理",
+      "topic": "循環器の基本構造",
+      "question": "全身循環へ血液を送り出す心臓の部位はどれか。",
+      "choices": [
+        "左心室",
+        "右心房",
+        "右心室",
+        "左心房",
+        "肺静脈"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】循環器の基本構造の基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-018",
+      "category": "労働衛生（有害）",
+      "topic": "換気対策の考え方",
+      "question": "有害な蒸気のばく露低減に関する基本的な方針として適切なのはどれか。",
+      "choices": [
+        "発生源で捕集し拡散を抑える",
+        "臭いがなければ対策しない",
+        "換気設備を止める",
+        "保護具の選定を行わない",
+        "作業者の慣れだけに頼る"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】換気対策の考え方の基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-019",
+      "category": "関係法令（有害）",
+      "topic": "保護具の適合性",
+      "question": "化学物質を取り扱う際の保護手袋について適切なのはどれか。",
+      "choices": [
+        "対象物質に応じた耐透過性などを確認する",
+        "すべての物質に綿手袋のみで対応する",
+        "破れた手袋を使い続ける",
+        "作業の種類に関係なく素手で作業する",
+        "手袋の材質確認は不要"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】保護具の適合性の基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
+    },
+    {
+      "id": "EISEI1-DRAFT-020",
+      "category": "労働衛生（有害）",
+      "topic": "特殊健康診断の役割",
+      "question": "特殊健康診断の基本的な目的として適切なのはどれか。",
+      "choices": [
+        "特定有害業務に伴う健康影響の把握と予防",
+        "従業員の営業成績評価",
+        "売上予測",
+        "製品の棚卸し",
+        "給与計算"
+      ],
+      "answerIndex": 0,
+      "explanationDraft": "【要校閲】特殊健康診断の役割の基礎を確認する設問。根拠・正答・選択肢を正式公開前に確認。",
+      "sourceUrl": null,
+      "lawAsOf": null,
+      "reviewStatus": "未校閲",
+      "published": false
     }
   ]
 }
