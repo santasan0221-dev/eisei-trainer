@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "asOf": "2026-10-19",
+  "status": "主要論点の一次資料照合・専門家未承認",
+  "entries": [
+    {
+      "id": "EISEI1-0065",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "basis": "労働安全衛生規則第51条の2",
+      "finding": "一般の所定健康診断による異常所見者について医師等の意見は原則健診実施日から3か月以内。自発的健康診断結果の提出等では起算点・期限に別規定がある。",
+      "reviewCaveat": "設問は健診種類と起算点を限定しないと、例外により曖昧になる。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0066",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "basis": "労働安全衛生規則第51条の2",
+      "finding": "一般の所定健康診断による異常所見者について医師等の意見は原則健診実施日から3か月以内。自発的健康診断結果の提出等では起算点・期限に別規定がある。",
+      "reviewCaveat": "設問は健診種類と起算点を限定しないと、例外により曖昧になる。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0087",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74164000&dataType=0&pageNo=1",
+      "basis": "じん肺法第7条・第8条",
+      "finding": "じん肺健康診断は粉じん作業への従事状況やじん肺管理区分により対象・頻度が異なる。すべての粉じん作業者が毎年一律に受診するという説明は誤り。",
+      "reviewCaveat": "健康診断の種類と実施対象条件を明記する必要。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0088",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74164000&dataType=0&pageNo=1",
+      "basis": "じん肺法第7条・第8条",
+      "finding": "じん肺健康診断は粉じん作業への従事状況やじん肺管理区分により対象・頻度が異なる。すべての粉じん作業者が毎年一律に受診するという説明は誤り。",
+      "reviewCaveat": "健康診断の種類と実施対象条件を明記する必要。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0101",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74088000",
+      "basis": "作業環境評価基準第2条",
+      "finding": "作業環境測定結果は基準に従って第一〜第三管理区分に評価し、作業環境を管理する。",
+      "reviewCaveat": "『測定すれば完了』とせず、評価と必要な改善につなげる。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0102",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74088000",
+      "basis": "作業環境評価基準第2条",
+      "finding": "作業環境測定結果は基準に従って第一〜第三管理区分に評価し、作業環境を管理する。",
+      "reviewCaveat": "『測定すれば完了』とせず、評価と必要な改善につなげる。",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0042",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc6779&dataType=1&pageNo=1",
+      "basis": "2024年4月1日施行 第三管理区分の措置強化",
+      "finding": "対象作業場が第三管理区分と評価された場合、外部の作業環境管理専門家への意見聴取等の措置が必要。改善困難等なら追加措置が規定されている。",
+      "reviewCaveat": "対象則・管理区分・措置の条件を整理した追加設問を検討する。",
+      "expertApproved": false
+    }
+  ]
+}
