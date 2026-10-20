@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "publicationGate": "HOLD",
+  "newChoicesExpertApproved": false,
+  "candidates": [
+    {
+      "id": "EISEI1-0091",
+      "proposal": {
+        "question": "洗浄剤を使う作業の化学物質リスクを見積もる際、最も適切な組み合わせはどれか。",
+        "choices": [
+          "危険有害性と作業者のばく露状況",
+          "購入価格と納期",
+          "製品の色と容器の形",
+          "作業者の勤続年数と年齢のみ",
+          "使用量を確認せず製品名だけ"
+        ],
+        "answerIndex": 0
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0092",
+      "proposal": {
+        "question": "同じ有害性の溶剤を扱う2工程でリスクの程度が異なる理由として適切なのはどれか。",
+        "choices": [
+          "有害性が同じなら使用条件にかかわらずリスクは同じ",
+          "ばく露濃度・時間や作業方法が異なり得る",
+          "臭いが弱い工程のリスクは必ずゼロ",
+          "作業経験が長ければリスクはゼロ",
+          "使用量が少なければ評価は一切不要"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0093",
+      "proposal": {
+        "question": "有害な蒸気を発生する工程で、保護具の使用だけに頼らず優先的に検討すべき措置はどれか。",
+        "choices": [
+          "作業者に慣れるまで我慢させる",
+          "発生源の密閉化や局所排気を行う",
+          "蒸気が見えなければ対策を止める",
+          "作業記録だけを増やし発生源を放置する",
+          "呼吸保護具を外して作業しやすくする"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0094",
+      "proposal": {
+        "question": "有害性の高い物質を低い物質へ代替できる場合のリスク低減の考え方として適切なのはどれか。",
+        "choices": [
+          "保護具があれば代替は常に不要",
+          "代替による新たな危険性も評価しつつ実施を検討する",
+          "作業者の注意力だけで管理する",
+          "物質名が変わるとSDSは不要",
+          "発生源を開放して換気だけを停止する"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0101",
+      "proposal": {
+        "question": "有機溶剤を使用する作業場で作業環境測定を実施する主な目的はどれか。",
+        "choices": [
+          "作業者の健康診断を完全に代替する",
+          "空気中の有害因子の状態を把握して環境改善に活用する",
+          "製品の売上を推計する",
+          "各人の勤務評価を行う",
+          "機械の電力消費だけを調べる"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0102",
+      "proposal": {
+        "question": "作業環境測定の結果、環境管理上の改善が必要と判断された場合に適切な対応はどれか。",
+        "choices": [
+          "測定結果を個人の能力評価として扱う",
+          "結果を無視して設備をそのままにする",
+          "発生源・換気などの対策を検討し改善後も管理する",
+          "健康診断だけに切り替えて環境対策を行わない",
+          "測定値が高いほど安全と判断する"
+        ],
+        "answerIndex": 2
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0103",
+      "proposal": {
+        "question": "鉛粉じんを扱う職場で、経口ばく露の低減に役立つ行動はどれか。",
+        "choices": [
+          "作業場所で飲食する",
+          "作業後に手指を洗い、飲食場所を作業場所と分ける",
+          "汚れた手袋のまま弁当を食べる",
+          "作業着の汚れを手で払って食事する",
+          "飲食前の手洗いを省略する"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0104",
+      "proposal": {
+        "question": "鉛業務における作業終了後の対応として適切なのはどれか。",
+        "choices": [
+          "汚染された作業着を家庭へ無条件に持ち帰る",
+          "洗浄せず保護具を共有する",
+          "汚染物を適切に扱い手洗い等を行う",
+          "作業場内で喫煙する",
+          "作業後の手指清拭は無意味と判断する"
+        ],
+        "answerIndex": 2
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0123",
+      "proposal": {
+        "question": "重量物取扱い作業の方法や姿勢を改善する活動は、労働衛生の三管理のどれか。",
+        "choices": [
+          "作業環境管理のみ",
+          "作業管理",
+          "健康管理のみ",
+          "製品品質管理",
+          "人事評価管理"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0124",
+      "proposal": {
+        "question": "職場の三管理のうち、作業時間や作業手順を改善してばく露を減らすものはどれか。",
+        "choices": [
+          "健康診断結果の保存",
+          "空気中濃度の測定だけ",
+          "作業管理",
+          "賃金の計算",
+          "医師による診察のみ"
+        ],
+        "answerIndex": 2
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0133",
+      "proposal": {
+        "question": "呼吸器感染症が流行する時期の職場の基本的な対策として適切なのはどれか。",
+        "choices": [
+          "体調不良を申告しづらい職場にする",
+          "手指衛生、必要な換気、体調不良時の対応を組み合わせる",
+          "共有物の清掃を全面停止する",
+          "感染症の種類にかかわらず換気を止める",
+          "手洗い設備を撤去する"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0134",
+      "proposal": {
+        "question": "共用設備を多くの人が利用する職場で感染予防策を検討する際の考え方として適切なのはどれか。",
+        "choices": [
+          "すべての感染症で単一の対策だけが有効",
+          "状況に応じて手指衛生や換気などを組み合わせる",
+          "手指衛生は他の対策がある場合に禁止する",
+          "症状のある人への配慮は不要",
+          "換気は常に感染リスクを高める"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0135",
+      "proposal": {
+        "question": "重量物の反復運搬による腰痛リスクを減らす方法として優先して検討すべきものはどれか。",
+        "choices": [
+          "荷物を体から遠ざけて持つ",
+          "反動で素早く持ち上げる",
+          "台車やリフターを用いて人力運搬を減らす",
+          "持ち上げる重量を把握しない",
+          "中腰の保持時間を延ばす"
+        ],
+        "answerIndex": 2
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0136",
+      "proposal": {
+        "question": "重量物を扱う工程でリフターを導入できない場合に適切な検討はどれか。",
+        "choices": [
+          "作業姿勢・運搬距離・作業頻度などを見直す",
+          "無理な姿勢の反復を増やす",
+          "重量を表示しない",
+          "補助具や複数人作業の検討を禁止する",
+          "休憩をすべて撤廃する"
+        ],
+        "answerIndex": 0
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0151",
+      "proposal": {
+        "question": "暑熱環境の作業で注意すべき健康障害として適切なのはどれか。",
+        "choices": [
+          "高温環境による熱中症",
+          "水中の減圧による障害のみ",
+          "粉じん吸入によるじん肺のみ",
+          "強い騒音による難聴のみ",
+          "電離放射線による被ばくのみ"
+        ],
+        "answerIndex": 0
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0152",
+      "proposal": {
+        "question": "高温多湿の作業場所で作業者の体調が悪化した場合、最初に検討すべき健康上のリスクはどれか。",
+        "choices": [
+          "鉛中毒だけを疑う",
+          "熱中症の可能性を考慮して迅速に状態を確認する",
+          "急性じん肺だけを疑う",
+          "暑さと健康障害は無関係と判断する",
+          "訴えがあっても休憩を禁止する"
+        ],
+        "answerIndex": 1
+      },
+      "sourceRecheckedForNewChoices": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    }
+  ],
+  "note": "候補16問。全選択肢の実質的な正誤・法令例外・重複度の専門校閲が未完了。"
+}
