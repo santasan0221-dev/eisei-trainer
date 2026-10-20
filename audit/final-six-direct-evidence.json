@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0155",
+      "sourceUrl": "https://www.cdc.gov/niosh/cold-stress/about/related-illness.html",
+      "authority": "CDC/NIOSH",
+      "mainAnswerEvidence": "寒冷環境への長時間ばく露は低体温症の原因となる。",
+      "sourceDetail": "低温下で体熱喪失が産熱を上回り、長時間で低体温症に至る。",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "sourceJurisdiction": "国際・医学"
+    },
+    {
+      "id": "EISEI1-0156",
+      "sourceUrl": "https://www.cdc.gov/niosh/cold-stress/about/related-illness.html",
+      "authority": "CDC/NIOSH",
+      "mainAnswerEvidence": "寒冷環境への長時間ばく露は低体温症の原因となる。",
+      "sourceDetail": "低温下で体熱喪失が産熱を上回り、長時間で低体温症に至る。",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "sourceJurisdiction": "国際・医学"
+    },
+    {
+      "id": "EISEI1-0159",
+      "sourceUrl": "https://www.icnirp.org/en/frequencies/radio",
+      "authority": "ICNIRP",
+      "mainAnswerEvidence": "強い赤外線の反復・長期ばく露は眼の水晶体混濁・白内障と関連する。",
+      "sourceDetail": "ICNIRPは赤外線の熱作用で水晶体蛋白が変性し得ること、ガラス・製鉄従事者で白内障がみられることを説明。",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "sourceJurisdiction": "国際・医学"
+    },
+    {
+      "id": "EISEI1-0160",
+      "sourceUrl": "https://www.icnirp.org/en/frequencies/radio",
+      "authority": "ICNIRP",
+      "mainAnswerEvidence": "強い赤外線の反復・長期ばく露は眼の水晶体混濁・白内障と関連する。",
+      "sourceDetail": "ICNIRPは赤外線の熱作用で水晶体蛋白が変性し得ること、ガラス・製鉄従事者で白内障がみられることを説明。",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "sourceJurisdiction": "国際・医学"
+    },
+    {
+      "id": "EISEI1-0175",
+      "sourceUrl": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.102",
+      "authority": "US OSHA",
+      "mainAnswerEvidence": "レーザー保護眼鏡はレーザー波長・エネルギーに適合する十分な光学濃度のものを選択する。",
+      "sourceDetail": "OSHA 1926.102(c)(2): 波長とエネルギーに対して適切な光学濃度（OD）を要求。",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "sourceJurisdiction": "米国"
+    },
+    {
+      "id": "EISEI1-0176",
+      "sourceUrl": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.102",
+      "authority": "US OSHA",
+      "mainAnswerEvidence": "レーザー保護眼鏡はレーザー波長・エネルギーに適合する十分な光学濃度のものを選択する。",
+      "sourceDetail": "OSHA 1926.102(c)(2): 波長とエネルギーに対して適切な光学濃度（OD）を要求。",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "sourceJurisdiction": "米国"
+    }
+  ],
+  "sourceTrackingMeaning": "source passage supports main answer; no completed full-option/expert review",
+  "priorTriage": "audit/bulk-final23-evidence-triage.json"
+}
