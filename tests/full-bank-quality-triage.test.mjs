@@ -1,0 +1,3 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {spawnSync} from 'node:child_process';
+test('all 214 questions receive exactly one triage row and 14 draft proposals remain distinct',()=>{
+const p=spawnSync(process.execPath,['scripts/triage-full-bank-quality.mjs','--assert'],{encoding:'utf8'});assert.equal(p.status,0,p.stderr);const x=JSON.parse(p.stdout);assert.equal(x.total,214);assert.equal(x.items.length,214);assert.equal(new Set(x.items.map(v=>v.id)).size,214);assert.equal(x.existingRewriteCandidates,14);assert.equal(Object.values(x.priorityCounts).reduce((a,b)=>a+b,0),214);assert.ok(x.items.find(v=>v.id==='EISEI1-0014').issues.includes('law_change_gate'));assert.equal(x.model,'heuristic_triage_not_expert_validation')});
