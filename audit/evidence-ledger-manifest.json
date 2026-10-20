@@ -29,6 +29,7 @@
     "audit/annual-checkup-sds-heat-review.json",
     "audit/medical-opinion-pneumoconiosis-review.json",
     "audit/hiring-health-opinion-review.json",
-    "audit/bulk-final23-evidence-triage.json"
+    "audit/bulk-final23-evidence-triage.json",
+    "audit/final-six-direct-evidence.json"
   ]
 }
