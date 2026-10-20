@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0065",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "legalReference": "労働安全衛生規則第51条の2第1項",
+      "finding": "所定の健康診断後の医師等の意見聴取は原則として健診実施日から3か月以内。ただし法66条の2の自発的健診書面提出等は別の起算日・期限。",
+      "sourceConfirmed": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "exceptionReviewRequired": true
+    },
+    {
+      "id": "EISEI1-0066",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "legalReference": "労働安全衛生規則第51条の2第1項",
+      "finding": "所定の健康診断後の医師等の意見聴取は原則として健診実施日から3か月以内。ただし法66条の2の自発的健診書面提出等は別の起算日・期限。",
+      "sourceConfirmed": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "exceptionReviewRequired": true
+    },
+    {
+      "id": "EISEI1-0087",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74164000&dataType=0&pageNo=1",
+      "legalReference": "じん肺法第3条・第8条",
+      "finding": "一定の粉じん作業従事者を対象にじん肺健康診断を行う。管理区分・従事状況によって定期検査の間隔が異なる。",
+      "sourceConfirmed": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "exceptionReviewRequired": true
+    },
+    {
+      "id": "EISEI1-0088",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74164000&dataType=0&pageNo=1",
+      "legalReference": "じん肺法第3条・第8条",
+      "finding": "一定の粉じん作業従事者を対象にじん肺健康診断を行う。管理区分・従事状況によって定期検査の間隔が異なる。",
+      "sourceConfirmed": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "exceptionReviewRequired": true
+    }
+  ]
+}
