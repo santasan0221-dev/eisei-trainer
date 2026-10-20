@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "publicationGate": "HOLD",
+  "candidates": [
+    {
+      "id": "EISEI1-0089",
+      "reason": "略語暗記に偏らずSDSの利用目的を問う。",
+      "proposal": {
+        "question": "化学物質のSDSに関する説明として最も適切なものはどれか。",
+        "choices": [
+          "危険有害性・応急措置・取扱い上の注意などを確認する資料である",
+          "製品の価格や販売実績のみを示す資料である",
+          "容器のラベルがあれば内容を確認する必要はない",
+          "すべての化学物質で毒性を示す数値は同じである",
+          "同じ名称であれば混合物の成分確認は不要である"
+        ],
+        "answerIndex": 0
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0090",
+      "reason": "0089と異なる実務場面の判断力を問う。",
+      "proposal": {
+        "question": "職場で新しい洗浄剤を導入する際、最初に確認する資料として適切なのはどれか。",
+        "choices": [
+          "製造元の広告にある人気順位",
+          "SDSに記載された危険有害性と取扱い・保護措置",
+          "購入履歴の平均単価",
+          "作業担当者の勤続年数",
+          "製品の外装色"
+        ],
+        "answerIndex": 1
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0121",
+      "reason": "制度用語の単純暗記ではなく実施例から分類。",
+      "proposal": {
+        "question": "局所排気装置の有効性を確認・改善する取組は、労働衛生の三管理のうち主にどれか。",
+        "choices": [
+          "健康管理",
+          "労働時間管理",
+          "作業環境管理",
+          "人事評価管理",
+          "教育訓練管理"
+        ],
+        "answerIndex": 2
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0122",
+      "reason": "0121と重複するため、片方を別論点に置換するか統合を要審査。",
+      "proposal": {
+        "question": "粉じん発生源の囲い込みや換気改善が中心となる労働衛生管理はどれか。",
+        "choices": [
+          "労働者の健康診断による健康管理",
+          "設備面からばく露を抑える作業環境管理",
+          "手順や作業姿勢を調整する作業管理",
+          "就業規則の賃金管理",
+          "健康相談の実施のみ"
+        ],
+        "answerIndex": 1
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0137",
+      "reason": "一次・二次・三次予防を区別する判断問題。",
+      "proposal": {
+        "question": "メンタルヘルスの一次予防に位置付ける施策として適切なのはどれか。",
+        "choices": [
+          "休職者の復職判定だけを行う",
+          "ストレス要因の把握と職場環境の改善を行う",
+          "治療開始後の医療機関連携だけに限定する",
+          "休職者の再発防止だけに取り組む",
+          "疾病発生後の補償手続だけを進める"
+        ],
+        "answerIndex": 1
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0138",
+      "reason": "事例を読み予防段階を判断する形式。",
+      "proposal": {
+        "question": "職場で長時間労働や仕事量の偏りを減らすことは、メンタルヘルスの何次予防に最も近いか。",
+        "choices": [
+          "三次予防",
+          "二次予防",
+          "一次予防",
+          "治療行為そのもの",
+          "再発後の補償対応"
+        ],
+        "answerIndex": 2
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0141",
+      "reason": "復職支援を具体的な場面で問う。",
+      "proposal": {
+        "question": "メンタルヘルス不調による休業からの復職を支援する際、三次予防として適切な対応はどれか。",
+        "choices": [
+          "職場復帰後の支援計画と再発防止の検討",
+          "復職前の本人との連絡を全面禁止する",
+          "復職すれば就業上の配慮は一切不要とする",
+          "本人の健康情報を全社員に共有する",
+          "休業の理由を問わず配置を固定する"
+        ],
+        "answerIndex": 0
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0142",
+      "reason": "0141と重複するため統合・別論点化を要検討。",
+      "proposal": {
+        "question": "メンタルヘルス不調による休業から復職した労働者への再発防止策として適切なのはどれか。",
+        "choices": [
+          "医師等の意見を踏まえ必要な就業上の配慮を検討する",
+          "復職後は勤務負荷を直ちに最大にする",
+          "本人の同意なく病名を職場全体に公表する",
+          "再発防止は一次予防にしか含まれない",
+          "職場の業務量は見直せないと決めつける"
+        ],
+        "answerIndex": 0
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0153",
+      "reason": "症状名の単純暗記から機序の理解へ。",
+      "proposal": {
+        "question": "高気圧環境での作業後に急激に減圧した際の減圧症の主な発生機序はどれか。",
+        "choices": [
+          "体内に溶解していた不活性ガスが気泡化する",
+          "血液中の酸素がすべて二酸化炭素に変化する",
+          "汗による水分喪失だけで生じる",
+          "聴覚器の騒音ばく露が直接原因となる",
+          "体温が必ず上昇する"
+        ],
+        "answerIndex": 0
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0177",
+      "reason": "現実的な測定機器の中で用途を見分ける。",
+      "proposal": {
+        "question": "外部放射線による個人ばく露を記録・評価するための装置はどれか。",
+        "choices": [
+          "酸素濃度計",
+          "個人線量計",
+          "騒音計",
+          "作業環境の風速計",
+          "粉じん計"
+        ],
+        "answerIndex": 1
+      },
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    }
+  ],
+  "qualityNotes": [
+    "0089/0090は略語暗記の重複をSDSの実務用途へ差別化",
+    "0121/0122と0137/0138と0141/0142は類似ペアを要統合・要差別化",
+    "全問の正答以外の選択肢は法的・医学的正誤の専門校閲が未了"
+  ]
+}
