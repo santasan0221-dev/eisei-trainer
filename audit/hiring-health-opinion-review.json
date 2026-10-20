@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0012",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347M50002000032/20240401_504M60000100025",
+      "finding": "安衛則43条：常時使用する労働者の雇入時健診。ただし直近3か月以内の健診結果の提出による相当項目の省略例外あり",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0023",
+      "sourceUrl": "https://laws.e-gov.go.jp/law/347AC0000000057/20250514_507AC0000000033",
+      "finding": "安衛法66条の4・66条の5：有所見者の医師等意見聴取と必要な就業上の措置",
+      "sourcePassageReviewed": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
