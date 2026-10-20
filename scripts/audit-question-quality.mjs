@@ -1,0 +1,7 @@
+import fs from 'node:fs';
+const questions=JSON.parse(fs.readFileSync('exams/eisei-1/questions.json','utf8')).questions;
+const sets=[];for(let i=0;i<questions.length-1;i++){const a=questions[i],b=questions[i+1];if(!/^次のテーマ/.test(a.question)||!/^確認問題/.test(b.question))continue;if(a.choices[a.answerIndex]!==b.choices[b.answerIndex])continue;sets.push({a:a.id,b:b.id,answer:a.choices[a.answerIndex]});}
+const flags=[];for(const q of questions){if(q.question.includes('最も適切なのはどれか')&&q.question.includes('として最も適切'))flags.push({id:q.id,type:'awkward_wording'});const choices=q.choices.map(x=>x.trim());if(new Set(choices).size!==choices.length)flags.push({id:q.id,type:'duplicate_choices'});if(choices.some(x=>x==='簿記2級'||x==='SNSに投稿'||x==='日光浴'||x==='花粉症だけ'))flags.push({id:q.id,type:'weak_distractor_example'});}
+const result={total:questions.length,nearDuplicateAdjacentPairs:sets.length,pairs:sets,qualityFlags:flags,recommendation:'Do not edit live bank until reviewer signs off; revise question formulations and distractors on separate candidate branch.'};
+if(process.argv.includes('--assert')){if(questions.length!==214)throw Error('Bank count changed');if(sets.length<10)throw Error('Unexpected duplicated pair count');}
+console.log(JSON.stringify(result,null,2));
