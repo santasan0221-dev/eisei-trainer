@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "asOf": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0101",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo17_1.html",
+      "basis": "作業環境測定で空気中有害因子を把握し、作業環境管理と必要な改善へつなげる",
+      "supportLevel": "direct",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0102",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo17_1.html",
+      "basis": "作業環境測定で空気中有害因子を把握し、作業環境管理と必要な改善へつなげる",
+      "supportLevel": "direct",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0105",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/2.html",
+      "basis": "一般健康診断は一般的な健康確保、特殊健康診断は有害業務に係る健康確保のための制度であり対象によって両方が必要となる",
+      "supportLevel": "direct",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0106",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/2.html",
+      "basis": "一般健康診断は一般的な健康確保、特殊健康診断は有害業務に係る健康確保のための制度であり対象によって両方が必要となる",
+      "supportLevel": "direct",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0117",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/anzen/gmsds_label/label_made_c.html",
+      "basis": "GHS容器ラベルは化学物質の危険有害性と安全な取扱い上の注意を示す",
+      "supportLevel": "direct",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0118",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/anzen/gmsds_label/label_made_c.html",
+      "basis": "GHS容器ラベルは化学物質の危険有害性と安全な取扱い上の注意を示す",
+      "supportLevel": "direct",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0181",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/anzen/gmsds_label/label_made_c.html",
+      "basis": "化学品の安全取扱い例に容器を密閉しておくことが含まれる。ただし設問の『密閉設備を勝手に開放する』という表現を全般的に裏付ける資料ではない",
+      "supportLevel": "partial",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0182",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/anzen/gmsds_label/label_made_c.html",
+      "basis": "化学品の安全取扱い例に容器を密閉しておくことが含まれる。ただし設問の『密閉設備を勝手に開放する』という表現を全般的に裏付ける資料ではない",
+      "supportLevel": "partial",
+      "sourcePageChecked": true,
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
