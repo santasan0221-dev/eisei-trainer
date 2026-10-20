@@ -9,5 +9,5 @@ const seen=new Map();for(const e of records){if(!bank.has(e.id))throw Error('Unk
 for(const e of followups){if(!seen.has(e.id))throw Error('Orphan follow-up '+e.id+' in '+e.ledger)}
 const remaining=questions.filter(q=>!seen.has(q.id));
 const summary={total:questions.length,sourceTracked:seen.size,untracked:remaining.length,followups:followups.length,untrackedByCategory:Object.fromEntries([...new Set(questions.map(q=>q.category))].map(c=>[c,remaining.filter(q=>q.category===c).length])),untrackedQuestions:remaining.map(q=>({id:q.id,category:q.category,question:q.question}))};
-if(process.argv.includes('--assert-expected')&&(questions.length!==214||seen.size!==191||remaining.length!==23))throw Error('Unexpected coverage: '+JSON.stringify({total:questions.length,tracked:seen.size,remaining:remaining.length}));
+if(process.argv.includes('--assert-expected')&&(questions.length!==214||seen.size!==208||remaining.length!==6))throw Error('Unexpected coverage: '+JSON.stringify({total:questions.length,tracked:seen.size,remaining:remaining.length}));
 console.log(JSON.stringify(summary,null,2));

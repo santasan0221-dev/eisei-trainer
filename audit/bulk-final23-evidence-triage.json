@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "date": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0007",
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "finding": "製造業で選任できる免許区分として第一種衛生管理者免許を確認",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0014",
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei12/index.html",
+      "finding": "2026-10時点の従来義務基準は50人以上。2028-04-01から50人未満にも義務化されるので問題文に基準時点を明示すべき",
+      "evidenceLevel": "direct-time-sensitive",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0040",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11300000/001100842.pdf",
+      "finding": "呼吸用保護具は対象物質と用途を考慮して適切に選び、顔面密着と装着確認が重要",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0042",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/yougo/yougo17_1.html",
+      "finding": "作業環境測定は有害因子の実態把握と必要な改善の判断のために行う",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0048",
+      "sourceUrl": "https://jsite.mhlw.go.jp/fukushima-roudoukyoku/hourei_seido_tetsuzuki/anzen_eisei/hourei_seido/anzen_jinpai_kanri2.html",
+      "finding": "じん肺は粉じんを長期間吸入することに起因する疾病",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0113",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "finding": "化学物質の工学的対策に発生源の密閉化を含む",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0114",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "finding": "化学物質の工学的対策に発生源の密閉化を含む",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0147",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74089000&dataType=0&pageNo=1",
+      "finding": "事務所衛生基準規則第3条による事務室換気の原則",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0148",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74089000&dataType=0&pageNo=1",
+      "finding": "事務所衛生基準規則第3条による事務室換気の原則",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0149",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_01184.html",
+      "finding": "健康相談時に得た労働者の健康情報は必要な範囲で取り扱い適切に保護する。参照ページの本文直接突合は追加要",
+      "evidenceLevel": "partial",
+      "sourceReachedViaSearch": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0150",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_01184.html",
+      "finding": "健康相談時に得た労働者の健康情報は必要な範囲で取り扱い適切に保護する。参照ページの本文直接突合は追加要",
+      "evidenceLevel": "partial",
+      "sourceReachedViaSearch": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0153",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74099000&dataType=0&pageNo=1",
+      "finding": "高気圧作業安全衛生規則の定義に減圧症を含む",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0154",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74099000&dataType=0&pageNo=1",
+      "finding": "高気圧作業安全衛生規則の定義に減圧症を含む",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0167",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/jirei/sai_100182.html",
+      "finding": "高濃度硫化水素による中毒で意識喪失した労災事例。呼吸障害部分は別資料で再検証",
+      "evidenceLevel": "partial",
+      "sourceReachedViaSearch": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0168",
+      "sourceUrl": "https://anzeninfo.mhlw.go.jp/jirei/sai_100182.html",
+      "finding": "高濃度硫化水素による中毒で意識喪失した労災事例。呼吸障害部分は別資料で再検証",
+      "evidenceLevel": "partial",
+      "sourceReachedViaSearch": false,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0177",
+      "sourceUrl": "https://www.env.go.jp/chemi/rhm/current/02-04-05.html",
+      "finding": "個人線量計を用いると被ばく積算線量を把握できる",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0178",
+      "sourceUrl": "https://www.env.go.jp/chemi/rhm/current/02-04-05.html",
+      "finding": "個人線量計を用いると被ばく積算線量を把握できる",
+      "evidenceLevel": "direct",
+      "sourceReachedViaSearch": true,
+      "allChoicesChecked": false,
+      "expertApproved": false
+    }
+  ],
+  "pendingEvidence": [
+    {
+      "id": "EISEI1-0155",
+      "topic": "寒冷環境・低体温症",
+      "status": "direct_source_required",
+      "reason": "検索時点で設問の主答を直接支える十分な一次資料を確定できない",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0156",
+      "topic": "寒冷環境・低体温症",
+      "status": "direct_source_required",
+      "reason": "検索時点で設問の主答を直接支える十分な一次資料を確定できない",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0159",
+      "topic": "赤外線・白内障",
+      "status": "direct_source_required",
+      "reason": "検索時点で設問の主答を直接支える十分な一次資料を確定できない",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0160",
+      "topic": "赤外線・白内障",
+      "status": "direct_source_required",
+      "reason": "検索時点で設問の主答を直接支える十分な一次資料を確定できない",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0175",
+      "topic": "レーザー用保護眼鏡の波長・出力適合",
+      "status": "direct_source_required",
+      "reason": "検索時点で設問の主答を直接支える十分な一次資料を確定できない",
+      "expertApproved": false
+    },
+    {
+      "id": "EISEI1-0176",
+      "topic": "レーザー用保護眼鏡の波長・出力適合",
+      "status": "direct_source_required",
+      "reason": "検索時点で設問の主答を直接支える十分な一次資料を確定できない",
+      "expertApproved": false
+    }
+  ],
+  "qualityFlags": [
+    {
+      "id": "EISEI1-0014",
+      "severity": "high",
+      "reason": "2028-04-01ストレスチェック50人未満義務化・時点依存"
+    },
+    {
+      "id": "EISEI1-0149",
+      "severity": "medium",
+      "reason": "健康情報の具体的ガイドライン文言との再照合必要"
+    },
+    {
+      "id": "EISEI1-0167",
+      "severity": "medium",
+      "reason": "硫化水素の呼吸障害を明記する追加資料必要"
+    }
+  ]
+}
