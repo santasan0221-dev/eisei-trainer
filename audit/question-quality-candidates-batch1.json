@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "createdAt": "2026-10-20",
+  "publicationGate": "HOLD",
+  "expertApproved": false,
+  "description": "候補案のみ。原本と公開問題には反映しない。",
+  "candidates": [
+    {
+      "id": "EISEI1-0007",
+      "proposal": {
+        "question": "製造業の事業場で衛生管理者の資格要件を満たすものは、次のうちどれか。",
+        "choices": [
+          "第二種衛生管理者免許のみを有する者",
+          "第一種衛生管理者免許を有する者",
+          "防火管理者の講習修了者のみ",
+          "食品衛生責任者の資格のみを有する者",
+          "安全管理者として選任された経験のみを有する者"
+        ],
+        "answerIndex": 1
+      },
+      "issue": "誤答選択肢に簿記2級があり職域と無関係で容易",
+      "reviewNotes": "衛生工学衛生管理者・医師など他の選任可能資格もある。『第一種だけが唯一の資格』と誤認させない。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0113",
+      "proposal": {
+        "question": "有機溶剤蒸気の作業場への拡散を発生源で防止する工学的対策はどれか。",
+        "choices": [
+          "発生源となる設備を密閉化する",
+          "一般換気のみに依存して発生源は開放する",
+          "防毒マスクの使用だけで発生源対策を省略する",
+          "発生源の開口面積を増やす",
+          "作業時間の記録だけで設備対策を不要とする"
+        ],
+        "answerIndex": 0
+      },
+      "issue": "既存0114と実質同じテーマで誤答が簡単すぎる",
+      "reviewNotes": "0114と統合・置換を検討し、どちらか片方の廃止候補とする。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0149",
+      "proposal": {
+        "question": "事業者が労働者の健康相談記録を管理する際の対応として最も適切なのはどれか。",
+        "choices": [
+          "利用目的と必要範囲を確認し、アクセス権限を限定して保管する",
+          "職場改善のためなら全社員へ個別記録を共有する",
+          "本人から口頭で聞いた情報は健康情報ではないと扱う",
+          "健康相談記録は全管理職が自由に閲覧できるようにする",
+          "本人の異動後は目的を問わず記録を転用できる"
+        ],
+        "answerIndex": 0
+      },
+      "issue": "『SNSに投稿』など非現実的な誤答で判別が容易",
+      "reviewNotes": "個人情報保護・労働者の心身の状態に関する情報取扱い指針の適用と用語を最終点検。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    },
+    {
+      "id": "EISEI1-0150",
+      "proposal": {
+        "question": "健康相談の記録を担当部署外へ共有する際に、最初に確認すべきことはどれか。",
+        "choices": [
+          "共有先が日常的に顔を合わせる相手かどうか",
+          "利用目的と共有の必要性、本人への説明・同意等の要件",
+          "管理職であれば共有目的を問わず閲覧できるか",
+          "部署のメールリストに転送しやすい形式か",
+          "紙の書類であれば個人情報に当たらないか"
+        ],
+        "answerIndex": 1
+      },
+      "issue": "0149と解説・正答が実質同一、差別化が必要",
+      "reviewNotes": "本人同意が常に必須と断言しない。例外や法令上の要件を確認するまで保留。",
+      "expertApproved": false,
+      "allChoicesChecked": false,
+      "sourceRecheckedForNewChoices": false
+    }
+  ],
+  "flags": [
+    {
+      "id": "EISEI1-0014",
+      "status": "HOLD",
+      "issue": "従来50人以上と2028年4月1日施行の義務拡大が混在",
+      "action": "2026年時点の法定義務を問う設問に改め、施行日・対象事業場の細則を法令確認後に反映する"
+    },
+    {
+      "id": "EISEI1-0114",
+      "status": "HOLD",
+      "issue": "0113と正答・解説が重複",
+      "action": "0113の改稿を優先、0114は異なる論点へ再設計するか公開対象から除外を検討"
+    }
+  ]
+}
