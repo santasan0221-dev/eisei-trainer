@@ -25,6 +25,7 @@
     "audit/infection-backpain-gloves-review.json",
     "audit/chemical-controls-smoke-review.json",
     "audit/sds-gloves-health-review.json",
-    "audit/work-environment-label-healthcheck-review.json"
+    "audit/work-environment-label-healthcheck-review.json",
+    "audit/annual-checkup-sds-heat-review.json"
   ]
 }

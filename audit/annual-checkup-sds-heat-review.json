@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-20",
+  "entries": [
+    {
+      "id": "EISEI1-0011",
+      "sourceUrl": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0&pageNo=2",
+      "mainAnswerEvidence": "安衛則第44条: 一年以内ごとに一回（特定業務従事者は第45条の別規定）",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0013",
+      "sourceUrl": "https://www.mhlw.go.jp/content/11302000/001741252.pdf",
+      "mainAnswerEvidence": "一般健康診断個人票の記録は原則5年間保存",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0038",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "mainAnswerEvidence": "有機溶剤等化学物質の有害性の情報はSDSを確認する",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0044",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/newpage_11389.html",
+      "mainAnswerEvidence": "低有害性物質への代替、密閉・局排等工学的対策を管理的対策と保護具より優先する",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0151",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/coolwork_2026.html",
+      "mainAnswerEvidence": "高温多湿の環境では熱中症の発症リスクが高まる",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    },
+    {
+      "id": "EISEI1-0152",
+      "sourceUrl": "https://www.mhlw.go.jp/stf/coolwork_2026.html",
+      "mainAnswerEvidence": "高温多湿の環境では熱中症の発症リスクが高まる",
+      "sourcePageChecked": true,
+      "allChoicesChecked": false,
+      "expertApproved": false,
+      "lawEffectiveDateVerified": false
+    }
+  ]
+}
