@@ -1,0 +1,481 @@
+{
+  "version": 1,
+  "reviewDate": "2026-10-22",
+  "scope": "衛生管理者選任・巡視・委員会およびストレスチェックの一次選択肢レビュー",
+  "approval": "HOLD",
+  "records": [
+    {
+      "id": "EISEI1-0001",
+      "question": "衛生管理者の選任が原則として必要となる事業場の常時使用労働者数は？",
+      "selectedAnswer": "50人以上",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "10人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "30人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 2,
+          "choice": "50人以上",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 3,
+          "choice": "100人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "300人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0002",
+      "question": "衛生管理者を選任すべき事由が発生してから、何日以内に選任する？",
+      "selectedAnswer": "14日",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "7日",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "10日",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 2,
+          "choice": "14日",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 3,
+          "choice": "30日",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "60日",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0003",
+      "question": "衛生管理者が作業場等を巡視する頻度として正しいものは？",
+      "selectedAnswer": "毎週1回以上",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "毎日",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "毎週1回以上",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 2,
+          "choice": "毎月1回以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 3,
+          "choice": "3か月に1回",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "年1回",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0004",
+      "question": "常時150人を使用する事業場で必要な衛生管理者の最低人数は？",
+      "selectedAnswer": "1人",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "1人",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 1,
+          "choice": "2人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 2,
+          "choice": "3人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 3,
+          "choice": "4人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "5人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0005",
+      "question": "常時350人を使用する事業場で必要な衛生管理者の最低人数は？",
+      "selectedAnswer": "2人",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "1人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "2人",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 2,
+          "choice": "3人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 3,
+          "choice": "4人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "5人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0006",
+      "question": "常時750人を使用する事業場で必要な衛生管理者の最低人数は？",
+      "selectedAnswer": "3人",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "1人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "2人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 2,
+          "choice": "3人",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 3,
+          "choice": "4人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "6人",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0007",
+      "question": "製造業の事業場で衛生管理者として選任できる免許は？",
+      "selectedAnswer": "第一種衛生管理者免許",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "第二種衛生管理者免許のみ",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "第一種衛生管理者免許",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 2,
+          "choice": "防火管理者資格のみ",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 3,
+          "choice": "簿記2級",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "食品衛生責任者",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "normal",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "第1種以外にも資格例外があり「選任できる免許」に限定した問文では第一種は正答。ただし他の法定資格もある。"
+    },
+    {
+      "id": "EISEI1-0008",
+      "question": "常時50人以上の労働者を使用する事業場に原則として選任が必要なのは？",
+      "selectedAnswer": "衛生管理者と産業医",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "衛生管理者と産業医",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 1,
+          "choice": "安全管理者のみ",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 2,
+          "choice": "衛生推進者のみ",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 3,
+          "choice": "作業主任者のみ",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "防火管理者のみ",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "normal",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "産業医と衛生管理者は原則業種を問わず常時50人以上。"
+    },
+    {
+      "id": "EISEI1-0009",
+      "question": "衛生委員会を設ける原則的な規模は？",
+      "selectedAnswer": "50人以上",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "10人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "30人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 2,
+          "choice": "50人以上",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 3,
+          "choice": "100人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "300人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0010",
+      "question": "衛生委員会の開催頻度として正しいものは？",
+      "selectedAnswer": "毎月1回以上",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "毎週1回以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "毎月1回以上",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 2,
+          "choice": "3か月に1回以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 3,
+          "choice": "半年に1回以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "年1回以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/faq/5.html",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "short",
+      "disposition": "NEEDS_EXPERT_SIGNOFF",
+      "reviewNote": "厚労省FAQと各選択肢の主旨を概念的に照合。専門家校閲は継続。"
+    },
+    {
+      "id": "EISEI1-0014",
+      "question": "法定のストレスチェックを原則実施する必要がある事業場規模（従来の基準）は？",
+      "selectedAnswer": "50人以上",
+      "choices": [
+        {
+          "index": 0,
+          "choice": "10人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 1,
+          "choice": "30人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 2,
+          "choice": "50人以上",
+          "assessment": "intended_correct",
+          "basis": "厚労省衛生管理者FAQ・安衛則との照合（制度上の例外は別途）"
+        },
+        {
+          "index": 3,
+          "choice": "100人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        },
+        {
+          "index": 4,
+          "choice": "300人以上",
+          "assessment": "distractor",
+          "basis": "設問文の条件では正解に該当しない候補。専門家による選択肢単位の最終確認は未実施"
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/bunya/roudoukijun/anzeneisei12/",
+      "answerMatchesPrimarySource": true,
+      "fullChoiceExpertReviewed": false,
+      "explanationQuality": "normal",
+      "disposition": "HOLD_LEGAL_CHANGE",
+      "reviewNote": "現行2026年の50人以上の法定義務と2028年4月の50人未満への義務拡大。基準日と文言の修正を要する。"
+    }
+  ]
+}
