@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "asOf": "2026-10-22",
+  "checkedBy": "primary-law-text",
+  "items": [
+    {
+      "id": "EISEI1-0059",
+      "originalQuestion": "次のテーマについて正しいものを選べ：「衛生委員会の議事の概要を労働者に周知する時期」",
+      "originalChoices": [
+        "会議開催の都度、遅滞なく",
+        "年末のみ",
+        "3年ごと",
+        "監督署から指示されたときのみ",
+        "周知義務はない"
+      ],
+      "answerIndex": 0,
+      "answer": "会議開催の都度、遅滞なく",
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "article": "労働安全衛生規則 第23条",
+      "clause": "第3項",
+      "finding": "会議開催の都度、遅滞なく議事概要を労働者に周知",
+      "mainAnswerComparedToLaw": true,
+      "allWrongOptionsReviewed": false,
+      "expertApproved": false,
+      "publicationGate": "HOLD"
+    },
+    {
+      "id": "EISEI1-0060",
+      "originalQuestion": "確認問題：衛生委員会の議事の概要を労働者に周知する時期として最も適切なのはどれか。",
+      "originalChoices": [
+        "年末のみ",
+        "3年ごと",
+        "会議開催の都度、遅滞なく",
+        "監督署から指示されたときのみ",
+        "周知義務はない"
+      ],
+      "answerIndex": 2,
+      "answer": "会議開催の都度、遅滞なく",
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "article": "労働安全衛生規則 第23条",
+      "clause": "第3項",
+      "finding": "会議開催の都度、遅滞なく議事概要を労働者に周知",
+      "mainAnswerComparedToLaw": true,
+      "allWrongOptionsReviewed": false,
+      "expertApproved": false,
+      "publicationGate": "HOLD"
+    },
+    {
+      "id": "EISEI1-0061",
+      "originalQuestion": "次のテーマについて正しいものを選べ：「衛生委員会の議事の記録の保存期間」",
+      "originalChoices": [
+        "3年間",
+        "1年間",
+        "2年間",
+        "5年間",
+        "10年間"
+      ],
+      "answerIndex": 0,
+      "answer": "3年間",
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "article": "労働安全衛生規則 第23条",
+      "clause": "第4項",
+      "finding": "開催の都度、重要議事等を記録し三年間保存",
+      "mainAnswerComparedToLaw": true,
+      "allWrongOptionsReviewed": false,
+      "expertApproved": false,
+      "publicationGate": "HOLD"
+    },
+    {
+      "id": "EISEI1-0062",
+      "originalQuestion": "確認問題：衛生委員会の議事の記録の保存期間として最も適切なのはどれか。",
+      "originalChoices": [
+        "1年間",
+        "2年間",
+        "3年間",
+        "5年間",
+        "10年間"
+      ],
+      "answerIndex": 2,
+      "answer": "3年間",
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "article": "労働安全衛生規則 第23条",
+      "clause": "第4項",
+      "finding": "開催の都度、重要議事等を記録し三年間保存",
+      "mainAnswerComparedToLaw": true,
+      "allWrongOptionsReviewed": false,
+      "expertApproved": false,
+      "publicationGate": "HOLD"
+    }
+  ],
+  "counts": {
+    "sourceCompared": 4,
+    "optionLevelExpertApproved": 0
+  }
+}
