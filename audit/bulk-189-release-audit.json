@@ -1,0 +1,7667 @@
+{
+  "schemaVersion": 1,
+  "scope": "remaining 189 questions after first 25 legal reviews",
+  "total": 189,
+  "counts": {
+    "human_approval_missing": 189,
+    "short_explanation": 178,
+    "law_as_of_required": 64,
+    "template_wording": 152,
+    "near_duplicate_previous": 76
+  },
+  "publicationGate": "HOLD",
+  "records": [
+    {
+      "id": "EISEI1-0017",
+      "category": "労働衛生（一般）",
+      "question": "労働衛生の「3管理」に含まれないものは？",
+      "answer": "販売管理",
+      "issues": [
+        "human_approval_missing"
+      ],
+      "priority": "P3",
+      "optionChecks": {
+        "0": {
+          "text": "作業環境管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "作業管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "健康管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "販売管理",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "いずれも含まれる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0018",
+      "category": "労働衛生（一般）",
+      "question": "作業環境管理に該当するものは？",
+      "answer": "局所排気装置の設置",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "作業姿勢の改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "局所排気装置の設置",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "健康診断の受診",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "休憩時間の調整",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "保健指導",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0019",
+      "category": "労働衛生（一般）",
+      "question": "VDT作業などの情報機器作業に対する対策で適切なのは？",
+      "answer": "連続した長時間の同一姿勢を避ける",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "画面を常に最も明るくする",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "連続した長時間の同一姿勢を避ける",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "休憩を禁止する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "照明を完全に消す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "椅子の高さを固定し調整させない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0020",
+      "category": "労働衛生（一般）",
+      "question": "熱中症の予防として最も適切なのは？",
+      "answer": "暑熱順化・水分塩分補給・休憩",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "喉が渇いてから水分摂取",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "暑熱順化・水分塩分補給・休憩",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "厚着して発汗を増やす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "単独作業を推奨",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "体調不良でも運動を続ける",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0021",
+      "category": "労働衛生（一般）",
+      "question": "WBGT（暑さ指数）が評価する主な対象は？",
+      "answer": "暑熱環境の負担",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "騒音の強さ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "暑熱環境の負担",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "照度のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "粉じん濃度",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "電離放射線量",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0022",
+      "category": "労働衛生（一般）",
+      "question": "一次予防に該当するのは？",
+      "answer": "疾病の発生予防",
+      "issues": [
+        "human_approval_missing"
+      ],
+      "priority": "P3",
+      "optionChecks": {
+        "0": {
+          "text": "リハビリテーション",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "病気の早期発見",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "疾病の発生予防",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "復職訓練のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "治療開始",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0024",
+      "category": "労働衛生（一般）",
+      "question": "メンタルヘルスの4つのケアに含まれないものは？",
+      "answer": "顧客によるケア",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "セルフケア",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "ラインによるケア",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "事業場内産業保健スタッフ等によるケア",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "事業場外資源によるケア",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "顧客によるケア",
+          "isKey": true,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0025",
+      "category": "労働衛生（一般）",
+      "question": "食中毒の予防として基本となる考え方は？",
+      "answer": "細菌を付けない・増やさない・やっつける",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "細菌を付けない・増やさない・やっつける",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "香辛料だけで防ぐ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "一度冷凍すれば絶対安全",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "匂いだけで判定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "常温放置する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0026",
+      "category": "労働衛生（一般）",
+      "question": "事務所の換気・空気環境対策として適切なのは？",
+      "answer": "CO₂濃度などを指標に換気状況を確認する",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "換気を止める",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "CO₂濃度などを指標に換気状況を確認する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "窓を開けない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "臭いがなければ換気不要",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "人が多いほど換気量を減らす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0027",
+      "category": "労働生理",
+      "question": "血液のうち酸素運搬の中心的役割を持つものは？",
+      "answer": "赤血球",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "白血球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "赤血球",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "血小板",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "血漿タンパクのみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "リンパ球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0028",
+      "category": "労働生理",
+      "question": "血液凝固に特に重要な働きをするものは？",
+      "answer": "血小板",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "赤血球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "血小板",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "好酸球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "ヘモグロビン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "胆汁",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0029",
+      "category": "労働生理",
+      "question": "細菌や異物に対する防御に主に関係するものは？",
+      "answer": "白血球",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "白血球",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "赤血球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "血小板",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "アルブミンだけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "ブドウ糖",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0030",
+      "category": "労働生理",
+      "question": "心臓の左心室から送り出された血液が流れ込むのは？",
+      "answer": "大動脈",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "肺動脈",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "大動脈",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "肺静脈",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "大静脈",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "門脈",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0031",
+      "category": "労働生理",
+      "question": "肺胞で血液中に取り込まれる主な気体は？",
+      "answer": "酸素",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "窒素",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "酸素",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "二酸化炭素",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "一酸化炭素",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "水素",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0032",
+      "category": "労働生理",
+      "question": "胆汁をつくる臓器は？",
+      "answer": "肝臓",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "腎臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "肝臓",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "胃",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "膵臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "脾臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0033",
+      "category": "労働生理",
+      "question": "インスリンを分泌する臓器は？",
+      "answer": "膵臓",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "肝臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "甲状腺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "膵臓",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "副腎髄質",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "腎臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0034",
+      "category": "労働生理",
+      "question": "腎臓の主な役割は？",
+      "answer": "血液をろ過し尿をつくる",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "胆汁を生成",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "血液をろ過し尿をつくる",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "酸素を運搬",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "胃酸を分泌",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "血小板を生成",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0035",
+      "category": "労働生理",
+      "question": "交感神経が優位になったとき一般に起こるのは？",
+      "answer": "心拍数が増加",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "心拍数が増加",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "心拍数が必ずゼロになる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "瞳孔が縮小するだけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "活動性が低下するだけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "発汗が必ず停止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0036",
+      "category": "労働生理",
+      "question": "筋肉の収縮に直接使われるエネルギー物質は？",
+      "answer": "ATP",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "ATP",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "DNA",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "尿素",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "胆汁",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "ヘモグロビン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0037",
+      "category": "関係法令（有害）",
+      "question": "局所排気装置の基本的な目的は？",
+      "answer": "有害物を発散源近くで捕集する",
+      "issues": [
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "有害物を作業者の呼吸域へ送る",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "有害物を発散源近くで捕集する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "空調温度のみ下げる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "騒音を必ずゼロにする",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "休憩時間を減らす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0038",
+      "category": "関係法令（有害）",
+      "question": "有機溶剤業務で取り扱う物質の危険有害性を把握するために確認するのは？",
+      "answer": "SDS（安全データシート）",
+      "issues": [
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "SDS（安全データシート）",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "給与明細",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "出勤簿だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "有給申請書",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "納品書の色",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0039",
+      "category": "関係法令（有害）",
+      "question": "化学物質のリスクアセスメントにおいて基本となるのは？",
+      "answer": "危険有害性を特定してばく露の程度等を評価する",
+      "issues": [
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "危険有害性を特定してばく露の程度等を評価する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "製品名だけで安全と断定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "全物質を無条件に禁止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "本人の感覚だけで評価",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "表示がないものは無害",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0040",
+      "category": "関係法令（有害）",
+      "question": "呼吸用保護具について適切なのは？",
+      "answer": "対象物質に合う種類を選び適切に装着する",
+      "issues": [
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "すべての有害ガスに防じんマスクが有効",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "対象物質に合う種類を選び適切に装着する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "フィット確認は不要",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "破損しても使用する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "使い捨て品を無期限に使用",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0041",
+      "category": "関係法令（有害）",
+      "question": "酸素欠乏危険場所で重要な対策は？",
+      "answer": "酸素濃度測定や換気などの措置",
+      "issues": [
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "酸素濃度測定や換気などの措置",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "臭いがなければ安全",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "火気で酸素量を確認",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "単独で無確認入場",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "市販防じんマスクだけで対応",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0042",
+      "category": "関係法令（有害）",
+      "question": "作業環境測定を行う目的として適切なのは？",
+      "answer": "作業場の有害因子の状態を把握・評価する",
+      "issues": [
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "賃金を決めるためだけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "作業場の有害因子の状態を把握・評価する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "出勤率を調べる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "従業員の年齢確認",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "個人評価",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0043",
+      "category": "関係法令（有害）",
+      "question": "粉じん障害の防止に有効な対策は？",
+      "answer": "発じん抑制と局所排気・適切な呼吸用保護具",
+      "issues": [
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "発じん抑制と局所排気・適切な呼吸用保護具",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "掃き掃除だけで必ず解決",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "乾いた粉じんを吹き飛ばす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "マスクを全員で共用",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "防護措置を撤廃",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0044",
+      "category": "関係法令（有害）",
+      "question": "有害業務における管理で特に重要な優先順位は？",
+      "answer": "可能な限り発生源対策や工学的対策を優先する",
+      "issues": [
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "まず保護具だけに頼る",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "可能な限り発生源対策や工学的対策を優先する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "危険表示を隠す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "健康診断だけで十分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "教育を省略する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0045",
+      "category": "労働衛生（有害）",
+      "question": "一酸化炭素中毒で主に問題となる作用は？",
+      "answer": "ヘモグロビンに強く結合して酸素運搬を妨げる",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "ヘモグロビンに強く結合して酸素運搬を妨げる",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "カルシウムを増加させる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "胆汁分泌を増やす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "紫外線を吸収する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "聴力だけを改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0046",
+      "category": "労働衛生（有害）",
+      "question": "騒音性難聴の特徴として適切なのは？",
+      "answer": "内耳の障害が関わり、予防が重要",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "通常必ず完全回復する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "内耳の障害が関わり、予防が重要",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "視力だけが低下する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "低音しか聞こえないと必ず決まる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "睡眠によって必ず治る",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0047",
+      "category": "労働衛生（有害）",
+      "question": "振動工具の長期使用で問題となる障害は？",
+      "answer": "振動障害（手指の循環・神経障害など）",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "振動障害（手指の循環・神経障害など）",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "白内障のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "虫歯のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "肺炎のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "急性胃腸炎のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0048",
+      "category": "労働衛生（有害）",
+      "question": "じん肺の主な原因は？",
+      "answer": "粉じんを長期間吸入すること",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "粉じんを長期間吸入すること",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "飲水量が多いこと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "画面を見続けること",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "日光浴",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "普通の会話",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0049",
+      "category": "労働衛生（有害）",
+      "question": "鉛による健康障害として関係するものは？",
+      "answer": "造血系・神経系などの障害",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "造血系・神経系などの障害",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "骨折だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "花粉症だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "近視だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "虫歯だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0050",
+      "category": "労働衛生（有害）",
+      "question": "有機溶剤にばく露した際の健康影響として適切なのは？",
+      "answer": "中枢神経系への影響などがあり得る",
+      "issues": [
+        "human_approval_missing"
+      ],
+      "priority": "P3",
+      "optionChecks": {
+        "0": {
+          "text": "中枢神経系への影響などがあり得る",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "すべての有機溶剤は完全に無害",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "必ず感染症になる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "骨がすぐ伸びる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "聴力が必ず改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0051",
+      "category": "労働衛生（有害）",
+      "question": "電離放射線による健康影響のリスク管理で基本となるものは？",
+      "answer": "被ばくを必要な限度に抑える",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "被ばくを必要な限度に抑える",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "被ばく量を増やす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "線量管理をしない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "防護を外す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "照度のみ測る",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0052",
+      "category": "労働衛生（有害）",
+      "question": "高温環境下で熱中症が疑われ、意識がはっきりしない人への対応は？",
+      "answer": "救急要請し、涼しい場所への移動・冷却などを行う",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "救急要請し、涼しい場所への移動・冷却などを行う",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "無理に大量の水を飲ませる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "そのまま働かせる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "厚着させる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "一人にして観察する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0053",
+      "category": "労働衛生（有害）",
+      "question": "有害物質のばく露経路として代表的なものは？",
+      "answer": "吸入・皮膚吸収・経口",
+      "issues": [
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "吸入・皮膚吸収・経口",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "視線だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "音だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "疲労だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "睡眠だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0054",
+      "category": "労働衛生（有害）",
+      "question": "化学物質による健康障害を防ぐための対策として不適切なのは？",
+      "answer": "容器のラベルを外して中身を不明にする",
+      "issues": [
+        "human_approval_missing"
+      ],
+      "priority": "P3",
+      "optionChecks": {
+        "0": {
+          "text": "換気をする",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "SDSを確認する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "危険性に応じた保護具を使う",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "容器のラベルを外して中身を不明にする",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "取扱者へ教育する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0055",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「衛生管理者を選任する単位」",
+      "answer": "事業場ごと",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "事業場ごと",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "企業グループごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "法人ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "部門ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "都道府県ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0056",
+      "category": "関係法令（一般）",
+      "question": "確認問題：衛生管理者を選任する単位として最も適切なのはどれか。",
+      "answer": "事業場ごと",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "企業グループごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "法人ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "事業場ごと",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "部門ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "都道府県ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0057",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「常時使用労働者数が50人以上となった事業場で必要な委員会」",
+      "answer": "衛生委員会",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "衛生委員会",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "安全委員会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "労使協議会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "防災委員会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "品質委員会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0058",
+      "category": "関係法令（一般）",
+      "question": "確認問題：常時使用労働者数が50人以上となった事業場で必要な委員会として最も適切なのはどれか。",
+      "answer": "衛生委員会",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "安全委員会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "労使協議会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "衛生委員会",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "防災委員会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "品質委員会のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0059",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「衛生委員会の議事の概要を労働者に周知する時期」",
+      "answer": "会議開催の都度、遅滞なく",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "会議開催の都度、遅滞なく",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "年末のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "3年ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "監督署から指示されたときのみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "周知義務はない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0060",
+      "category": "関係法令（一般）",
+      "question": "確認問題：衛生委員会の議事の概要を労働者に周知する時期として最も適切なのはどれか。",
+      "answer": "会議開催の都度、遅滞なく",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "年末のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "3年ごと",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "会議開催の都度、遅滞なく",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "監督署から指示されたときのみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "周知義務はない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0061",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「衛生委員会の議事の記録の保存期間」",
+      "answer": "3年間",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "3年間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "1年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "2年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "5年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "10年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0062",
+      "category": "関係法令（一般）",
+      "question": "確認問題：衛生委員会の議事の記録の保存期間として最も適切なのはどれか。",
+      "answer": "3年間",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "1年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "2年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "3年間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "5年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "10年間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0063",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「事業場の産業医選任の原則的な人数基準」",
+      "answer": "常時50人以上",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "常時50人以上",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "常時10人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "常時20人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "常時30人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "常時300人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0064",
+      "category": "関係法令（一般）",
+      "question": "確認問題：事業場の産業医選任の原則的な人数基準として最も適切なのはどれか。",
+      "answer": "常時50人以上",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "常時10人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "常時20人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "常時50人以上",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "常時30人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "常時300人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0067",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「衛生管理者を選任したときの報告先」",
+      "answer": "所轄労働基準監督署長",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "所轄労働基準監督署長",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "市区町村長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "都道府県知事",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "税務署長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "消防署長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0068",
+      "category": "関係法令（一般）",
+      "question": "確認問題：衛生管理者を選任したときの報告先として最も適切なのはどれか。",
+      "answer": "所轄労働基準監督署長",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "市区町村長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "都道府県知事",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "所轄労働基準監督署長",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "税務署長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "消防署長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0069",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「労働時間が6時間を超え8時間以下の場合の最低休憩時間」",
+      "answer": "45分",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "45分",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "15分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "30分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "60分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "90分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0070",
+      "category": "関係法令（一般）",
+      "question": "確認問題：労働時間が6時間を超え8時間以下の場合の最低休憩時間として最も適切なのはどれか。",
+      "answer": "45分",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "15分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "30分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "45分",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "60分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "90分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0071",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「労働時間が8時間を超える場合の最低休憩時間」",
+      "answer": "60分",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "60分",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "15分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "30分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "45分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "90分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0072",
+      "category": "関係法令（一般）",
+      "question": "確認問題：労働時間が8時間を超える場合の最低休憩時間として最も適切なのはどれか。",
+      "answer": "60分",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "15分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "30分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "60分",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "45分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "90分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0073",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「法定労働時間の原則（1日）」",
+      "answer": "8時間",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "8時間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "6時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "7時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "9時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "10時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0074",
+      "category": "関係法令（一般）",
+      "question": "確認問題：法定労働時間の原則（1日）として最も適切なのはどれか。",
+      "answer": "8時間",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "6時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "7時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "8時間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "9時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "10時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0075",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「法定労働時間の原則（1週）」",
+      "answer": "40時間",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "40時間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "35時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "38時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "44時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "48時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0076",
+      "category": "関係法令（一般）",
+      "question": "確認問題：法定労働時間の原則（1週）として最も適切なのはどれか。",
+      "answer": "40時間",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "35時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "38時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "40時間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "44時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "48時間",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0079",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「年休が10日以上付与される労働者に対する使用者の年5日の取得義務」",
+      "answer": "原則として付与日から1年以内",
+      "issues": [
+        "template_wording",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "原則として付与日から1年以内",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "2年以内",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "3年以内",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "義務なし",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "毎月5日",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0080",
+      "category": "関係法令（一般）",
+      "question": "確認問題：年休が10日以上付与される労働者に対する使用者の年5日の取得義務として最も適切なのはどれか。",
+      "answer": "原則として付与日から1年以内",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "2年以内",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "3年以内",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "原則として付与日から1年以内",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "義務なし",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "毎月5日",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0081",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「雇入時の健康診断の基本的な対象」",
+      "answer": "常時使用する労働者",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "常時使用する労働者",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "役員のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "派遣先の管理者のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "希望者のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "満50歳以上のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0082",
+      "category": "関係法令（一般）",
+      "question": "確認問題：雇入時の健康診断の基本的な対象として最も適切なのはどれか。",
+      "answer": "常時使用する労働者",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "役員のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "派遣先の管理者のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "常時使用する労働者",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "希望者のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "満50歳以上のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0083",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「衛生推進者の選任が必要な規模の原則」",
+      "answer": "常時10人以上50人未満",
+      "issues": [
+        "template_wording",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "常時10人以上50人未満",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "5人未満",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "50人以上100人未満",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "100人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "500人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0084",
+      "category": "関係法令（一般）",
+      "question": "確認問題：衛生推進者の選任が必要な規模の原則として最も適切なのはどれか。",
+      "answer": "常時10人以上50人未満",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "5人未満",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "50人以上100人未満",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "常時10人以上50人未満",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "100人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "500人以上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0085",
+      "category": "関係法令（一般）",
+      "question": "次のテーマについて正しいものを選べ：「ストレスチェックで事業者が本人の同意なく取得できないもの」",
+      "answer": "個人の検査結果",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "個人の検査結果",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "実施者の所属部署",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "事業場の所在地",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "事業場の従業員数",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "年間の実施計画",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0086",
+      "category": "関係法令（一般）",
+      "question": "確認問題：ストレスチェックで事業者が本人の同意なく取得できないものとして最も適切なのはどれか。",
+      "answer": "個人の検査結果",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "実施者の所属部署",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "事業場の所在地",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "個人の検査結果",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "事業場の従業員数",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "年間の実施計画",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0089",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「化学物質の安全データシートの略称」",
+      "answer": "SDS",
+      "issues": [
+        "template_wording",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "SDS",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "GPS",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "GDP",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "CSR",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "SNS",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0090",
+      "category": "関係法令（有害）",
+      "question": "確認問題：化学物質の安全データシートの略称として最も適切なのはどれか。",
+      "answer": "SDS",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "GPS",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "GDP",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "SDS",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "CSR",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "SNS",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0091",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「有害な化学物質のリスクアセスメントで基本となる考え方」",
+      "answer": "危険有害性とばく露を評価する",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "危険有害性とばく露を評価する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "価格だけを調べる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "臭いの有無だけで安全判定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "作業者の慣れで評価する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "保護具を選ぶ前に評価を省略する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0092",
+      "category": "関係法令（有害）",
+      "question": "確認問題：有害な化学物質のリスクアセスメントで基本となる考え方として最も適切なのはどれか。",
+      "answer": "危険有害性とばく露を評価する",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "価格だけを調べる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "臭いの有無だけで安全判定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "危険有害性とばく露を評価する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "作業者の慣れで評価する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "保護具を選ぶ前に評価を省略する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0093",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「労働者が化学物質にばく露するのを減らすうえで優先する対策」",
+      "answer": "代替・密閉化・局所排気などの工学的対策",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "代替・密閉化・局所排気などの工学的対策",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "個人の我慢",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "臭いを隠す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "注意書きを撤去",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "換気設備を停止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0094",
+      "category": "関係法令（有害）",
+      "question": "確認問題：労働者が化学物質にばく露するのを減らすうえで優先する対策として最も適切なのはどれか。",
+      "answer": "代替・密閉化・局所排気などの工学的対策",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "個人の我慢",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "臭いを隠す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "代替・密閉化・局所排気などの工学的対策",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "注意書きを撤去",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "換気設備を停止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0095",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「有機溶剤等の蒸気の吸入防止に使う呼吸用保護具の例」",
+      "answer": "適切な吸収缶付き防毒マスク",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "適切な吸収缶付き防毒マスク",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "綿製マスクのみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "耳栓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護帽のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "防じんマスクなら全蒸気に万能",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0096",
+      "category": "関係法令（有害）",
+      "question": "確認問題：有機溶剤等の蒸気の吸入防止に使う呼吸用保護具の例として最も適切なのはどれか。",
+      "answer": "適切な吸収缶付き防毒マスク",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "綿製マスクのみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "耳栓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "適切な吸収缶付き防毒マスク",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護帽のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "防じんマスクなら全蒸気に万能",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0097",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「粉じんの吸入防止に用いる保護具の例」",
+      "answer": "適切な防じんマスク",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "適切な防じんマスク",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "耳栓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "遮光眼鏡のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "軍手のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "一般の布マスクのみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0098",
+      "category": "関係法令（有害）",
+      "question": "確認問題：粉じんの吸入防止に用いる保護具の例として最も適切なのはどれか。",
+      "answer": "適切な防じんマスク",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "耳栓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "遮光眼鏡のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "適切な防じんマスク",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "軍手のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "一般の布マスクのみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0099",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「局所排気装置で粉じん等を捕集する位置」",
+      "answer": "発生源の近く",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "発生源の近く",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "作業者の背後の遠方",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "建物の屋外だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "事務所の天井だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "換気扇を止めた状態",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0100",
+      "category": "関係法令（有害）",
+      "question": "確認問題：局所排気装置で粉じん等を捕集する位置として最も適切なのはどれか。",
+      "answer": "発生源の近く",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "作業者の背後の遠方",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "建物の屋外だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "発生源の近く",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "事務所の天井だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "換気扇を止めた状態",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0101",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「有害業務の作業環境測定の目的」",
+      "answer": "空気中有害因子の状態を把握して管理する",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "空気中有害因子の状態を把握して管理する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "売上高の予測",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "作業者の性格判定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "人員評価のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "商品の品質検査だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0102",
+      "category": "関係法令（有害）",
+      "question": "確認問題：有害業務の作業環境測定の目的として最も適切なのはどれか。",
+      "answer": "空気中有害因子の状態を把握して管理する",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "売上高の予測",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "作業者の性格判定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "空気中有害因子の状態を把握して管理する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "人員評価のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "商品の品質検査だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0103",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「鉛業務で健康障害の予防に重要な行動」",
+      "answer": "作業場で飲食や喫煙を避け手洗いする",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "作業場で飲食や喫煙を避け手洗いする",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "汚れた手で飲食する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "作業着のまま食事する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護具を共有し清掃しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "作業後に手洗いを省略する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0104",
+      "category": "関係法令（有害）",
+      "question": "確認問題：鉛業務で健康障害の予防に重要な行動として最も適切なのはどれか。",
+      "answer": "作業場で飲食や喫煙を避け手洗いする",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "汚れた手で飲食する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "作業着のまま食事する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "作業場で飲食や喫煙を避け手洗いする",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護具を共有し清掃しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "作業後に手洗いを省略する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0107",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「有機溶剤等の作業主任者の主な役割」",
+      "answer": "作業方法の決定や換気設備の点検など",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "作業方法の決定や換気設備の点検など",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "給与計算のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "税務申告のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "商品の販売のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "通勤手当の審査のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0108",
+      "category": "関係法令（有害）",
+      "question": "確認問題：有機溶剤等の作業主任者の主な役割として最も適切なのはどれか。",
+      "answer": "作業方法の決定や換気設備の点検など",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "給与計算のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "税務申告のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "作業方法の決定や換気設備の点検など",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "商品の販売のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "通勤手当の審査のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0109",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「電離放射線障害防止で基本となる三原則」",
+      "answer": "時間・距離・遮へい",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "時間・距離・遮へい",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "温度・湿度・照度",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "睡眠・運動・食事",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "騒音・振動・光",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "速度・重量・面積",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0110",
+      "category": "関係法令（有害）",
+      "question": "確認問題：電離放射線障害防止で基本となる三原則として最も適切なのはどれか。",
+      "answer": "時間・距離・遮へい",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "温度・湿度・照度",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "睡眠・運動・食事",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "時間・距離・遮へい",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "騒音・振動・光",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "速度・重量・面積",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0111",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「騒音性難聴の予防でまず検討すること」",
+      "answer": "騒音源の低減や遮音等の対策",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "騒音源の低減や遮音等の対策",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "耳鳴りを放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "大声で会話する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "騒音をさらに増やす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "健康診断だけで作業改善しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0112",
+      "category": "関係法令（有害）",
+      "question": "確認問題：騒音性難聴の予防でまず検討することとして最も適切なのはどれか。",
+      "answer": "騒音源の低減や遮音等の対策",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "耳鳴りを放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "大声で会話する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "騒音源の低減や遮音等の対策",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "騒音をさらに増やす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "健康診断だけで作業改善しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0113",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「有害なガスや蒸気の発生源を囲い込む対策」",
+      "answer": "密閉化",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "密閉化",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "希釈せず放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "発生源を開放",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護具の撤去",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "喫煙",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0114",
+      "category": "関係法令（有害）",
+      "question": "確認問題：有害なガスや蒸気の発生源を囲い込む対策として最も適切なのはどれか。",
+      "answer": "密閉化",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "希釈せず放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "発生源を開放",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "密閉化",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護具の撤去",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "喫煙",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0115",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「皮膚から吸収される化学物質への対策」",
+      "answer": "耐透過性を確認した適切な化学防護手袋",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "耐透過性を確認した適切な化学防護手袋",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "綿手袋なら万能",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "裸手作業が基本",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "目薬のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "耳栓のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0116",
+      "category": "関係法令（有害）",
+      "question": "確認問題：皮膚から吸収される化学物質への対策として最も適切なのはどれか。",
+      "answer": "耐透過性を確認した適切な化学防護手袋",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "綿手袋なら万能",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "裸手作業が基本",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "耐透過性を確認した適切な化学防護手袋",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "目薬のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "耳栓のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0117",
+      "category": "関係法令（有害）",
+      "question": "次のテーマについて正しいものを選べ：「容器ラベルが示す重要な情報」",
+      "answer": "化学品の危険有害性",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "化学品の危険有害性",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "従業員の勤怠",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "売上利益",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "作業者の身長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "設備の耐用年数",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0118",
+      "category": "関係法令（有害）",
+      "question": "確認問題：容器ラベルが示す重要な情報として最も適切なのはどれか。",
+      "answer": "化学品の危険有害性",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "law_as_of_required",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "従業員の勤怠",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "売上利益",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "化学品の危険有害性",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "作業者の身長",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "設備の耐用年数",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0119",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「健康管理の三管理の一つ」",
+      "answer": "健康管理",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "健康管理",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "財務管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "在庫管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "販売管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "広報管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0120",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：健康管理の三管理の一つとして最も適切なのはどれか。",
+      "answer": "健康管理",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "財務管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "在庫管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "健康管理",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "販売管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "広報管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0121",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「労働衛生の三管理に含まれるもの」",
+      "answer": "作業環境管理",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "作業環境管理",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "利益管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "労務費配賦",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "知的財産管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "顧客管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0122",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：労働衛生の三管理に含まれるものとして最も適切なのはどれか。",
+      "answer": "作業環境管理",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "利益管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "労務費配賦",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "作業環境管理",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "知的財産管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "顧客管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0123",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「労働衛生の三管理に含まれるもの（作業方法に関する管理）」",
+      "answer": "作業管理",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "作業管理",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "広告管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "購買管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "原価管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "契約管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0124",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：労働衛生の三管理に含まれるもの（作業方法に関する管理）として最も適切なのはどれか。",
+      "answer": "作業管理",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "広告管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "購買管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "作業管理",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "原価管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "契約管理",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0125",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「職場での受動喫煙防止策として適切なもの」",
+      "answer": "法令に応じた屋内禁煙等の措置",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "法令に応じた屋内禁煙等の措置",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "分煙表示だけで常に十分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "換気なしの喫煙",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "喫煙場所を自由に増やす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "受動喫煙を放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0126",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：職場での受動喫煙防止策として適切なものとして最も適切なのはどれか。",
+      "answer": "法令に応じた屋内禁煙等の措置",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "分煙表示だけで常に十分",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "換気なしの喫煙",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "法令に応じた屋内禁煙等の措置",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "喫煙場所を自由に増やす",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "受動喫煙を放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0127",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「VDT作業などで眼精疲労を防ぐために見直す項目」",
+      "answer": "照明・画面位置・休止時間",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "照明・画面位置・休止時間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "画面の輝度を最大固定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "まばたきを禁止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "長時間連続作業",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "画面に極端に近づく",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0128",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：VDT作業などで眼精疲労を防ぐために見直す項目として最も適切なのはどれか。",
+      "answer": "照明・画面位置・休止時間",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "画面の輝度を最大固定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "まばたきを禁止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "照明・画面位置・休止時間",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "長時間連続作業",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "画面に極端に近づく",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0129",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「熱中症予防で暑熱環境の評価に用いられる指標」",
+      "answer": "WBGT",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "WBGT",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "BMI",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "GDP",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "GNP",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "HbA1c",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0130",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：熱中症予防で暑熱環境の評価に用いられる指標として最も適切なのはどれか。",
+      "answer": "WBGT",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "BMI",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "GDP",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "WBGT",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "GNP",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "HbA1c",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0131",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「心肺蘇生で意識と正常な呼吸がないときの基本対応」",
+      "answer": "119番通報・AED手配・胸骨圧迫",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "119番通報・AED手配・胸骨圧迫",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "様子見だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "水を飲ませる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "一人で帰宅させる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "体温を測るまで放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0132",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：心肺蘇生で意識と正常な呼吸がないときの基本対応として最も適切なのはどれか。",
+      "answer": "119番通報・AED手配・胸骨圧迫",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "様子見だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "水を飲ませる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "119番通報・AED手配・胸骨圧迫",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "一人で帰宅させる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "体温を測るまで放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0133",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「感染症予防の基本的な対策」",
+      "answer": "手指衛生と適切な換気",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "手指衛生と適切な換気",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "体調不良でも無条件に出勤",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "共用物品を清掃しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "換気を止める",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "手洗いをしない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0134",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：感染症予防の基本的な対策として最も適切なのはどれか。",
+      "answer": "手指衛生と適切な換気",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "体調不良でも無条件に出勤",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "共用物品を清掃しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "手指衛生と適切な換気",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "換気を止める",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "手洗いをしない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0135",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「腰痛予防で重量物を扱う際に有効な対策」",
+      "answer": "機械化・補助具の使用",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "機械化・補助具の使用",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "無理な前かがみを維持",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "反動をつけた持ち上げ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "重量を確認しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "体から遠ざけて持つ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0136",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：腰痛予防で重量物を扱う際に有効な対策として最も適切なのはどれか。",
+      "answer": "機械化・補助具の使用",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "無理な前かがみを維持",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "反動をつけた持ち上げ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "機械化・補助具の使用",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "重量を確認しない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "体から遠ざけて持つ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0137",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「メンタルヘルス対策に含まれる一次予防」",
+      "answer": "ストレス要因を減らす職場環境改善",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "ストレス要因を減らす職場環境改善",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "復職後の支援だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "疾病の治療だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "休職命令だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "診断書の保管のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0138",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：メンタルヘルス対策に含まれる一次予防として最も適切なのはどれか。",
+      "answer": "ストレス要因を減らす職場環境改善",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "復職後の支援だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "疾病の治療だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "ストレス要因を減らす職場環境改善",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "休職命令だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "診断書の保管のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0139",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「メンタルヘルス対策に含まれる二次予防」",
+      "answer": "不調の早期発見・早期対応",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "不調の早期発見・早期対応",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "設備投資計画",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "人事制度の広報のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "出張精算",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "復職支援だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0140",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：メンタルヘルス対策に含まれる二次予防として最も適切なのはどれか。",
+      "answer": "不調の早期発見・早期対応",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "設備投資計画",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "人事制度の広報のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "不調の早期発見・早期対応",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "出張精算",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "復職支援だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0141",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「メンタルヘルス対策に含まれる三次予防」",
+      "answer": "職場復帰支援・再発防止",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "職場復帰支援・再発防止",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "採用面接のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "安全標識の塗り替え",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "ストレス源の放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "退職の強制",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0142",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：メンタルヘルス対策に含まれる三次予防として最も適切なのはどれか。",
+      "answer": "職場復帰支援・再発防止",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "採用面接のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "安全標識の塗り替え",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "職場復帰支援・再発防止",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "ストレス源の放置",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "退職の強制",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0143",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「健康診断後の事後措置の目的」",
+      "answer": "就業上の措置や保健指導につなげる",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "就業上の措置や保健指導につなげる",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "結果を放置する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "結果を本人に知らせない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "異常所見を無視する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "給与のみを変更する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0144",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：健康診断後の事後措置の目的として最も適切なのはどれか。",
+      "answer": "就業上の措置や保健指導につなげる",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "結果を放置する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "結果を本人に知らせない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "就業上の措置や保健指導につなげる",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "異常所見を無視する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "給与のみを変更する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0145",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「十分な睡眠が不足した状態で起きやすいこと」",
+      "answer": "注意力低下・事故リスク上昇",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "注意力低下・事故リスク上昇",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "反応速度が必ず向上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "疲労が完全消失",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "集中力が必ず増す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "眠気を感じない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0146",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：十分な睡眠が不足した状態で起きやすいこととして最も適切なのはどれか。",
+      "answer": "注意力低下・事故リスク上昇",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "反応速度が必ず向上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "疲労が完全消失",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "注意力低下・事故リスク上昇",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "集中力が必ず増す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "眠気を感じない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0147",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「室内空気環境に関する管理で重要なもの」",
+      "answer": "換気の確保",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "換気の確保",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "換気口を全閉",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "CO2濃度を無視",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "空調の点検をしない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "密閉を優先",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0148",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：室内空気環境に関する管理で重要なものとして最も適切なのはどれか。",
+      "answer": "換気の確保",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "換気口を全閉",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "CO2濃度を無視",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "換気の確保",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "空調の点検をしない",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "密閉を優先",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0149",
+      "category": "労働衛生（一般）",
+      "question": "次のテーマについて正しいものを選べ：「健康相談における個人情報の取り扱い」",
+      "answer": "必要な範囲で適切に保護する",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "必要な範囲で適切に保護する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "無断で全社員に公開",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "SNSに投稿",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "私用で転送",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "本人への説明を省略",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0150",
+      "category": "労働衛生（一般）",
+      "question": "確認問題：健康相談における個人情報の取り扱いとして最も適切なのはどれか。",
+      "answer": "必要な範囲で適切に保護する",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "無断で全社員に公開",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "SNSに投稿",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "必要な範囲で適切に保護する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "私用で転送",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "本人への説明を省略",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0151",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「高温環境で起こりやすい健康障害」",
+      "answer": "熱中症",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "熱中症",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "潜水病",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "白内障のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "高山病のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "放射線障害のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0152",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：高温環境で起こりやすい健康障害として最も適切なのはどれか。",
+      "answer": "熱中症",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "潜水病",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "白内障のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "熱中症",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "高山病のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "放射線障害のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0153",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「高圧環境からの急な減圧に関連する障害」",
+      "answer": "減圧症",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "減圧症",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "熱中症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "花粉症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "皮膚炎のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0154",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：高圧環境からの急な減圧に関連する障害として最も適切なのはどれか。",
+      "answer": "減圧症",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "熱中症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "花粉症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "減圧症",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "皮膚炎のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0155",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「低温環境への長時間ばく露で起こり得るもの」",
+      "answer": "低体温症",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "低体温症",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "熱射病のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "有機溶剤中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0156",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：低温環境への長時間ばく露で起こり得るものとして最も適切なのはどれか。",
+      "answer": "低体温症",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "熱射病のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "低体温症",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "有機溶剤中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0157",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「紫外線ばく露による障害の一例」",
+      "answer": "電気性眼炎",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "電気性眼炎",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "振動障害",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0158",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：紫外線ばく露による障害の一例として最も適切なのはどれか。",
+      "answer": "電気性眼炎",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "電気性眼炎",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "振動障害",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0159",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「赤外線への長期ばく露で関連する眼の障害」",
+      "answer": "白内障",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "白内障",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "騒音性難聴",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0160",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：赤外線への長期ばく露で関連する眼の障害として最も適切なのはどれか。",
+      "answer": "白内障",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "白内障",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "騒音性難聴",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0161",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「振動工具を長年使用すると生じ得る障害」",
+      "answer": "手指の末梢循環障害",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "手指の末梢循環障害",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "熱中症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "中毒性肝炎のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0162",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：振動工具を長年使用すると生じ得る障害として最も適切なのはどれか。",
+      "answer": "手指の末梢循環障害",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "減圧症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "手指の末梢循環障害",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "熱中症",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "中毒性肝炎のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0163",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「じん肺の主な発生原因」",
+      "answer": "鉱物性粉じんなどの長期間の吸入",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "鉱物性粉じんなどの長期間の吸入",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "騒音のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "画面作業のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "飲水不足のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "短時間の会話",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0164",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：じん肺の主な発生原因として最も適切なのはどれか。",
+      "answer": "鉱物性粉じんなどの長期間の吸入",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "騒音のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "画面作業のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "鉱物性粉じんなどの長期間の吸入",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "飲水不足のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "短時間の会話",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0165",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「一酸化炭素中毒の主な機序」",
+      "answer": "ヘモグロビンへの結合により酸素運搬を妨げる",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "ヘモグロビンへの結合により酸素運搬を妨げる",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "骨密度を急上昇させる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "視力が必ず改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "血糖を必ず下げる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "酸素運搬を促進",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0166",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：一酸化炭素中毒の主な機序として最も適切なのはどれか。",
+      "answer": "ヘモグロビンへの結合により酸素運搬を妨げる",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "骨密度を急上昇させる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "視力が必ず改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "ヘモグロビンへの結合により酸素運搬を妨げる",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "血糖を必ず下げる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "酸素運搬を促進",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0167",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「硫化水素の高濃度ばく露で特に危険なこと」",
+      "answer": "急激な意識消失や呼吸障害",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "急激な意識消失や呼吸障害",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "必ず皮膚が青くなるだけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "視力改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "食欲増進",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "花粉症だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0168",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：硫化水素の高濃度ばく露で特に危険なこととして最も適切なのはどれか。",
+      "answer": "急激な意識消失や呼吸障害",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "必ず皮膚が青くなるだけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "視力改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "急激な意識消失や呼吸障害",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "食欲増進",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "花粉症だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0169",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「有機溶剤で急性中毒の症状になり得るもの」",
+      "answer": "頭痛・めまい・意識障害",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "頭痛・めまい・意識障害",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "骨折だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "歯の変色だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "視力の恒久的向上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "聴力の改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0170",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：有機溶剤で急性中毒の症状になり得るものとして最も適切なのはどれか。",
+      "answer": "頭痛・めまい・意識障害",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "骨折だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "歯の変色だけ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "頭痛・めまい・意識障害",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "視力の恒久的向上",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "聴力の改善",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0171",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「騒音への長期ばく露で代表的な健康障害」",
+      "answer": "騒音性難聴",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "騒音性難聴",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "潜水病",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "紫外線角膜炎",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0172",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：騒音への長期ばく露で代表的な健康障害として最も適切なのはどれか。",
+      "answer": "騒音性難聴",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "じん肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "潜水病",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "騒音性難聴",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "紫外線角膜炎",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "鉛中毒",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0173",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「粉じんが発生する作業の環境対策」",
+      "answer": "発生源の囲い込み・局所排気",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "発生源の囲い込み・局所排気",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "ほうきで舞い上げる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "防護設備を外す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "空調停止のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "マスクだけに依存",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0174",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：粉じんが発生する作業の環境対策として最も適切なのはどれか。",
+      "answer": "発生源の囲い込み・局所排気",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "ほうきで舞い上げる",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "防護設備を外す",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "発生源の囲い込み・局所排気",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "空調停止のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "マスクだけに依存",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0175",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「強いレーザー光線を扱う際の保護」",
+      "answer": "波長と出力に適合した保護眼鏡",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "波長と出力に適合した保護眼鏡",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "普通のサングラスで万能",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "保護具不要",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "耳栓のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "素手で遮光",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0176",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：強いレーザー光線を扱う際の保護として最も適切なのはどれか。",
+      "answer": "波長と出力に適合した保護眼鏡",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "普通のサングラスで万能",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "保護具不要",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "波長と出力に適合した保護眼鏡",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "耳栓のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "素手で遮光",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0177",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「放射線の被ばく管理に使われる測定器の例」",
+      "answer": "個人線量計",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "個人線量計",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "騒音計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "風速計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "照度計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "湿度計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0178",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：放射線の被ばく管理に使われる測定器の例として最も適切なのはどれか。",
+      "answer": "個人線量計",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "騒音計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "風速計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "個人線量計",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "照度計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "湿度計のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0179",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「呼吸用保護具を適切に着用できているかを調べること」",
+      "answer": "フィットテスト等",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "フィットテスト等",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "在庫棚卸し",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "視力測定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "心電図のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "原価計算",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0180",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：呼吸用保護具を適切に着用できているかを調べることとして最も適切なのはどれか。",
+      "answer": "フィットテスト等",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "在庫棚卸し",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "視力測定",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "フィットテスト等",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "心電図のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "原価計算",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0181",
+      "category": "労働衛生（有害）",
+      "question": "次のテーマについて正しいものを選べ：「有害化学物質のばく露低減で不適切な行動」",
+      "answer": "密閉設備を勝手に開放する",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "密閉設備を勝手に開放する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "SDSを確認する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "適切な換気を使う",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護具を選ぶ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "作業手順を守る",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0182",
+      "category": "労働衛生（有害）",
+      "question": "確認問題：有害化学物質のばく露低減で不適切な行動として最も適切なのはどれか。",
+      "answer": "密閉設備を勝手に開放する",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "SDSを確認する",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "適切な換気を使う",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "密閉設備を勝手に開放する",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "保護具を選ぶ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "作業手順を守る",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0183",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「血液中で酸素の運搬を担う主な成分」",
+      "answer": "ヘモグロビン",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "ヘモグロビン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "フィブリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "インスリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "胆汁",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "ペプシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0184",
+      "category": "労働生理",
+      "question": "確認問題：血液中で酸素の運搬を担う主な成分として最も適切なのはどれか。",
+      "answer": "ヘモグロビン",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "フィブリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "インスリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "ヘモグロビン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "胆汁",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "ペプシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0185",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「血液凝固に重要な細胞成分」",
+      "answer": "血小板",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "血小板",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "赤血球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "好酸球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "神経細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "肝細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0186",
+      "category": "労働生理",
+      "question": "確認問題：血液凝固に重要な細胞成分として最も適切なのはどれか。",
+      "answer": "血小板",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "赤血球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "好酸球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "血小板",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "神経細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "肝細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0187",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「感染防御に関与する血液細胞」",
+      "answer": "白血球",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "白血球",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "赤血球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "血小板のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "脂肪細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "骨細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0188",
+      "category": "労働生理",
+      "question": "確認問題：感染防御に関与する血液細胞として最も適切なのはどれか。",
+      "answer": "白血球",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "赤血球",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "血小板のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "白血球",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "脂肪細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "骨細胞",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0189",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「心臓から全身へ血液を送り出す部屋」",
+      "answer": "左心室",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "左心室",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "右心房",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "左心房",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "右心室",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "冠静脈",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0190",
+      "category": "労働生理",
+      "question": "確認問題：心臓から全身へ血液を送り出す部屋として最も適切なのはどれか。",
+      "answer": "左心室",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "右心房",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "左心房",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "左心室",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "右心室",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "冠静脈",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0191",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「肺でのガス交換が行われる主な部位」",
+      "answer": "肺胞",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "肺胞",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "気管",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "咽頭",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "鼻腔",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "食道",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0192",
+      "category": "労働生理",
+      "question": "確認問題：肺でのガス交換が行われる主な部位として最も適切なのはどれか。",
+      "answer": "肺胞",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "気管",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "咽頭",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "肺胞",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "鼻腔",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "食道",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0193",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「呼吸運動で主要な役割を果たす筋肉」",
+      "answer": "横隔膜",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "横隔膜",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "咬筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "上腕二頭筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "大腿四頭筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "表情筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0194",
+      "category": "労働生理",
+      "question": "確認問題：呼吸運動で主要な役割を果たす筋肉として最も適切なのはどれか。",
+      "answer": "横隔膜",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "咬筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "上腕二頭筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "横隔膜",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "大腿四頭筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "表情筋",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0195",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「体内の血糖値を下げるホルモン」",
+      "answer": "インスリン",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "インスリン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "グルカゴン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "アドレナリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "コルチゾール",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "成長ホルモン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0196",
+      "category": "労働生理",
+      "question": "確認問題：体内の血糖値を下げるホルモンとして最も適切なのはどれか。",
+      "answer": "インスリン",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "グルカゴン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "アドレナリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "インスリン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "コルチゾール",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "成長ホルモン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0197",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「血糖値を上げる働きがある膵臓のホルモン」",
+      "answer": "グルカゴン",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "グルカゴン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "インスリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "メラトニン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "オキシトシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "カルシトニン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0198",
+      "category": "労働生理",
+      "question": "確認問題：血糖値を上げる働きがある膵臓のホルモンとして最も適切なのはどれか。",
+      "answer": "グルカゴン",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "インスリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "メラトニン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "グルカゴン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "オキシトシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "カルシトニン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0199",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「胆汁を生成する臓器」",
+      "answer": "肝臓",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "肝臓",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "腎臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "膵臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "胃",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "脾臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0200",
+      "category": "労働生理",
+      "question": "確認問題：胆汁を生成する臓器として最も適切なのはどれか。",
+      "answer": "肝臓",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "腎臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "膵臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "肝臓",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "胃",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "脾臓",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0201",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「尿を生成する臓器」",
+      "answer": "腎臓",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "腎臓",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "胆のう",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "胃",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "甲状腺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0202",
+      "category": "労働生理",
+      "question": "確認問題：尿を生成する臓器として最も適切なのはどれか。",
+      "answer": "腎臓",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "胆のう",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "胃",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "腎臓",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "甲状腺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "肺",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0203",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「主に栄養素を吸収する消化管」",
+      "answer": "小腸",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "小腸",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "食道",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "大腸のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "口腔",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "咽頭",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0204",
+      "category": "労働生理",
+      "question": "確認問題：主に栄養素を吸収する消化管として最も適切なのはどれか。",
+      "answer": "小腸",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "食道",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "大腸のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "小腸",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "口腔",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "咽頭",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0205",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「タンパク質の消化を始める胃の酵素」",
+      "answer": "ペプシン",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "ペプシン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "アミラーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "リパーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "ラクターゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "インスリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0206",
+      "category": "労働生理",
+      "question": "確認問題：タンパク質の消化を始める胃の酵素として最も適切なのはどれか。",
+      "answer": "ペプシン",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "アミラーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "リパーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "ペプシン",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "ラクターゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "インスリン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0207",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「唾液に含まれデンプンを分解する酵素」",
+      "answer": "アミラーゼ",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "アミラーゼ",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "ペプシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "トリプシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "リパーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "ペプチダーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0208",
+      "category": "労働生理",
+      "question": "確認問題：唾液に含まれデンプンを分解する酵素として最も適切なのはどれか。",
+      "answer": "アミラーゼ",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "ペプシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "トリプシン",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "アミラーゼ",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "リパーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "ペプチダーゼ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0209",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「体温調節の中枢がある部位」",
+      "answer": "視床下部",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "視床下部",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "延髄の運動野",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "小脳皮質のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "海馬のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "脊髄後根のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0210",
+      "category": "労働生理",
+      "question": "確認問題：体温調節の中枢がある部位として最も適切なのはどれか。",
+      "answer": "視床下部",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "延髄の運動野",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "小脳皮質のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "視床下部",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "海馬のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "脊髄後根のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0211",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「交感神経が優位なときに一般的に起こること」",
+      "answer": "心拍数の増加",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "心拍数の増加",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "心拍数の著しい低下",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "消化管運動の一律促進",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "瞳孔の縮小",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "発汗の完全停止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0212",
+      "category": "労働生理",
+      "question": "確認問題：交感神経が優位なときに一般的に起こることとして最も適切なのはどれか。",
+      "answer": "心拍数の増加",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "心拍数の著しい低下",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "消化管運動の一律促進",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "心拍数の増加",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "瞳孔の縮小",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "発汗の完全停止",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0213",
+      "category": "労働生理",
+      "question": "次のテーマについて正しいものを選べ：「副交感神経が優位なときに一般的に起こること」",
+      "answer": "消化管運動の促進",
+      "issues": [
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P2",
+      "optionChecks": {
+        "0": {
+          "text": "消化管運動の促進",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "心拍の必ず倍増",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "瞳孔の散大のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "発汗の増加のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "血糖値の急上昇のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    },
+    {
+      "id": "EISEI1-0214",
+      "category": "労働生理",
+      "question": "確認問題：副交感神経が優位なときに一般的に起こることとして最も適切なのはどれか。",
+      "answer": "消化管運動の促進",
+      "issues": [
+        "near_duplicate_previous",
+        "template_wording",
+        "short_explanation",
+        "human_approval_missing"
+      ],
+      "priority": "P1",
+      "optionChecks": {
+        "0": {
+          "text": "心拍の必ず倍増",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "1": {
+          "text": "瞳孔の散大のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "2": {
+          "text": "消化管運動の促進",
+          "isKey": true,
+          "checkedAgainstSource": false
+        },
+        "3": {
+          "text": "発汗の増加のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        },
+        "4": {
+          "text": "血糖値の急上昇のみ",
+          "isKey": false,
+          "checkedAgainstSource": false
+        }
+      },
+      "approval": "HOLD"
+    }
+  ]
+}
