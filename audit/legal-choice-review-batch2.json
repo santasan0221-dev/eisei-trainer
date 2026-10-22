@@ -1,0 +1,609 @@
+{
+  "version": 1,
+  "asOf": "2026-10-22",
+  "approval": "HOLD",
+  "items": [
+    {
+      "id": "EISEI1-0011",
+      "question": "一般健康診断の定期健康診断は原則としてどの頻度？",
+      "answerIndex": 1,
+      "answer": "1年以内ごと",
+      "choices": [
+        {
+          "index": 0,
+          "text": "6か月以内ごと",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "1年以内ごと",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "2年以内ごと",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "3年以内ごと",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "5年以内ごと",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "安衛則第44条の定期健康診断。特定業務従事者は別の頻度",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0012",
+      "question": "一般の雇入時健康診断について正しいものは？",
+      "answerIndex": 1,
+      "answer": "常時使用する労働者を雇い入れる際に行う",
+      "choices": [
+        {
+          "index": 0,
+          "text": "原則として実施義務がない",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "常時使用する労働者を雇い入れる際に行う",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "入社3年後に行う",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "本人希望者だけ行う",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "50人以上の事業場のみ行う",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "安衛則第43条、雇入時健診と一定条件での項目省略",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0013",
+      "question": "定期健康診断の結果に基づく健康診断個人票の原則保存期間は？",
+      "answerIndex": 3,
+      "answer": "5年",
+      "choices": [
+        {
+          "index": 0,
+          "text": "1年",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "2年",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "3年",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "5年",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "10年",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "安衛則第51条、健診個人票の5年保存",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0015",
+      "question": "年次有給休暇の付与要件に関する正しい説明は？",
+      "answerIndex": 1,
+      "answer": "継続勤務6か月＋全労働日の8割以上出勤",
+      "choices": [
+        {
+          "index": 0,
+          "text": "出勤率6割以上",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "継続勤務6か月＋全労働日の8割以上出勤",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "勤続3年のみ",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "正社員だけ対象",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "会社が自由に付与しないと決められる",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roudouzikan/index.html",
+      "sourceNote": "労基法第39条、6か月継続勤務と8割出勤",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0016",
+      "question": "法定労働時間の原則は？",
+      "answerIndex": 1,
+      "answer": "1日8時間・週40時間",
+      "choices": [
+        {
+          "index": 0,
+          "text": "1日7時間・週35時間",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "1日8時間・週40時間",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "1日9時間・週45時間",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "1日10時間・週50時間",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "1日12時間・週48時間",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roudouzikan/index.html",
+      "sourceNote": "労基法第32条、原則週40時間・1日8時間、例外あり",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0023",
+      "question": "健康診断で有所見者が出た場合に事業者が行う適切な対応は？",
+      "answerIndex": 1,
+      "answer": "医師等の意見を聴き必要な就業上の措置を検討",
+      "choices": [
+        {
+          "index": 0,
+          "text": "必ず直ちに解雇",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "医師等の意見を聴き必要な就業上の措置を検討",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "結果を掲示板に公開",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "何もしなくてよい",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "全員を配置転換",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "安衛法第66条の4・5、医師等意見と就業措置",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0065",
+      "question": "次のテーマについて正しいものを選べ：「健康診断の結果、異常所見がある労働者に対する医師等の意見聴取」",
+      "answerIndex": 0,
+      "answer": "健康診断実施後3か月以内",
+      "choices": [
+        {
+          "index": 0,
+          "text": "健康診断実施後3か月以内",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "実施後1週間以内",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "実施後6か月以内",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "実施後1年以内",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "意見聴取は不要",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "安衛則第51条の2、原則3か月／自発的健診は2か月",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0066",
+      "question": "確認問題：健康診断の結果、異常所見がある労働者に対する医師等の意見聴取として最も適切なのはどれか。",
+      "answerIndex": 2,
+      "answer": "健康診断実施後3か月以内",
+      "choices": [
+        {
+          "index": 0,
+          "text": "実施後1週間以内",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "実施後6か月以内",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "健康診断実施後3か月以内",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "実施後1年以内",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "意見聴取は不要",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "安衛則第51条の2、原則3か月／自発的健診は2か月",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0077",
+      "question": "次のテーマについて正しいものを選べ：「6か月継続勤務し全労働日の8割以上出勤した一般労働者の初年度年休」",
+      "answerIndex": 0,
+      "answer": "10日",
+      "choices": [
+        {
+          "index": 0,
+          "text": "10日",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "5日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "7日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "8日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "12日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roudouzikan/index.html",
+      "sourceNote": "労基法第39条、一般労働者初年度10日、比例付与との区別",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0078",
+      "question": "確認問題：6か月継続勤務し全労働日の8割以上出勤した一般労働者の初年度年休として最も適切なのはどれか。",
+      "answerIndex": 2,
+      "answer": "10日",
+      "choices": [
+        {
+          "index": 0,
+          "text": "5日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "7日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "10日",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "8日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "12日",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roudouzikan/index.html",
+      "sourceNote": "労基法第39条、一般労働者初年度10日、比例付与との区別",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0087",
+      "question": "次のテーマについて正しいものを選べ：「粉じん作業の一部で必要な特殊健康診断」",
+      "answerIndex": 0,
+      "answer": "じん肺健康診断",
+      "choices": [
+        {
+          "index": 0,
+          "text": "じん肺健康診断",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "雇入時のみの一般健診",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "歯科健診のみ",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "視力検査のみ",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "任意の体力測定",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/law/335AC0000000030",
+      "sourceNote": "じん肺法のじん肺健康診断、対象作業・管理区分",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0088",
+      "question": "確認問題：粉じん作業の一部で必要な特殊健康診断として最も適切なのはどれか。",
+      "answerIndex": 2,
+      "answer": "じん肺健康診断",
+      "choices": [
+        {
+          "index": 0,
+          "text": "雇入時のみの一般健診",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "歯科健診のみ",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "じん肺健康診断",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "視力検査のみ",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "任意の体力測定",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/law/335AC0000000030",
+      "sourceNote": "じん肺法のじん肺健康診断、対象作業・管理区分",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0105",
+      "question": "次のテーマについて正しいものを選べ：「特殊健康診断と一般健康診断の関係」",
+      "answerIndex": 0,
+      "answer": "対象となれば両方を受ける場合がある",
+      "choices": [
+        {
+          "index": 0,
+          "text": "対象となれば両方を受ける場合がある",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "どちらか一方しか受けられない",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "特殊健診は任意のみ",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "一般健診が特殊健診を全て代替する",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "特殊健診は全労働者に一律",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "一般健康診断と特殊健康診断の法定対象は別々に判定",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    },
+    {
+      "id": "EISEI1-0106",
+      "question": "確認問題：特殊健康診断と一般健康診断の関係として最も適切なのはどれか。",
+      "answerIndex": 2,
+      "answer": "対象となれば両方を受ける場合がある",
+      "choices": [
+        {
+          "index": 0,
+          "text": "どちらか一方しか受けられない",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 1,
+          "text": "特殊健診は任意のみ",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 2,
+          "text": "対象となれば両方を受ける場合がある",
+          "classification": "intended_correct",
+          "individuallyVerified": false
+        },
+        {
+          "index": 3,
+          "text": "一般健診が特殊健診を全て代替する",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        },
+        {
+          "index": 4,
+          "text": "特殊健診は全労働者に一律",
+          "classification": "candidate_incorrect",
+          "individuallyVerified": false
+        }
+      ],
+      "sourceUrl": "https://laws.e-gov.go.jp/document?lawid=347M50002000032_20260101_507M60000100097",
+      "sourceNote": "一般健康診断と特殊健康診断の法定対象は別々に判定",
+      "allChoicesVerified": false,
+      "expertApproved": false,
+      "disposition": "HOLD_REVIEW"
+    }
+  ]
+}
